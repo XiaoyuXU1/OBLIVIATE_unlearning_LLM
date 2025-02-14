@@ -429,8 +429,8 @@ if __name__ == "__main__":
         train_dataset = forget_10["train"]
         document_list = compress_list([f"{q}: {a}" for q, a in zip(train_dataset["question"], train_dataset["answer"])], target_size=len(train_dataset))
         # # MIAs and Fluency
-        # process_documents(document_list, args.output_dir, lora_model, reference_model, tokenizer, reference_tokenizer, device, device, seq_length=128, stride=127)
-        # compute_average_metrics(args.output_dir)
+        process_documents(document_list, args.output_dir, lora_model, reference_model, tokenizer, reference_tokenizer, device, device, seq_length=128, stride=127)
+        compute_average_metrics(args.output_dir)
         forget_questions = load_questions('data/TOFU/fluency_questions/forget_set.txt')
         retain_questions = load_questions('data/TOFU/fluency_questions/common_questions.txt')
         answers = generate_answers(lora_model, tokenizer, forget_questions + retain_questions)
