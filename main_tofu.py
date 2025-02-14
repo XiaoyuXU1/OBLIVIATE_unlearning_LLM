@@ -659,20 +659,6 @@ def main():
         )
         end_time = time.time()
         print(f"Training time: {end_time - start_time:.2f} seconds")
-        
-        # Clear cache
-        # Ensure all processes synchronize
-        if torch.distributed.is_initialized():
-            torch.distributed.barrier()
-        
-        del model, tokenizer, teacher_model, dataloader, dataset, documents, generic_documents, approximate_documents, sensitive_tokens
-        gc.collect()
-        torch.cuda.empty_cache()
-        
-        # Synchronize again to ensure GPU memory cleanup is complete
-        if torch.distributed.is_initialized():
-            torch.distributed.barrier()
-        print(f"Iteration {i} completed and memory cleared.")
 
 if __name__ == "__main__":
     main()
