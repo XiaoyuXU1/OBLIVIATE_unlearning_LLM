@@ -1,0 +1,3702 @@
+﻿The Project Gutenberg eBook of Big lake
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Big lake
+        A tragedy in two parts
+
+Author: Lynn Riggs
+
+Release date: May 16, 2023 [eBook #70780]
+
+Language: English
+
+Original publication: United States: Samuel French
+
+Credits: Bob Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK BIG LAKE ***
+
+
+
+
+
+  Transcriber’s Note
+  Italic text displayed as: _italic_
+
+
+
+
+  BIG LAKE
+
+  _A Tragedy in
+  Two Parts_
+
+
+
+
+PLAYS BY
+
+LYNN RIGGS
+
+
+  KNIVES FROM SYRIA. Comedy in 1 act. In _One-Act Plays for Stage and
+  Study, 3rd Series_. Samuel French.
+
+  BIG LAKE. Tragedy in 2 Parts. Samuel French.
+
+  SUMP’N LIKE WINGS. Not published.
+
+  A LANTERN TO SEE BY. Not published.
+
+[Illustration: HELEN COBURN AS “BETTY”]
+
+
+
+
+  BIG LAKE
+  A Tragedy in Two Parts
+
+  _As produced by the American
+  Laboratory Theater, New York City_
+
+  By
+  LYNN RIGGS
+
+  FOREWORD BY
+  BARRETT H. CLARK
+
+  [Illustration: Decoration]
+
+
+  SAMUEL FRENCH
+  _Incorporated 1898_
+  T. R. EDWARDS, Managing Director
+  NEW YORK CITY  ::    ::     MCMXXVII
+
+  SAMUEL FRENCH, LTD.  ::   ::   ::    LONDON
+
+
+
+
+  _All Rights Reserved_
+
+  COPYRIGHT, 1927, BY LYNN RIGGS
+  COPYRIGHT, 1927, BY SAMUEL FRENCH
+
+This play is fully protected by copyright. All acting rights, both
+professional and amateur, are reserved in the United States, the
+British Empire, including the Dominion of Canada, and all countries
+of the Copyright Union, by the owner. Application for the right of
+performing this play or of reading it in public should be made to
+Samuel French, 25 West 45th Street, New York City.
+
+
+  PRINTED IN THE U. S. A. BY
+  QUINN & BODEN COMPANY, INC.
+  RAHWAY, N. J.
+
+
+
+
+PROGRAM OF THE FIRST PRODUCTION, APRIL 8, 1927
+
+_The American Laboratory Theater (New York) presents_
+
+BIG LAKE
+
+BY LYNN RIGGS
+
+_Staged by George Auerbach_
+
+
+  _Betty_                  HELEN COBURN
+  _Lloyd_                    FRANK BURK
+  _Elly_                   STELLA ADLER
+  _Butch_                GROVER BURGESS
+  _Sheriff_             LOUIS V. QUINCE
+  _Plank_           JOHN S. CLARKE, JR.
+  _Joe_               FRANCIS FERGUSSON
+  _Miss Meredith_      FRANCES WILLIAMS
+  _Bud Bickel_              SAM HARTMAN
+  _The Davis Boy_          HAROLD HECHT
+
+  _Country School Boys and Girls_
+
+  MESSRS. KRADOSKA, HAYES, PARSONS, FIELDING,
+  WILLIAMS, CURTIS.
+
+  MISSES SCHMIDT, SEYMOUR, TITSWORTH, JOHNSON,
+  SQUIRE, SMITH.
+
+  Part 1—The Woods
+          Scene 1—The Woods
+          Scene 2—The Cabin
+
+
+  _Intermission_
+
+  Part 2—The Lake
+          Scene 1—A Cleared Place
+          Scene 2—The Lake
+
+  The action takes place in Indian Territory, now Oklahoma, in the
+  year 1906
+
+  _Settings designed by_      LEWIS BARRINGTON
+  _Costumes designed by_        GERTRUDE BROWS
+  _Sets and costumes executed by the Laboratory Theater Workshop
+  Property Man_                     MORTON BROWN
+
+The Director and Actors are deeply grateful to Mme. Maria Ouspenskaya
+for the invaluable assistance she gave in the preparation of this
+production.
+
+
+
+
+FOREWORD
+
+
+This play came to us late in the season of 1926-1927. Produced by
+George Auerbach at the American Laboratory Theater in New York, it
+attracted some attention during April and May, and survived without
+serious damage the ordeal of criticism by several of the front-line
+reviewers. With two or three exceptions, however, the notices showed
+little understanding of what Mr. Riggs was trying to do.
+
+That is one reason why I am presuming to add these few words to the
+dramatist’s text. _Big Lake_ is that rarest of things, a poetic drama
+that is at once poetry and drama. To one of his later plays Mr. Riggs
+has given the title _Sump’n Like Wings_, and I can think of no words
+that so accurately describe what I felt when, over a year ago, I
+read the manuscript of _Big Lake_. There is a winged lightness in
+the words that the poet puts into the mouths of his young people, an
+ecstasy born of the sheer joy of being alive. How poor a thing is the
+mere “observation” of a clever playwright beside the deeper, more
+incisive and highly intuitive scenes in _Big Lake_!
+
+In calling Mr. Riggs a poet (I refer here not to his formal
+verse-making, but to his plays) I am not forgetting that poetry in
+the theater is a different thing from the poetry you read in a book:
+Mr. Riggs’ plays are stage pieces; the poetry in them is never a
+matter of mere words, but an integral part of the speeches uttered
+and the gestures made by the characters, directing each scene and
+permeating the whole. It lies first in the writer’s conception of a
+harmonic entity, and floods it from beginning to end.
+
+Mr. Riggs’ three full-length plays are the work of a young man who
+is still close enough to his youth to remember and understand those
+fleeting moments of exaltation and depression that constitute the
+glory and the tragedy of adolescence. In _Big Lake_, more especially
+than in _A Lantern To See By_ and _Sump’n Like Wings_, Mr. Riggs has
+been able on occasion to look at the world about him through the
+eyes of a child: can you not feel in the second scene of the first
+act something of the wonder and terror of the more wildly romantic
+stories of the Brothers Grimm?
+
+If this Foreword were a study, I should go on to point out how
+Lynn Riggs has taken the folk-material and the idiom of his native
+district and skillfully made of them a rich medium of expression,
+and explain how, with only the slightest technical manipulation, he
+has reproduced the subtle rhythms of everyday speech. Then I should
+also have to take him to task for an occasional awkwardness in the
+management of his plots. But my purpose here is not to criticize:
+it is to point out to you a new American dramatist, whose work is
+permeated by an odd and strangely haunting beauty.
+
+  BARRETT H. CLARK.
+
+  _August, 1927._
+
+
+
+
+PART ONE
+
+
+
+
+CHARACTERS
+
+
+  BETTY
+  LLOYD
+  “BUTCH” ADAMS
+  ELLY
+  SHERIFF
+  JOE   }
+  PLANK } _deputies_
+  MISS MEREDITH
+  BUD BICKEL
+  THE DAVIS BOY
+  COUNTRY-SCHOOL BOYS AND GIRLS
+
+
+
+
+BIG LAKE
+
+
+
+
+THE WOODS
+
+
+SCENE 1
+
+  (_The woods adjoining the Big Lake, near Verdigree Switch, Indian
+  Territory, 1906. It is Spring. Vines creep on the trees just
+  putting out their green. The ground is soft with dead leaves,
+  among which grow the earliest flowers. A fallen log lies in a
+  tangle of last year’s briars. It is the grayness of morning. Color
+  is beginning to show in the East, where the lake lies, and as
+  the light grows the lake shines through the leaves._ LLOYD _and_
+  BETTY _come from the left, softly over the matted earth. They are
+  very young._ LLOYD _is tall, dark; he has black hair; his face is
+  sensitive; he wears rough shoes, dark trousers, and a pale blue
+  shirt._ BETTY’S _hair is yellow. She has let it down. It frames her
+  white, delicate face. Her dress is a coarse dark slip._)
+
+LLOYD
+
+It’s been s’ gray.
+
+BETTY
+
+It’s gettin’ lighter.
+
+LLOYD
+
+It’s been s’ gray. But now it’s gettin’ lighter and lighter—even to
+clear back here in the woods.
+
+BETTY (_softly_)
+
+I c’n feel the dawn.
+
+LLOYD
+
+_I_ c’n feel the dawn. I c’n _see_ the dawn! Look! Through the trees!
+Whur the lake’s at! The Big Lake’s a-shinin’ like a tub full o’
+soap-suds! I’m glad we come. Ain’t you, Betty?
+
+BETTY
+
+I’m glad we come early.
+
+LLOYD
+
+I’m glad we come. (_They stand a moment breathless at the beauty
+before them._) Le’s set down. (_They sit at left._) The horse is tied
+up. Grub’s safe in the buggy. Miss Meredith ’n’ the rest of ’em won’t
+be here fer a long time yit.
+
+BETTY
+
+They’ll be here, though.
+
+LLOYD
+
+Yeow, but it’ll be a long time. Won’t Miss Meredith be supprised to
+find us here ahead of everbody? It was _my_ idee. She’ll think we’re
+purty smart.
+
+BETTY
+
+How many’s comin’?
+
+LLOYD
+
+The whole class, I guess—’cept the Davis boy. It’ll be a nice day
+to picnic, won’t it? (_He rises and goes away from her and looks
+out toward the Lake. Softly, then more and more ecstatic, like a
+prayer_—) I alwys liked the Big Lake. I’ve come here many’s the
+time with Paw, when we’d went out to git some cattle. Miles and
+miles through the bilin’ heat, tongue clawin’ at yer mouth—a-eatin’
+dust, mebbe we’d go. Dust bilin’ up and blindin’ you—a-gettin’ in
+yer mouth and eyes till you thought you couldn’t stand it. An’ then
+the dark woods here—briars a-clawin’ at yer legs and hands, rattlers
+a-hidin’ under the leaves mebbe, logs t’ make yer horses jump, and
+branches ye’d have t’ dodge. Then the lake—flowin’ wide out—plum over
+almost out o’ sight—a-settin’ thar in the sun like sump’n you never
+hoped t’ see! I’d alwys want t’ git off my horse and go down to the
+edge of it—and tech it—and look at it—a long time. But Paw ud alwys
+say, “Set thar a-gawkin’, you kid. We got to git back to the sawmill
+’fore 2 o’clock,” or he’d say, “’Tother end o’ the Lake is dried up
+purty good, son. We could cross over thar ’stid o’ goin’ round by
+the section line.” (_After a moment._) I ain’t never seen it like
+this, though. It’s purtier’n I ever seen it. And we c’n look at it
+’s long’s we want to. And we c’n go out on it—in a boat—if they is a
+boat—
+
+BETTY (_timidly_)
+
+Why don’t you come over here and set down by me?
+
+LLOYD
+
+Why don’t you come over here and look at the lake?
+
+BETTY
+
+I c’n see it good—from here.
+
+LLOYD
+
+Come on over the big log, and you c’n see it better.
+
+BETTY
+
+No. I like it here better.
+
+LLOYD (_puzzled_)
+
+You’re funny. Set over thar then. I like you thar jist as well. You
+look purty good no matter whur you’re a-settin’. You _set_ purty
+good. I like you settin’ thar with the vine leaves and the tree
+leaves behind you. You’ve got purtier and purtier, Betty.
+
+BETTY
+
+Have I? You’re sweet to say it.
+
+LLOYD
+
+Why wouldn’t I say it?
+
+BETTY
+
+No reason not to. I like to hear it.
+
+LLOYD
+
+Words git in the way some. I cain’t think t’ say much.
+
+BETTY
+
+They’s no need t’ say much—
+
+LLOYD
+
+They _is_ need to. Seems t’ me yore comin’ to Verdigree wuz like
+you’d come from some place besides down the river. It made me think
+of the Bible—sump’n about the angel that come down to roll away the
+stone—
+
+BETTY
+
+You wuzn’t dead.
+
+LLOYD
+
+I uz asleep, I wuz. I uz young-asleep. I uz boy-asleep. I’m awake
+now. I’m a man. I’ve come to life.
+
+BETTY
+
+You’d think I uz an angel—sproutin’ wings!
+
+LLOYD
+
+You’re better’n an angel—
+
+BETTY
+
+I ain’t!
+
+LLOYD
+
+You air, too, to me. Better’n an angel! I’ll put this flower in yer
+hair—
+
+BETTY
+
+No.
+
+LLOYD
+
+’S like a star.
+
+BETTY
+
+No, no. Whur’d you git it at?
+
+LLOYD (_puzzled_)
+
+Why, _here_.
+
+BETTY (_strangely_)
+
+Under the leaves. It growed up through the dead leaves. I don’t like
+it—
+
+LLOYD
+
+Why, Betty!
+
+BETTY
+
+I cain’t stand them kind of flowers.
+
+LLOYD
+
+’S jist a flower. Growin’ in the woods.
+
+BETTY
+
+In the dark woods. Lloyd—
+
+LLOYD (_puzzled_)
+
+Whut is it?
+
+BETTY
+
+Lloyd, le’s go away frum here—
+
+LLOYD
+
+Whur’d you want to go to?
+
+BETTY
+
+Out of here, out of these woods! (_Pleading for him to understand._)
+Oh, you think I ain’t right. I cain’t expect you to know how I feel.
+They’s sump’n—I don’t know what it is— Please! It’s like the woods
+wuz waitin’—
+
+LLOYD
+
+Like a animal.
+
+BETTY
+
+To git us. To git us! I’m afeard. They’s things growin’ here—an’
+fightin’. They’s things crawlin’ on the ground, under the ground—in
+the trees—everwhur! I’m afeard!
+
+LLOYD
+
+_I’m_ afeard!
+
+BETTY
+
+Lloyd!
+
+LLOYD
+
+I’m afeard, too! Le’s go—
+
+BETTY
+
+Whur’ll we go to?
+
+LLOYD
+
+Out on the lake.
+
+BETTY
+
+They’s no boat.
+
+LLOYD
+
+Futher down—they’s a cabin, I know, and a boat—mebbe. Come on—le’s
+go to it. (_They start._ LLOYD _stops, shaking off his fear_.) Aw,
+listen. Whut’s the matter with us? Runnin’ like rabbits. They ain’t
+nuthin’ to be skeered of. We’re jist cold, that’s all. That’s it.
+Drivin’ so long ’fore it got light has jist got us chilled to the
+bone.
+
+BETTY
+
+I ain’t cold.
+
+LLOYD
+
+Y’air. Cold as ice. Ye’re tremblin’.
+
+BETTY
+
+I’m afeard!
+
+LLOYD
+
+We’ll go the cabin, then. It’s safe thar.
+
+BETTY
+
+And git the boat and go out on the lake?
+
+LLOYD
+
+We’ll git warm first.
+
+BETTY
+
+No! No! Le’s not go to the cabin. Le’s go on the lake.
+
+LLOYD
+
+Why, Betty! I never seen you like this!
+
+BETTY
+
+I never been like this. Come on, to the Lake—
+
+LLOYD (_patiently_)
+
+Now, Betty, to the cabin first. Why, you’re _cold_! They’ll be a
+fa’r a-burnin’ thar. I doan know who’s a-livin’ thar, but we’ll go
+up and knock, and ask t’ git warm. They’ll be up. Country folks git
+up early. And they’ll have a fa’r—a nice roarin’ warm fa’r in the
+fa’rplace fer us to git warm at. Won’t you like that?
+
+BETTY
+
+Mebbe—
+
+LLOYD
+
+It’s the funniest kind o’ cabin you ever see. It’s a log cabin. I
+been in it a long time ago with Paw. It’s a nice log cabin. An’
+they’ll have a fa’r.
+
+BETTY (_reluctantly_)
+
+Well, I’ll go—if you think—
+
+LLOYD
+
+Frum the outside it looks jist like any log cabin. But when you open
+the door, and look in—whut do you see? Steps! Three steps a-goin’
+down to the dirt floor. It’s part under the ground—
+
+BETTY
+
+Oh! Like it growed up out o’ the ground—?
+
+LLOYD
+
+Yes, jist like that! Like it growed out o’ the ground!
+
+BETTY (_with conviction_)
+
+It growed out o’ the ground. It growed out o’ the same ground the big
+woods growed out of! (_She shudders._)
+
+LLOYD
+
+Yeow.
+
+BETTY
+
+Le’s don’t go thar!
+
+LLOYD
+
+Jist long enough to git warm.
+
+BETTY
+
+No, not that long!
+
+LLOYD
+
+And to ask ’em fer the boat—if they got a boat.
+
+BETTY (_desperately_)
+
+Couldn’t we jist take the boat—’thout asking?
+
+LLOYD
+
+Betty! Course we couldn’t!
+
+BETTY
+
+I don’t see why, I don’t see!
+
+LLOYD (_laughs_)
+
+We ain’t thieves.
+
+BETTY
+
+_I’d_ be one.
+
+LLOYD
+
+No, you wouldn’t. Come on.
+
+BETTY
+
+To the Lake?
+
+LLOYD
+
+To the cabin first.
+
+BETTY
+
+Lake!
+
+LLOYD (_firmly_)
+
+No, Betty, cabin! (_They go out, right._)
+
+
+_Curtain_
+
+
+
+
+THE WOODS
+
+
+SCENE 2
+
+  (_Interior of the cabin. At the back three steps descend from the
+  planked door to the dirt floor of the cabin. Windows, curtained,
+  are on either side of the door. They are so high up that only a
+  tall man can see out. A wide fireplace made of stone rises from
+  the floor at the right end of the room. In the left corner of the
+  cabin, a wide double-deck bunk juts out. Crazy quilts cover both
+  beds. A few chairs, a rough table (set for breakfast at right of
+  steps) and utensils for cooking at the fireplace—complete the
+  furnishings. A fire burns in the fireplace; coffee bubbles on a
+  little iron stand on the hearth. It is dark and gloomy; no direct
+  sunlight has ever reached this secret place._
+
+  ELLY, _a tall, dark woman of thirty-five, stands tensely by the
+  corner of the bunk. Her face, even in her excitement, is brooding
+  and restrained. Her thick black hair, parted in the middle, is
+  done up in a knob at the back of her head. She is wearing a faded,
+  predominantly purple, plaid dress—full-sleeved, full-skirted,
+  pulled in at the waist. After a moment she goes swiftly to the
+  fireplace, pokes the fire, then goes across to the window nearest
+  the bunk, and with extraordinary agility and grace steps upon a
+  chair under the window and looks out. She gets down, goes slowly
+  toward the fireplace. In the center of the room she halts, wheels
+  about and faces the door. It opens. A man comes in quickly, and
+  closes the door as if shutting something out. He turns, facing her
+  from the top of the steps. He is of medium height, brutal, crafty.
+  His clothes are nondescript and unclean. His hair slants into his
+  eyes._)
+
+ELLY
+
+Butch! Thank God! I didn’t see ya— (_She makes a step toward him._)
+
+BUTCH (_quickly_)
+
+Shet up!
+
+ELLY
+
+Butch, w’at is it?
+
+BUTCH (_in a hoarse whisper_)
+
+Shet up, I tell you! Squawkin’ like a hen. You wanta git me killed?
+(_In a low voice._) They follered me.
+
+ELLY
+
+Tell me—w’at is it—?
+
+BUTCH
+
+I’ll show ’em! They won’t git me. I’ve got away frum better men ’n
+they are. They won’t git me alive—the lousy bums! I’d like to see
+’em! They follered me. I been at the Switch. An’ when I started
+back I seen three men a-follerin’. They’ll come here. (_He stops
+thoughtfully._) They ain’t got nuthin’ on me. They cain’t prove
+nuthin’— (_In a hard, matter-of-fact voice._) They don’t _know_ it’s
+me done it. They only got somebody’s word. They don’t know it, and
+they cain’t prove it. No one saw me—
+
+ELLY (_with foreboding_)
+
+Butch, I knowed this ud come. I knowed it. You’ll git sent up. And it
+ain’t right. You ain’t done nuthin’ wrong. It’s jist a law. W’at the
+hell’s a law? W’at’s it good fer? Why’n’t it agin the law everwhur
+else to sell whiskey? Them men whur they have their corner saloons
+all polished up—a-makin’ it criminal to sell a man a drink—w’at’s
+right about it? (_With scorn._) Oh, yes! I know. Pertectin’ the
+Indians! They don’t want the Indians to git all lit up like _they_ do
+all the time—ever day, ever night, regular. (_With disgust._) Hell!
+Indians! I ain’t saw two Indians since I come to Indian Territory.
+Now they’ll git you. I’ve knowed it. They’ll stick you fer sellin’
+the stuff to the poor fools that’s too skeered, and too weak, and too
+damn big a cowards to go up to Kansas City or Joplin and bring in
+their own whiskey, like a man. They’ll send you to jail—the only man
+that’s got guts enough to do it. You’ll git ten year or more. W’at’ll
+I git? I’ll git off—that’s w’at I’ll git. I’ll git left here to rot!
+
+BUTCH
+
+Shet up! (_He goes up the steps and listens intently. Then he comes
+down._) Let up on yer jail stuff. You’ll have me skeered. And I got
+to keep my senses. Listen t’ me. I been follered before. The last
+bunch o’ guys laid in wait close to the Holler whur the whiskey’s at.
+Did that stop me frum gettin’ the whiskey and gettin’ out with it?
+Did that stop me frum sellin’ it regler to Joe Hurd’s Curio Store
+at Claremont? I been follered lots o’ times and you know it. I been
+follered lots o’ times ’count o’ selling whiskey. It ain’t nuthin’
+new to me. But this time I’m follered and it ain’t on the ’count o’
+whiskey! They’s sump’n else....
+
+ELLY
+
+Butch! You got to tell me! W’at is it, w’at’ve you done?
+
+BUTCH
+
+Easy, easy!
+
+ELLY
+
+You wuz skeered! I never see you like that before. You’ve done
+sump’n. Tell me w’at it is. W’at’ve you done?
+
+BUTCH
+
+Lay off, take it easy....
+
+ELLY
+
+Butch....
+
+BUTCH
+
+Christ’s sake! You’re a mad womern! Keep yer shirt on! Mebbe I ain’t
+done _nuthin’_. Mebbe I jist been foolin’ myself. Mebbe—for all I
+know, they ain’t nuthin’ to git excited about.
+
+ELLY (_suddenly_)
+
+Butch! You got blood on yer coat! (_She stands a moment, terrified._)
+You’re hurt! Why’n’t you tell me? Quick, lemme fix it—I didn’t know.
+
+BUTCH
+
+I ain’t hurt.
+
+ELLY
+
+You’re bleedin’.
+
+BUTCH
+
+It ain’t my blood. (ELLY _draws back, her hand at her face,
+confused_.) I killed a man.
+
+ELLY (_sickened_)
+
+Oh! (_With terrible conviction._) You’ll hang fer it, Butch Adams!
+Why’d you go and do it? Who wuz it?
+
+BUTCH (_begins in a hard voice, but becomes more and more excited_.)
+
+Jim Dory. He told on me fer sellin’ whiskey. He told the federal
+officers at Tulsy. I killed him. Stuck a knife in him and turned
+it around. That’s why I went out at midnight ... to lay fer him. I
+knowed he’d go to the play-party over t’ Binghams. I laid fer him in
+the big woods close to the sawmill here. He’d go that a-way home, I
+figgered. About three o’clock this mornin’ he come along in a buggy
+with one horse to it. I jumped out and grabbed the bridle. He lep’
+out on me with a knife. I got a-hold of it. I stuck it through his
+ribs and turned it around. Then I got skeered. They might think I
+done it ... findin’ him so close t’ here. It wouldn’t do to find him
+so close. I picked him up and dumped him in the buggy and give the
+horse a crack with a stick. He started off in a run down the road.
+But not afore I’d saw Jim kinda raise up one of his hands to his
+face! He wuzn’t dead. I hadn’t made shore! He wuzn’t dead, and he’d
+tell on me! He’d tell some one ’fore he died, and I’d hang fer it!
+I thought mebbe I could ketch up and finish the job. But the horse
+run like mad, crashin’ through the bushes but keepin’ purty close to
+the road. I run and run after him—almost to the Switch. Then I seen
+some one come out of the store whur a light was burnin’, and grab
+the horse’s bridle. I seen him take Jim up and carry him in and shet
+the door. I run away then. I didn’t know if he wuz dead or not. If
+he wuzn’t, he’d tell on me! I wuz crazy—not knowin’ if he wuz dead
+or not. I come on to the woods. I couldn’t stand it not knowin’: I
+started back. When I got to the edge of the woods I seen three men
+comin’ up the road. I knowed one of ’em! It wuz the Shuruff. They
+musta wired to Claremont fer him. Jim ’d _told_ on me! Elly! Whut’ll
+I do? They’ll git me! (ELLY _goes over to the fireplace, in her
+absorbed way, without speaking, and pours some water in a pan_.)
+Elly! They’ll be here any minute! Fer God’s sake, say sump’n!
+
+ELLY
+
+Yer breakfast’s ready.
+
+BUTCH
+
+Elly!...
+
+ELLY
+
+Take off yer coat. (_He does, like one in a daze._) Throw it under
+the bunk. (_He does so._) Wash yer hands. (_He moves toward the pan
+slowly and begins to wash his hands. She has gone to the table with
+the coffee pot and poured some coffee. He finishes washing and dries
+his hands on a towel._) Set down. (_He moves toward the table._)
+
+BUTCH
+
+But, Elly....
+
+ELLY (_imperiously_)
+
+Set down! And eat yer breakfast,—Mister Murderer! (_He sits._ ELLY
+_leans over the table_.) Eat a plenty. Drink—here’s coffee. Salt
+pork, gravy, potaters—eat ’em! Enjoy yerself!
+
+BUTCH (_half rising_)
+
+Whut’re you meanin’! I hadn’t oughta done it? Whut’d you want me to
+do ... let him git away with it, let that dirty little coward sneak
+off to Tulsy and sick the officers onto me like bloodhounds ’n do
+nuthin’ about it? That ain’t my way! If some one does me dirt he gets
+his, you c’n count on it! I ain’t no Christian: I’m a man!
+
+ELLY (_with infinite scorn_)
+
+_You_—
+
+BUTCH
+
+I’m a man. Let up!
+
+ELLY (_goes away from him. Bitterly._...)
+
+You’re lower’n I thought you wuz. I never thought t’ be livin’ with a
+murderer. (_He comes toward her._) Oh, I ain’t so good. I know. You
+don’t have t’ tell me. But I never thought t’ come t’ this. I thought
+I knowed w’at I uz gettin’ into when I went away with you. I knowed
+you uz a bootlegger. I didn’t keer. It’s clean. It’s right. But
+killin’ ... I stop at killin’! Why’d you go and do it? Why _did_ you?
+Now they’ll come and take you. They’ll take you away from me!
+
+BUTCH
+
+Christ’s sake, shet up! They’d a-took me away fer bootleggin’.
+
+ELLY
+
+No, they wouldn’ta! They couldn’t ’a’ proved it. But now they’ll take
+you. They’ll hang you fer murder. (_She clings to him._) No, I won’t
+let ’em! They _cain’t_ take you! I love you—I cain’t help it. ’N I
+won’t let ’em take you away frum me! I won’t let em! I’ll find a
+way! I will! They ain’t proved you done it ... you said no one seen
+you....
+
+BUTCH
+
+They got Jim’s word, I tell you....
+
+ELLY (_calmer_)
+
+He’s dead. He cain’t talk now.
+
+BUTCH
+
+Sh—! I heerd sump’n! (_Excitedly—drawing his pistol._) They won’t git
+me!...
+
+ELLY
+
+Gimme that gun!
+
+BUTCH
+
+... Not’s long’s I’m alive!
+
+ELLY
+
+Butch! Give it t’ me! I’m all right now. I ain’t never advised you
+wrong. I’ll git you outa this! Listen t’ me: you ain’t been outa the
+house, y’hear—not since yistiddy. Eat yer breakfast! (_She goes to
+the window, steps on the chair, and looks out._) It’s only a man an’
+womern....
+
+BUTCH
+
+It’s a _blind_!
+
+ELLY
+
+No, no! (_Coming down._) It’s jist a boy and girl—a couple o’ kids.
+
+BUTCH
+
+Keep ’em out!
+
+ELLY
+
+No! We’ll let ’em _in_! It’s Providence!
+
+BUTCH
+
+It’s a blind, I tell you....
+
+ELLY
+
+It’s luck! It’s our luck. Mebbe we c’n use ’em....
+
+BUTCH
+
+How?
+
+ELLY
+
+Some way. I doan know yit. Gimme the gun. (_He hands it to her,
+reluctantly._) Keep yer head. These two’ll come in. They’ll keep you
+frum hangin’, Butch Adams! (_She goes swiftly to the bunks, and hides
+the pistol under the quilts._ BUTCH _goes back to the table and sits.
+There is a moment of intense silence. Then a knock._) Come in!
+
+  (LLOYD _and_ BETTY _come in. They look very slight, very delicate,
+  in this somber place._)
+
+LLOYD (_awkwardly_)
+
+How’d do?
+
+ELLY
+
+Howdy.
+
+LLOYD
+
+You got a fa’r we could git warm at?
+
+ELLY
+
+Over thar.
+
+LLOYD
+
+If it ud bother you— If we’d be in yer way.
+
+ELLY
+
+It won’t bother me. Nuthin’ gits in my way. You’re welcome. Come in,
+an’ git warm if you want to. (_They come down the steps slowly._ ELLY
+_turns to the window_.) I’ll git you a cheer.
+
+  (LLOYD _and_ BETTY _turn, and are about to go to the fireplace
+  when_ BUTCH _rises from the table where he has been sitting. They
+  see him for the first time and stop in alarm._)
+
+ELLY (_quickly_)
+
+Butch, bring a cheer up. (_He picks up a chair and sets it in front
+of the fireplace._ LLOYD _and_ BETTY _watch him anxiously. He goes
+across to the bunks and sits down._ ELLY _crosses over with another
+chair._) Here’s another cheer. Set down. (_They go over slowly and
+sit._) The fa’r’s goin’ strong. Mebbe you’d like a cup of hot coffee?
+
+LLOYD
+
+Would you, Betty? (_She shakes her head._) No, ma’am. Thank you.
+
+ELLY
+
+I guess you’ve had yer breakfast.
+
+LLOYD
+
+No’m, we ain’t yit. We’re gonna have it ’s soon’s Miss Meredith comes.
+
+ELLY
+
+Who’s Miss Meredith?
+
+LLOYD
+
+Our teacher.
+
+ELLY
+
+Oh! Over t’ the Switch.
+
+LLOYD
+
+Yes’m. It’s a picnic breakfast here in the woods—fer the whole class.
+
+ELLY
+
+Oh! (_After a moment._) You’ve come awful early.
+
+LLOYD
+
+Nobody’s come yit—but us. We come early.
+
+ELLY
+
+How’d you happen to do that?
+
+LLOYD (_hesitating_)
+
+Why, we—we jist thought we’d come early. We drove over from the
+Switch. Horse and buggy’s up here a ways—not fur.
+
+ELLY
+
+Oh! (_She looks from one to the other. Then to_ BETTY.) Air you
+gittin’ warm, Miss?
+
+BETTY (_gratefully_)
+
+Yes’m. I wuz cold.
+
+LLOYD
+
+She wuz tremblin’.
+
+ELLY
+
+You’d oughta wear more clothes when you go out s’ early.
+
+BETTY
+
+Yes’m.
+
+ELLY
+
+Yer Maw ud oughta told you.
+
+BETTY
+
+Maw’s dead.
+
+ELLY
+
+Yer Paw ud oughta told you, then.
+
+BETTY
+
+He’s asleep. (_The three smile at this._ LLOYD _and_ BETTY _begin to
+feel more at ease_.) This is the first time I been out s’ early. I
+didn’t know it wuz cold. Now I know. ’Fore it gits sun-up it’s li’ble
+to be. Even after sun-up it’s apt to be cold here in the woods, ain’t
+it?
+
+BUTCH (_suddenly_)
+
+Elly! Ain’t you got a coat you could let her borry?
+
+ELLY (_surprised_)
+
+Why, yes, I got a coat. (_To_ BETTY.) I’ll lend you one.
+
+BETTY
+
+No’m, you mustn’t. I’m obliged to you, but I doan need it.
+
+ELLY
+
+You shore?
+
+BETTY
+
+Yes’m.
+
+  (BUTCH’S _interruption causes a constrained silence_. ELLY _goes
+  away toward the bunks thoughtfully_. BETTY, _uneasy, looks at_
+  LLOYD. _Then_ BUTCH _rises, crosses the room, takes the poker and
+  stirs the fire. He goes back to the little table and sits down._
+  LLOYD _rises, makes a step toward_ ELLY.)
+
+Mebbe we better go now—
+
+BUTCH (_loudly_)
+
+Set down! (_He begins eating his breakfast._)
+
+ELLY (_quickly_)
+
+He ain’t had his breakfast. Don’t mind him.
+
+LLOYD
+
+We better go.
+
+ELLY
+
+He don’t mean nuthin’.
+
+LLOYD (_uneasy_)
+
+Well, we’ll stay a minute or two. (_He goes back and sits down._)
+
+ELLY (_as if nothing had happened_)
+
+Must be fun to come a-picnickin’ in the woods.
+
+LLOYD
+
+I doan know. I ain’t never been.
+
+ELLY
+
+I ain’t been since I uz yore age. _Why_ ain’t you been?
+
+LLOYD
+
+I’ve always worked, helped my Dad drive cattle—till now. I’m in
+school.
+
+ELLY
+
+And ain’t never been to school before?
+
+LLOYD
+
+No, ma’am.
+
+ELLY
+
+And ain’t never went on picnics?
+
+LLOYD
+
+Not till now.
+
+ELLY
+
+I used to go all the time when I uz yore age. In Kansas City. Woods
+wuzn’t fur away. Used to go—a whole crowd of us—ever Sunday. Set
+on the ground ... real ground, ’stid o’ pavement ... with grass
+a-growin’ out of it. First I’d ever saw. We thought it wuz fine.
+You’ve missed a lot.
+
+LLOYD
+
+Yes’m. I guess so. But I’ve had fun. I been out with Paw a
+lot—drivin’ cattle. He buys ’em up differnt places—Verdigree, Foyil,
+Sageeyah, even ’s fur away’s Pryor Crick. Nen we saddle up our
+horses’n go out ’n drive ’em in to ship to the market at St. Louis.
+
+ELLY
+
+W’at’s fun about drivin’ cattle? Sounds like work t’ me.
+
+LLOYD
+
+Well, it’s work. And it’s fun, too.
+
+ELLY
+
+In winter, looks like you’d freeze yer ears off....
+
+LLOYD
+
+We don’t drive ’em much in winter.
+
+ELLY
+
+Well, in the summer then, ’n the spring: I doan see w’at’s fun about
+the scorchin’ heat ’n the dust ’n the hot wind. I’d wanta be in out
+of it. I’d wanta be under a roof whur the sun didn’t hit me....
+
+LLOYD
+
+Sun’s bad. Dust’s bad, too. Wind ain’t so good. But they’s sump’n
+else....
+
+ELLY
+
+Yeow? W’at is it?
+
+LLOYD (_going across to her_)
+
+I doan know ... it’s kinda crazy....
+
+ELLY
+
+I had a crazy brother.
+
+LLOYD (_smiling_)
+
+Well, it ain’t as bad as that.
+
+ELLY
+
+My brother wuzn’t bad. Jist wuzn’t right. He used to run out in the
+woods here like he uz wild. He lived here with us. He done queer
+things.
+
+LLOYD
+
+This is queer too. You’ll laugh. You see, when Paw and me goes out t’
+drive cattle, some time or other we pass by the Big Lake.
+
+ELLY (_strangely_)
+
+The Lake?
+
+LLOYD
+
+Yes’m. Sometimes it’s early ... when we first start out frum the
+Switch. Sometimes it’s the middle of the day—when we’ve got back frum
+Grand River. Sometimes it’s night. But we alwys pass by it—some time
+or other.
+
+ELLY
+
+I doan see w’at’s fun about it. I been livin’ here three year. I c’n
+see the Lake any time. They’s no fun to that.
+
+LLOYD
+
+I cain’t explain it very well. It’s nice—nice t’ see it. ’N no matter
+whur you’re at, whut time o’ day it is, it’s nice to know the Lake’s
+thar. ’N it’s nice to know ’at some time mebbe you’ll git a chance to
+go out on it. I ain’t never been. I alwys want to. (_Smiling._) Kinda
+crazy, ain’t it?
+
+ELLY (_thoughtfully_)
+
+Yes.
+
+LLOYD
+
+I told you it wuz.
+
+ELLY (_slowly_)
+
+You’re not the only one.
+
+LLOYD
+
+The only one whut?
+
+ELLY
+
+Crazy. They’s others. I’ve saw ’em. Do you ever read the newspapers?
+
+LLOYD
+
+Why, no’m—I—
+
+ELLY
+
+Cain’t read?
+
+LLOYD
+
+Well, not much. But I’m gonna learn better.
+
+ELLY
+
+How long you lived at the Switch?
+
+LLOYD
+
+Alwys lived thar.
+
+ELLY
+
+Then you musta heerd of people gettin’ drownded in the Lake?
+
+LLOYD
+
+Yes’m.
+
+ELLY
+
+Crazy. Why’d they go on it?
+
+LLOYD
+
+’Tain’t the Lake’s fault. It’s their’n.
+
+ELLY
+
+Yeow. Fer goin’ out on it.
+
+LLOYD
+
+No. Fer keerlessness. Some of ’em fall in. Some of ’em turn the boat
+over. Sometimes the boat leaks....
+
+ELLY
+
+Yeow. But if they didn’t try to go out on the Lake, the boat wouldn’t
+leak, the boat wouldn’t turn over, ’n they wouldn’t fall in. It’s
+their fault fer goin’!
+
+LLOYD
+
+But people will go out on it. People want to. It ain’t wrong.
+
+ELLY
+
+No. ’Tain’t wrong. ’N people will do it. That’s the trouble: they
+will do it. ’N do you know who it is does it? D’you know who it is
+that’s alwys gettin’ drownded in the Lake? People like you—young
+people—like yerselves—picnickin’! My brother—he got drownded out
+thar—a month back. We never did find him.
+
+  (BUTCH _has risen to put a log on the fire_. BETTY _shrinks away
+  from him as he goes near her_.)
+
+BUTCH
+
+Warm now?
+
+BETTY
+
+Yes, sir. (LLOYD _goes over quickly, anxiously_.) We better go,
+Lloyd. I’m warm. I’m plenty warm.
+
+LLOYD
+
+Well, we’ll go then. (_To_ BUTCH.) Thank you, Mister— Thank you fer
+the fa’r. (_He turns toward_ ELLY.) I wuz goin’ t’ ask you if we
+could borry yer boat. I doan know now if I want to....
+
+BETTY (_quickly, nervously ... to_ ELLY)
+
+You got a boat, ain’t you?
+
+ELLY
+
+Yes.
+
+BETTY
+
+Let us borry it ... awhile? Please! Let us borry it!
+
+LLOYD (_to_ BETTY)
+
+You still wanta go on the lake?
+
+BETTY
+
+Yes. I do. (_To_ ELLY.) Please. Cain’t we take it fer a while?
+
+ELLY
+
+I doan know—I ain’t so shore....
+
+BUTCH (_suddenly_)
+
+Borry it! Borry it all you want to! Here’s the key. (LLOYD _takes
+it_.) Bring it back when you git ready. Oars is over thar by the
+door.
+
+LLOYD
+
+Thank you. (_To_ ELLY.) Thanks fer the f’ar. (LLOYD _and_ BETTY _go
+toward the steps. He picks up the oars. They go up the steps._ LLOYD
+_turns to_ ELLY.) The oars seem to be good. The boat—don’t leak, does
+it?
+
+ELLY
+
+No, it don’t leak.
+
+LLOYD (_smiling_)
+
+Well. I’m keerful. Betty’s keerful. We’ll make out all right, I guess!
+
+  (_They go out._ ELLY _looks sharply at_ BUTCH. _He turns back to
+  the table and sits down. She follows him over._)
+
+ELLY (_sharply_)
+
+Why’d you do it?
+
+BUTCH
+
+Do whut?
+
+ELLY
+
+Give ’em the key. Give ’em the oars.
+
+BUTCH
+
+Why, to git rid of ’em. I didn’t want ’em here. It uz you wanted ’em.
+
+ELLY
+
+You’re lyin’. Why’d you do it?
+
+BUTCH
+
+I told you.
+
+ELLY
+
+That wuzn’t it. You got some reason.
+
+BUTCH
+
+You had a reason fer lettin’ ’em come in, too. You said you did,
+anyway. Well, what wuz it?
+
+ELLY
+
+I thought we could use ’em....
+
+BUTCH
+
+Use ’em! How could we use ’em?
+
+ELLY
+
+I guess we cain’t....
+
+BUTCH (_scornfully_)
+
+No, ’course not! You never had no idee of it. You wuz jist talkin’....
+
+ELLY
+
+I did have an idee. I thought—when I seen ’em outside ... they might
+be a way of throwin’ the blame onto that boy, someway....
+
+BUTCH (_rising—excited_)
+
+Elly! You thought of blamin’ him with....
+
+ELLY
+
+Yes. ’Fore I _seen_ him, I did. After he come in, I knowed we
+couldn’t.
+
+BUTCH
+
+Why not?
+
+ELLY
+
+I wouldn’t have the nerve—to try to throw it onto him. Mebbe it ud
+work all right, mebbe it could be done. They’s ways of makin’ fools
+outa the law.... Oh, I know, I’ve done it many’s the time ... an’ we
+could git suspicion on this boy someway. And he’d hang too—innocent
+and all! But I cain’t do it, I wouldn’t think of doin’ it....
+
+BUTCH (_harshly_)
+
+Well, why wouldn’t you?
+
+ELLY (_frightened_)
+
+Butch! Fergit I said it, fergit I ever thought of sich a thing.
+
+BUTCH (_grimly_)
+
+I’m glad you thought of it.
+
+ELLY
+
+W’at’d you mean?
+
+BUTCH
+
+I mean—it’s an idee.... I wouldn’t a-thought of it. I c’n see, I
+c’n see a way—you’re a smart womern, Elly.... Wait a minute, lemme
+think....
+
+ELLY
+
+No! You cain’t do it. W’at’re you thinkin’ of?
+
+BUTCH
+
+Why not? D’you want me to hang?
+
+ELLY
+
+No.
+
+BUTCH
+
+Shet up, then! The officers’ll come here. Whut’ll I tell ’em ...
+whut’ll I say—they’ll come in the door—this boy—he’ll be out on the
+lake by that time....
+
+ELLY
+
+Butch! Butch!
+
+BUTCH
+
+Shet up!
+
+ELLY
+
+You cain’t plan to do this! I won’t let you git that boy killed. He’s
+too young, he’s too sweet-lookin’....
+
+BUTCH
+
+Ha! Ain’t I young? Ain’t I sweet-lookin’? You’ve said so. ’D you mean
+it?
+
+ELLY
+
+I come here—and lived with you.
+
+BUTCH
+
+So’d Lilly. So’d Marge. ’N whut’d they do? Lilly on her death bed
+a-damnin’ me—I c’n hear her yit. Marge—she tried to give me up to the
+law. I fixed her. Hell! They both come here, ’n lived with me. That
+don’t prove nuthin’. You got to prove it some other way. You got to
+help me....
+
+ELLY
+
+I’ve helped you—bendin’ over yer f’ar, cookin’ yer victuals, washin’
+yer clothes, makin’ the beds you’ve slep’ in. I’ve helped you ...
+livin’ in this damp cellar like a mole with no sunshine a-comin’ in
+and no moonlight ever. I’ve tended you when you uz sick, I’ve lied
+fer you, I’ve buried myself away frum all the decent folks I ever
+knowed—here in these dark woods fer three year. Why’d I do it? Why
+_did_ I? It’s proof you want, is it? Then look at me, Butch Adams!
+_I’m_ proof! Look at me! I uz young when I come here with you three
+year ago. I uz young—like that little girl that uz here jist now. I
+wuzn’t as purty as her, but I uz young like her. Look at me now!
+
+BUTCH
+
+You’re talkin’. You’re puttin’ words together. Whut good are they
+to me? They won’t save my neck frum hangin’. You got to help me. If
+you got to talk, tell me whut to do. The Shuruff’ll be comin’ here.
+Whut’ll I say to him? They ain’t nuthin’ to say to him, unless you
+help me. I got a plan—
+
+ELLY
+
+Not that boy!
+
+BUTCH
+
+You got to help me. They don’t keer who they hang in this country.
+One man’s as good as another fer hangin’. _They_ don’t keer. But _I_
+do! I keer fer hangin’. It’s got to be some one else.
+
+ELLY
+
+Not that boy!
+
+BUTCH
+
+That _boy_! It’s got to be him! It’s got to be him killed Jim Dory—
+
+ELLY
+
+They’ll never b’lieve he done it.
+
+BUTCH
+
+They’ll believe it—
+
+ELLY
+
+Jim Dory must’a’ told ’em ’fore he died who done it—
+
+BUTCH
+
+That don’t prove it. My word’s as good as his. Jim might’a’ made a
+mistake; in the dark woods he couldn’t see so well ... not even if it
+ud been daylight. Mebbe—some one else done it—
+
+ELLY
+
+Not that boy!
+
+BUTCH
+
+That boy, I tell you!
+
+ELLY
+
+No, Butch, no!
+
+BUTCH
+
+Shet up!
+
+ELLY
+
+I cain’t let you. You doan know w’at you’re doin....
+
+BUTCH
+
+Doin’? I’m savin’ my neck, that’s whut I’m doin’!
+
+ELLY
+
+You’re losin’ it. If you git that boy hung, you’re hangin’ yerself!
+
+BUTCH
+
+You’d tell on me! Damn you, I’d oughta kill you!
+
+ELLY
+
+Kill me then! Coward! Don’t you know if I done w’at’s right, I’d tell
+on you now? I’d give you up to the law fer the brute you are, an’ let
+you hang as you’d oughta hang! Why don’t I? (_Bitterly._) Yes, why
+don’t I? ’Cause I’m a fool, that’s why! I’m like all the women in the
+world that’s ever lived: I ain’t good, I ain’t decent, I ain’t even
+honest except to one man! I hate you!
+
+BUTCH
+
+Oh, you do, eh? Well, whut is it you mean, then? If I get that boy
+hung, how’ll that be hangin’ myself?
+
+ELLY
+
+Wuzn’t you ever young?
+
+BUTCH
+
+Whut’s that got to do with it?
+
+ELLY (_pleading_)
+
+Wuzn’t you ever jist startin’ life? Wuzn’t you ever innocent and
+good, and wantin’ to go out into the world and expectin’ it to be
+kind to you?...
+
+BUTCH
+
+No!
+
+[Illustration: STELLA ADLER AS “ELLY”]
+
+ELLY (_softly_)
+
+Then you won’t understand. This boy is that a-way. You cain’t kill a
+thing like that. If you killed him, you’d be killin’ w’at uz good in
+you once ... if they uz ever anything....
+
+BUTCH
+
+You’re preachin’. Let up! Whut’d you think this is? It’s got to be
+the way I say, Elly. If I wanna save my neck, I got to throw the
+blame on some one else....
+
+ELLY (_triumphantly_)
+
+Not that boy! I’ll tell you _another_ reason why! If you’d a-looked
+at him, you’d know the reason yerself! Anybody, even the Shuruff
+a-lookin’ at him would know that that boy couldn’t do nuthin’ wrong,
+he couldn’t kill a man....
+
+BUTCH
+
+Elly!
+
+ELLY
+
+He couldn’t even hurt any one’s feelin’s! And _besides_,—his story’s
+as good as yourn. They’d know w’at he said wuz the truth! You got
+to try some other plan, Butch. You got to try to get away. You got
+to sneak out in the woods an’ hide a day or two. I’ll take you grub
+t’ eat some way. Then when things blows over more we’ll light out
+fer Texas till they fergit all about us. You could hide close to
+the old sawmill some’er’s. They’d never think o’ lookin’ there fer
+you—so near—so near whur Jim—Hurry up, now! (_She crosses and gets
+his gun._) You ain’t got much time. Take yer gun. Don’t use it unless
+you have to—promise me! I want you to be safe. (_She offers him the
+gun._)
+
+BUTCH (_thoughtfully_)
+
+No. Put the gun back....
+
+ELLY
+
+Butch!
+
+BUTCH
+
+You tuck it away frum me once....
+
+ELLY (_frightened_)
+
+You’re not gonna give yerself up? Butch, no! You’ll be hung!
+
+BUTCH
+
+You said they’d never b’lieve that boy done it, eh?
+
+ELLY
+
+Yes. They won’t. They’ll know he couldn’t.
+
+BUTCH
+
+An’ they’ll b’lieve him, eh? His story’ll be better’n mine, eh?
+
+ELLY
+
+They’ll know it’s the truth.
+
+BUTCH
+
+I b’lieve you.
+
+ELLY
+
+Then why don’t you go—before the Shuruff comes?...
+
+BUTCH
+
+I ain’t goin’!
+
+ELLY
+
+You ain’t givin’ yerself up? Butch, you mustn’t! It’s wrong of
+me to say it. You’ve broke the laws, you’ve sold whiskey, you’ve
+killed a man—you’d oughta suffer fer it. But you mustn’t! You got to
+go—quick—they’s time! I’ll leave you grub ever’ day by the foot-log
+that’s been washed up by the Crick. I’ll keep a lookout. When it’s
+safe—
+
+BUTCH
+
+I ain’t goin’. I ain’t gonna give myself up, neither. I got a plan.
+(_Fiercely._) An’ if you try to bungle it, if you try t’ put yer nose
+in, or even open yer mouth, I’ll kill you, d’ you hear! You know I
+will, too!
+
+ELLY
+
+W’at’re you gonna do?
+
+BUTCH
+
+Put that gun back. Put it back, I say!
+
+  (_She crosses reluctantly, and is putting the gun back in the bunk.
+  The door is kicked open, viciously. Three men with pistols in their
+  hands eye them from the high threshold. It is the_ SHERIFF _and his
+  deputies_.)
+
+SHERIFF (_nervously_)
+
+Two of ’em. Keep yer eye on the womern, Plank. (_To_ BUTCH.) Put
+’em up! (_The men come down into the room. The_ SHERIFF _is a
+florid-faced man, with a long mustache_.) Search him, Joe. (JOE
+_comes over, makes a quick search of_ BUTCH, _and finds nothing_.) No
+gun, eh? Make shore, Joe. We doan wanna take no chances.
+
+JOE
+
+They ain’t none, Shuruff.
+
+SHERIFF
+
+All right. Keep yer gun on him. (_To_ BUTCH.) Guess you know whut we
+want you fer, Adams. Yer name’s Adams, ain’t it?
+
+JOE
+
+_Butch_ Adams, Shuruff.
+
+SHERIFF
+
+You’ve killed a man.
+
+BUTCH
+
+I doan know whut you’re talkin’ about. Come bustin’ into my house
+this a-way. Whut right’ve you got?
+
+SHERIFF
+
+Dry up.
+
+BUTCH
+
+You got a warrant?
+
+SHERIFF
+
+Warrant, hell!
+
+BUTCH
+
+You got no right here. I oughta shoot you down.
+
+SHERIFF (_laughs shortly_)
+
+Shoot! Whut’ll you shoot with? Strikes me as funny you got no
+shootin’ iron on you an’ you jist murderin’ a man in cold blood—
+
+BUTCH
+
+I never! I doan know whut you’re talkin’ about—
+
+SHERIFF
+
+We won’t argy with you.
+
+BUTCH
+
+Show me yer warrant.
+
+SHERIFF
+
+They ain’t no warrant.
+
+BUTCH
+
+I’ll have the law on you.
+
+SHERIFF
+
+_I’m_ the law! Le’s go. ’S funny about you havin’ no gun—I doan
+understand it—
+
+PLANK (_suddenly—to_ ELLY)
+
+Stand whur you air. Git away from that bunk. Lemme see whut you’re
+a-doin’— (_He turns back the cover and finds the pistol._) So that’s
+whut you’re up to, eh?
+
+SHERIFF
+
+Whut is it, Plank?
+
+PLANK
+
+She uz reachin’ fer a gun. I thought they uz sump’n funny when we
+come in. She seemed t’ be a-bendin’ over like she uz huntin’ sump’n—
+
+SHERIFF (_taking the pistol_)
+
+So that’s it? (_To_ BUTCH.) Didn’t have time t’ git hold of it, did
+you? ’S lucky we kicked the door open—
+
+ELLY
+
+He didn’t do it.
+
+BUTCH
+
+I ain’t been outa the house—
+
+ELLY
+
+Don’t you take him! He ain’t done nuthin’!
+
+BUTCH
+
+I ain’t done nuthin’. (_Significantly._) If Jim Dory said my name—
+
+SHERIFF
+
+Jim Dory, eh? Who said anything about Jim Dory? I guess you’ve told
+on yerself!
+
+BUTCH
+
+I never!
+
+SHERIFF
+
+You’ve fixed yerself now! Look around, Joe. I’ll watch him. They
+oughta be evidence, too.
+
+  (JOE _begins his search of the room, over by the bunks. He crosses
+  to the fireplace._)
+
+JOE
+
+Don’t see nuthin’.
+
+BUTCH
+
+You won’t find nuthin’—
+
+JOE
+
+Here’s a pan! Bloody water, Shuruff!
+
+SHERIFF
+
+Le’s see it—
+
+JOE (_bringing it over_)
+
+He washed his hands.
+
+SHERIFF
+
+You got ’em bloody, did you—puttin’ Jim back in the buggy? Oh, he
+told. He had time to git out a word or two afore he died. Well, we
+got evidence. We got you now whur we want you—
+
+BUTCH (_slowly_)
+
+Shuruff—I’ll tell you—
+
+SHERIFF
+
+It’s time you told me.
+
+BUTCH
+
+I’ll tell you who done it. My brother—he done it.
+
+ELLY
+
+Butch!
+
+BUTCH
+
+He’s crazy. He runs wild here in the woods. He ain’t right—
+
+SHERIFF (_sarcastically_)
+
+Whut’s this?
+
+BUTCH
+
+He lives with us—my brother— You must’a’ heerd of him.
+
+PLANK
+
+I’ve heerd of a crazy boy here in the woods, Shuruff. But that don’t
+prove nuthin’. You hear funny stories about these woods here—
+
+BUTCH
+
+Ask Elly!
+
+SHERIFF
+
+’S this crazy boy live here with you?
+
+ELLY (_after a moment_)
+
+Yes.
+
+SHERIFF
+
+’N’ sleeps here?
+
+ELLY
+
+Yes. Sleeps thar. (_She points to the top bunk._)
+
+SHERIFF (_to_ BUTCH)
+
+He’s yer brother, eh?
+
+BUTCH
+
+Yes. Name’s Adams—too, like mine. I’ll tell you. I cain’t pertect
+him. I tried. He went out las’ night. I didn’t know why. He goes
+out—roams in the woods—all the time. Lately, he’s got to mumblin’
+sump’n—like this: “Woods is too full—woods is too full. People.” I’ve
+heerd him, ask Elly.
+
+ELLY
+
+Oh, he did—he said that—“People. Too many people. They’s room in the
+lake—they’s room thar—they’s room in the lake. It’s big. It’s deep.”
+Oh— (_Buries her face in her hands._)
+
+BUTCH
+
+She liked him. He _uz my brother_. Las’ night he went out. He come
+in this mornin’ early. It uz him—it uz _him_ killed Jim Dory. He
+told me. Met him in the woods—stuck a knife in him. He washed his
+hands—they uz blood on ’em. He throwed his coat under the bunk—they
+uz blood on it. He went out again.
+
+SHERIFF (_excitedly_)
+
+Whur is he? Whur’d he go to?
+
+BUTCH
+
+Don’t ask me—
+
+SHERIFF
+
+Tell me—quick, whur is he?
+
+ELLY (_in anguish_)
+
+In the lake—that’s whur he’s at.
+
+SHERIFF
+
+In the lake?
+
+ELLY
+
+Drownded.
+
+BUTCH
+
+No—no! No, he ain’t, Shuruff. He’s _on_ the lake.
+
+ELLY (_agonized_)
+
+Butch!
+
+BUTCH
+
+In a boat.
+
+SHERIFF
+
+We’ll git him. He won’t git away!
+
+BUTCH
+
+You won’t git him—not alive, you won’t. You’ll have t’ be keerful if
+you even go near him—he’s got a gun!
+
+SHERIFF
+
+We’ll git him!
+
+BUTCH
+
+He’s crazy. He’ll shoot.
+
+SHERIFF
+
+We’ll shoot _first_!
+
+ELLY
+
+Shuruff! No, no! Don’t do it. Don’t listen t’ him.
+
+BUTCH
+
+Be keerful, Shuruff—
+
+SHERIFF
+
+I ain’t skeered of him—
+
+BUTCH
+
+They’s a girl with him—
+
+SHERIFF
+
+A girl—?
+
+BUTCH
+
+He run onto her som’er’s. Mebbe here in the woods. I doan know whur
+she come frum—_a young, purty girl_. (_Meaningly._) He’s got her with
+him—out on the lake.
+
+SHERIFF
+
+The bastard!
+
+BUTCH
+
+Be keerful. Don’t shoot _her_, Shuruff.
+
+SHERIFF
+
+Whur’s they a boat?
+
+BUTCH
+
+They ain’t but one. He’s in it—him and the girl.
+
+SHERIFF
+
+We’ll get him frum the bank, then. Joe, you stay here. Watch the
+cabin—outside. Don’t let these two get outa yer sight. Plank, you
+come with me.
+
+  (_The three men go up the steps._ JOE _and_ PLANK _go out_.)
+
+ELLY
+
+Shuruff, you mustn’t do it—they’s a reason—you mustn’t. I’ll tell you—
+
+BUTCH (_quickly_)
+
+He’s my brother, Shuruff. I don’t keer. He’s done wrong. Shoot him
+down.
+
+SHERIFF
+
+You’re damn right I will. Like a dog! (_He goes out._)
+
+ELLY (_agonized_)
+
+W’at made you?
+
+BUTCH
+
+You told me yerself—
+
+ELLY
+
+No—
+
+BUTCH
+
+That about yer brother—that put me wise. No one knows he’s been
+drownded.
+
+ELLY
+
+Why’d you do it? You could’ve said he got drownded this mornin’.
+They’d a-b’lieved it. Why’d you say he wuz on the lake?
+
+BUTCH
+
+I got reasons.
+
+ELLY
+
+W’at air they?
+
+BUTCH (_evilly_)
+
+You musta noticed, Elly—a girl wuz here with that boy. They’d come
+here together—
+
+ELLY
+
+W’at of it?
+
+BUTCH
+
+The horse and buggy’s up here a ways. She’s young, she’s purty— They
+drove here together. She’ll need some one to drive her home—through
+the woods—
+
+ELLY
+
+Ugh! You beast!
+
+BUTCH
+
+(_He goes toward the steps._) Mebbe I am one. Mebbe I am a beast. And
+this place we’re livin’ in—whut’s it? It’s the woods, Elly. It’s the
+dark woods. (_He goes up the steps._)
+
+ELLY
+
+Butch! (_She hurries after him._)
+
+
+_Curtain_
+
+
+
+
+PART TWO
+
+
+
+
+THE LAKE
+
+
+SCENE 1
+
+  (_A cleared place on the bank of the lake. At the back, beyond a
+  slight mound, the lake begins. Willow trees droop into the water.
+  Gold sunshine touches the lake, plays over an old boat tied under
+  a tree. Voices—excited, boisterous, rough—shatter the quiet. From
+  the left the picnic party enters, singly, in groups of three,
+  in pairs—a dozen or more people. Tall farm boys, red-handed,
+  red-faced, dressed in battered overalls, clumping shoes, ragged
+  shirts; short, round farm girls, in unbecoming calicos and
+  ginghams, with bows in their hair. Some of the boys carry boxes of
+  food._)
+
+BOYS AND GIRLS
+
+I cain’t carry this no fu’ther.
+
+Whur’s the f’ar go?
+
+Fu’ther down, I reckon.
+
+Over thar’s a good place.
+
+She’s a-gettin’ her sewin’ done now, the crazy fool, an’ the Fair six
+months off!
+
+Aw, she cain’t sew a-tall.
+
+Guess she aims t’ git married.
+
+Married? Huh! Wouldn’t no one have _her_!
+
+Would too have me! Lem Sickles ud have me.
+
+He’d _have_ you, all right, ’f you’d give him a chanst!
+
+BUD BICKEL (_loudly_)
+
+Le’s play, le’s stop a minute!
+
+BOYS AND GIRLS
+
+Hey, Miss Meredith!
+
+Shet up yer yellin’! Miss Meredith’ll take yer head off.
+
+Whut if I call her Jessie?
+
+You better hadn’t! Arclo went ’n’ called her Jessie, ’n’ you orter
+_seen_ her! She slapped him—!
+
+BOYS AND GIRLS (_protesting_)
+
+I’m hungry!
+
+Aw, c’m’on ’n’ do whut Bud says!
+
+Miss Meredith won’t let us, I bet.
+
+Fraidy cat! Shootin’ on it, Clem, quit steppin’ on my feet, you crazy!
+
+Le’s play! Keep yer feet in yer pocket!
+
+BUD
+
+Le’s play “Little Brown Jug.”
+
+BOYS AND GIRLS
+
+I’m hungry!
+
+Well, who keers if you air? _Be_ hungry! So’re we.
+
+Who’s gonna cook the meat? Who’s got the meat? Whur is the meat
+anyhow? It’s bacon, ain’t it?
+
+Shore, it’s bacon. (_Singing._) “Sow belly bacon ’n’ bean soup!”
+
+Le’s play “Happy is the Miller Boy.” I’ll be it.
+
+BUD
+
+Aw, le’s play “Ole Joe Clark.” C’m’on! Irey! Git _her_! Git Hildie
+fer a pardner. Well, you’re it, then. Irey’s it! Everbody got a
+pardner?
+
+BOYS AND GIRLS
+
+Wait a minute!
+
+Go ahead. You start it, Bud. “Ole Joe Clark”—
+
+  (_They begin to play, singing the song as they “do si do,”
+  promenade, etc._)
+
+    “Ole Joe Clark’s dead an’ gone,
+     I hope he’s doin’ well.
+     He made me wear the ball and chain
+     Till my ankles swelled.
+
+      “Rock, rock, ole Joe Clark,
+       Rock, rock, I’m gone,
+       Rock, rock, ole Joe Clark,
+       Good-by, Lucy Lawn.
+
+    “I wouldn’t marry a yellow gal,
+     Tell you the reason why—
+     Cross-eyed tears run down her back
+     When she starts to cry.
+
+     “Rock, rock, ole Joe Clark” (_etc._)
+
+BUD (_alone—loudly_)
+
+    “I wouldn’t marry a yellow gal,
+     Tell you the reason why—
+     Her neck’s so long an’ stringy,
+     I’m ’fraid she’d never die.”
+
+BOYS AND GIRLS (_joining in the chorus_)
+
+    “Rock, rock, ole Joe Clark” (_etc._)
+
+(MISS MEREDITH _enters at left. She is sharp and prim. Some of the
+boys shout to her, while the chorus goes on_:) C’m’on, Miss Meredith,
+’n’ play.
+
+MISS MEREDITH
+
+No, I won’t play.
+
+A BOY
+
+It’s fun.
+
+MISS MEREDITH
+
+It’s time to eat. Hurry and finish.
+
+BUD (_alone—loudly_)
+
+    “I wouldn’t marry a yellow gal,
+     Tell you the reason why—
+     She’d blow her nose in yellow corn-bread
+     An’ call it punkin’ pie!”
+
+BOYS AND GIRLS
+
+    “Rock, rock, ole Joe Clark—”
+
+MISS MEREDITH (_sharply_)
+
+Quit it! Quit it! (_The chorus stops._) That’s no way to act! Those
+verses are not very nice, Bud Bickel.
+
+BUD
+
+Aw, whut’s the matter with ’em?
+
+MISS MEREDITH
+
+Never mind, you’re not to sing them. They’re bad taste.
+
+BUD
+
+Ha! Bad taste? Verses don’t _taste_, Miss Meredith. They ain’t no
+taste to ’em, ma’am. ’N’ if they is, they all taste alike!
+
+MISS MEREDITH
+
+Not another word out of you, Bud Bickel! It’s time to be cooking the
+breakfast, anyway. You can play afterwards.
+
+BUD
+
+Aw, let us play one more!
+
+BOYS AND GIRLS
+
+One more ’fore we go—
+
+He didn’t mean nuthin’.
+
+It’s still early. Betty and Lloyd ain’t here yit.
+
+Betty and Lloyd ain’t come.
+
+It’s time t’ eat, anytime.
+
+Gosh, she tole him—
+
+Please, Miss Meredith—?
+
+MISS MEREDITH
+
+Oh, very well. You may play “Drop the Handkerchief.”
+
+A BOY
+
+Aw, that ain’t a play-party game.
+
+MISS MEREDITH
+
+This is not a play-party.
+
+BUD
+
+Le’s play “Straight Across the Hall.” That’s a _game_. It ain’t got
+no verses. C’m’on. Miss Meredith, you be my pardner. C’m’on!
+
+MISS MEREDITH
+
+I don’t play.
+
+BUD
+
+I’ll teach you how. ’S easy’s fallin’ off a log.
+
+MISS MEREDITH
+
+No.
+
+BUD
+
+Please, jist onct! Then we’ll go, ’n’ make a f’ar, and git breakfast!
+
+MISS MEREDITH
+
+Just once, then.
+
+BUD (_leading her over_)
+
+Miss Meredith’s gonna play.
+
+BOYS AND GIRLS
+
+Gee!
+
+Hey, it’s a good game!
+
+You won’t mind it s’ much, ma’am.
+
+’F anybody steps on you jist kick ’em, Miss Meredith! That’s the way
+a lady do. (_They form a circle, and begin to sing and play._)
+
+    “Straight across the hall to the opposite lady,
+     Swing her by the right hand,
+     Swing yer pardner by the left,
+     An’ promenade the girl behind you.
+
+      “Oh, that girl, that purty little girl,
+       The girl I left behind me,
+       I weeped an’ cried t’ the day I died
+       Fer the girl I left behind me.”
+
+MISS MEREDITH (_suddenly_)
+
+Stop it!
+
+BUD
+
+Whut’s the matter?
+
+MISS MEREDITH
+
+Stop it, Bud Bickel! (_She crosses over right, angrily._) We won’t
+play any more.
+
+BUD (_following her over_)
+
+Whut is it, whut’ve I done?
+
+MISS MEREDITH
+
+You’re swinging the Waist Swing, Bud Bickel!
+
+BUD
+
+Well, o’ course!
+
+MISS MEREDITH
+
+It’s wrong. It’s wicked. I’m ashamed of you. I’m surprised at you.
+
+BUD
+
+Why, ma’am, I do that all the time. I swing all the girls the Waist
+Swing.
+
+MISS MEREDITH
+
+The idea! Don’t you know it’s wrong?
+
+BUD
+
+No’m.
+
+MISS MEREDITH
+
+It is. Don’t you ever do it again, you hear me? And don’t you girls
+ever let me catch you letting a boy swing you by the waist instead of
+by the arms. Come on, now! We won’t wait any longer.
+
+A BOY
+
+But Lloyd and Betty ain’t here yit—
+
+MISS MEREDITH
+
+We’ll not wait, I say! Hurry up now! (_She goes out._)
+
+BOYS AND GIRLS
+
+She’s on her high horse!
+
+Aw, it’s too early yit to eat. Sun’s jist riz—
+
+Hey, she tole it to you, Bud!
+
+Ain’t you a nice sight—a-swingin’ the girls—
+
+BUD
+
+Shet up!
+
+A BOY
+
+You he-devil you, Bud Bickel! You waist-swingin’ son of a gun! Come
+on ’n’ swing some meat over the f’ar ’n’ see how you like that!
+(_They all go out, laughing._)
+
+  (_After a moment_, LLOYD _and_ BETTY _enter from the left_. BETTY
+  _goes hurriedly toward the boat and is about to get in_. LLOYD
+  _stops_.)
+
+LLOYD
+
+Betty— (_She turns._) Betty, they jist went. I guess they’re ready t’
+eat, now—
+
+BETTY (_shaken_)
+
+I don’t keer—
+
+LLOYD
+
+Aw, you mustn’t be excited about nuthin’—
+
+BETTY
+
+I ain’t excited.
+
+LLOYD
+
+Yes, you air, too. I c’n tell the way you act. You see—they wuzn’t
+nuthin’—
+
+BETTY
+
+No—
+
+LLOYD
+
+Nuthin’ a-tall. They uz nice folks. (_Trying to reassure her._) Funny
+place t’ be a-livin’ in though—buried under the ground, like. Looks
+like it ud be damp s’ close to the lake. But they uz nice folks. Nice
+womern. The man uz all right. Kind of a lumberin’ kinda man—’thout no
+talk—but kindhearted. Didden he loan us the boat?
+
+BETTY
+
+Yes—
+
+LLOYD
+
+Didden he give us the oars? Shore he did! Well?—
+
+BETTY
+
+Le’s go on the lake now, Lloyd—
+
+LLOYD
+
+Shore! We’ll go, all right. I said we’d go. (_He goes toward her.
+She gets in the boat. A burst of song and laughter comes from the
+picnickers some distance away. He raises his head._) Betty, listen!
+They’re gettin’ breakfast ready, I guess.
+
+BETTY
+
+I don’t want none.
+
+LLOYD
+
+All right, I ain’t s’ hungry. But I’m jist wonderin’—wh’er we hadn’t
+oughter let ’em know we’ve come. I told Bud Bickel we uz comin’ early
+by ourselves. They might wonder about us—or wait fer us.
+
+BETTY
+
+They won’t wait. They’re startin’ a f’ar.
+
+LLOYD
+
+Smoke’s a-rizin’ good. It’s a-comin’ off the ground an’ rizin’ up
+like a cloud. We oughter be thar. Miss Meredith might worry about us.
+
+BETTY
+
+She wouldn’t worry about us. She wouldn’t worry about no one. Please,
+Lloyd, le’s go out on the lake—a little while, jist fer a little—
+
+LLOYD (_anxiously_)
+
+Whut is it?
+
+BETTY
+
+Nuthin’—
+
+LLOYD
+
+Tell me—
+
+BETTY (_with sudden passion_)
+
+Oh, _them_! That cabin! Them people! That man! I’m afeard of him,
+he’s a part of these woods here! He’s part of this. I don’t like it.
+It’s busy, busy a-doin’ sump’n I can’t understand! They ain’t nuthin’
+clear t’ me. Why’d he look at me that a-way? Why’d he want me t’
+borry a coat t’ keep warm? Why’d he stir up the f’ar—fer _me_? Why
+did he?
+
+LLOYD
+
+Why, Betty, he uz only bein’ nice t’ you. He liked you. People like
+you—you’re sweet, you’re purty—
+
+BETTY
+
+No. It ain’t that! It’s sump’n else. I don’t understand it. I’m
+afeard. I’m too young. It’s wrong t’ be young—
+
+LLOYD
+
+Betty! Why, here—
+
+BETTY
+
+His eyes a-burnin’— His teeth—like a animal’s—
+
+LLOYD
+
+Betty!
+
+BETTY
+
+He’s a _part_ o’ these woods here! He b’longs here. I don’t. I
+don’t b’long here. You don’t. We’re too young. They’s sump’n goin’
+on—sump’n mean—sump’n awful—It ain’t fer us t’ be part of. We got to
+git away—
+
+LLOYD
+
+We’ll go on the lake.
+
+BETTY
+
+Oh, yes, we’ll go on the lake! (_Thoughtfully._) Nen whur’ll we go to?
+
+LLOYD
+
+_Acrost_ the lake—or down to the other end. We c’n git a snack t’ eat
+at Binghams. We’ll do that ’n’ then row home. We won’t come back here
+t’ the woods if you don’t want to—
+
+BETTY
+
+We couldn’t jist stay—in the middle of the lake—awhile?
+
+LLOYD
+
+Course we could—fer a while. But you’d be hungry. You’d be cold out
+thar too after a while. The wind blows—
+
+BETTY (_fearfully_)
+
+All around the lake, everwhur, they’s woods. The lake goes out—’n’
+it’s clear thar and bright—but it teches the woods everwhur at the
+edges. Oh! They ain’t no place t’ go to! The lake—it teches the
+woods—it’s a _part_ of the woods! (_She sinks down._)
+
+LLOYD (_kneeling_)
+
+No! No, it ain’t, Betty. You’re jist upset. It’ll be nice out thar.
+It’ll be clear an’ bright. Mebbe it’ll be warm. We’ll stay as long’s
+you want to. You mustn’t be this a-way, don’t you see, Betty? Oh,
+I know—you’re jist upset, you’ve saw things you don’t understand.
+You’ve been skeered. It’s all right now. You mustn’t think
+everything’s mixed up like this—like these woods. Out there—look
+at it—look at the lake! (_Breathlessly._) Sun techin’ it. Little
+waves startin’ in the wind, breakin’ here on the bank in ripples.
+Trees—willers leanin’ down like they uz prayin’ at the edges. I wish
+I could be a lake. I wish I could be that big, that deep! I wish I
+could be ketchin’ the sun like it—an’ sparklin’ an’ singin’—an’ never
+afeard o’ nuthin’—jist a-settin’ thar quiet in the sunshine—a-lookin’
+up at the sky, a-lookin’ up at the sun—
+
+BETTY (_looking up at him_)
+
+You make it nice—
+
+LLOYD
+
+No, ’tain’t me—
+
+BETTY
+
+You make it nicer’n it is—
+
+LLOYD
+
+No. It looks that a-way t’ me.
+
+BETTY
+
+It’s that a-way t’ me, too—
+
+LLOYD (_relieved_)
+
+Betty—
+
+BETTY
+
+When you say it. You make things nicer’n they air—
+
+LLOYD
+
+No, I make ’em the _way_ they air.
+
+BETTY
+
+An’ the lake?—
+
+LLOYD
+
+It’s a deep pool—
+
+BETTY
+
+It’s quiet.
+
+LLOYD
+
+It moves when the wind moves. It holds the sun. It’s a cup with gold
+in it—
+
+BETTY
+
+And dawn—
+
+LLOYD
+
+An’ sunset, and shadders, and starlight, an’ the moon burnin’ red.
+Come on, why’d we stay on the bank? We’ll go out— (_He climbs into
+the boat._)
+
+BETTY
+
+Yes.
+
+LLOYD
+
+On the lake!
+
+BETTY
+
+I hear sump’n—
+
+LLOYD
+
+’S footsteps. Somebody runnin’—
+
+BETTY
+
+They’re comin’ this way!
+
+LLOYD
+
+Through the woods—
+
+BETTY
+
+Lloyd!
+
+LLOYD
+
+Sh!
+
+BETTY
+
+Le’s go, quick.
+
+LLOYD
+
+Be still! They won’t see us!
+
+  (_A boy rushes in headlong from the woods at the left. He is almost
+  out of sight, right, when he catches sight of the two in the boat.
+  He stops. His face is coarse; a grin, like an idiot’s, spreads over
+  his face. It is the_ DAVIS _boy_.)
+
+DAVIS
+
+Hi!
+
+LLOYD
+
+Hi.
+
+DAVIS
+
+Didden see ya. Betty an’ Lloyd, ain’t it? Whut you doin’?
+
+LLOYD
+
+Nuthin’.
+
+DAVIS
+
+Well. Whur’s Miss Meredith at?
+
+LLOYD
+
+Down the lake. Thought you wuzn’t comin’. Thought you had t’ work.
+
+DAVIS
+
+I did—but I sneaked off. Played hookey frum work—like frum school.
+Joke’s on my ole man. He’s keepin’ the shop, he’s shoein’ ole Jake
+Wilkerson’s mare— Whut you doin’ here—you two?
+
+LLOYD
+
+Nuthin’.
+
+DAVIS
+
+Settin’ in a boat—by yerselves, ain’t ya? Ha! Havin’ a good time all
+by yerselves, ain’t ya? Sweet on each other, ain’t ya? Oh, by Joe!
+Wait’ll I tell Miss Meredith!
+
+LLOYD
+
+Shet up yer mouth, Oscar Davis!
+
+DAVIS
+
+Miss Meredith knows yer here, don’t she?
+
+LLOYD
+
+We ain’t saw her this mornin’.
+
+DAVIS
+
+You ain’t? Oh, wait’ll I tell her! Settin’ in a boat—_hidin’_ in a
+boat! I wouldn’t a-saw you if you’d a-kep’ yer head down. O gorry!
+
+LLOYD (_gets out of the boat, angrily_)
+
+Whut’re you a-sayin’, you?
+
+DAVIS
+
+Oh, the sweet little babies—a-settin’ in the boat—jist a-settin’ an’
+a-settin’ till the night do come. Oh, by Joe!
+
+  (_He runs out, right, laughing._ LLOYD _looks at_ BETTY,
+  _disturbed, then walks over left_. BETTY _gets out of the boat
+  slowly and goes toward him_.)
+
+BETTY
+
+Lloyd— We better go—
+
+LLOYD
+
+Mebbe—
+
+BETTY
+
+He makes me feel— Oh!—
+
+LLOYD
+
+Don’t mind him.
+
+BETTY
+
+I do mind him. We better go. (_Painfully._) Lloyd, whut is it? Whut’d
+he mean?
+
+LLOYD
+
+Oh, don’t mind him—
+
+BETTY
+
+Tell me—
+
+LLOYD
+
+Things. He’s dirty, he’s low—
+
+BETTY
+
+Oh!—
+
+LLOYD
+
+We’ll go whur the others are at. It’s all right. Don’t you mind. Miss
+Meredith’ll know it’s all right. She’ll know. Come on. We better go.
+
+  (_They start, right._ MISS MEREDITH _enters hastily, out of breath,
+  venomous. She stops in their path._)
+
+MISS MEREDITH
+
+Oh—so you’re here?
+
+LLOYD (_slowly_)
+
+Yes’m.
+
+MISS MEREDITH
+
+A pretty sight! A pretty couple, I must say!
+
+LLOYD
+
+Whut’d you mean?
+
+MISS MEREDITH
+
+The nerve—asking me what I mean! Where have you been all morning—you
+two?
+
+LLOYD
+
+No whur. We come here—that’s all.
+
+MISS MEREDITH
+
+_Come_ here! What time did you leave the Switch?
+
+LLOYD
+
+I don’t know. It uz early.
+
+MISS MEREDITH
+
+What time?
+
+LLOYD
+
+I don’t know.
+
+MISS MEREDITH
+
+You don’t know? Before sun-up?
+
+LLOYD
+
+Yes, ma’am.
+
+MISS MEREDITH
+
+Before daylight, wasn’t it?
+
+LLOYD
+
+Yes.
+
+MISS MEREDITH
+
+You left in the dark?
+
+LLOYD
+
+Yes, it uz still dark.
+
+MISS MEREDITH
+
+I thought so!
+
+LLOYD
+
+Whut difference’d it make? I tole Bud Bickel to tell you—
+
+MISS MEREDITH
+
+Oh, he told me! He told me you were coming early—by yourselves—you
+and Betty. Why’d you do it?
+
+LLOYD
+
+Why, we wanted to.
+
+MISS MEREDITH
+
+Wanted to! That’s no reason. Why’d you want to?
+
+LLOYD
+
+Why, we wanted t’ be here ’fore it got light t’ see the lake. T’ see
+it git lighter ’n’ lighter till the gray mist uz all gone—an’ the sun
+had rose—
+
+MISS MEREDITH
+
+Oh, you did? So you had to get up early in the morning—before
+daylight—and drive here through the dark woods—by
+yourselves—alone—you two? You had to sneak off where there was no one
+to spy on you, and no light to make you ashamed of yourselves, didn’t
+you? Oh, don’t interrupt me! I know why you did it! I’m surprised
+at you, Betty. I wouldn’t have thought it of you! I shall report
+you both to the School Board. I’m ashamed! I’m ashamed _for_ you! I
+can hardly look any one in the face. I don’t know how you can. Oh,
+it’s this that makes teaching so hard! After all my labor, and all
+my rules to keep you from going wrong like this—you sneak off to the
+woods—the first chance you get—like a couple of animals. I’m ashamed
+of you! Come on, now! The fire’s started. Come on and eat your
+breakfast! (_She goes out._)
+
+BETTY (_turns away, stricken_)
+
+Oh! Her, too!
+
+LLOYD
+
+Her—an’ everbody! Damn her! Damn everbody! O Christ!
+
+BETTY
+
+It’s all mean—it’s all wicked, wicked! Whut’ll we do now?
+
+LLOYD (_in agony_)
+
+Nuthin’—
+
+BETTY
+
+We _got_ to do _sump’n_!
+
+LLOYD
+
+We’ll go on the lake, then.
+
+BETTY
+
+They’s no place else t’ go—
+
+LLOYD
+
+It’s the _only_ place t’ go. We’d oughta went thar before. Come on,
+Betty, git in. (_They get in the boat._ LLOYD _shoves it away from
+the bank_.) We c’n go acrost ’n’ git grub—we c’n go home—
+
+BETTY
+
+Home! I don’t want t’ _see_ home again! I hate it! I hate these
+woods! They’s no place fer us—nowhur—
+
+LLOYD
+
+They’s room on the lake—
+
+BETTY
+
+Oh, yes! They’s room thar! They’s room on the Lake!
+
+LLOYD
+
+It’s big! It’s deep!
+
+  (_They row out of sight, left. A burst of song and laughter comes
+  from the picnickers down the lake. Then there is the sharp crackle
+  of twigs, and the noise of running._ PLANK _and the_ SHERIFF _run
+  in from the right_.)
+
+PLANK (_pointing off left, excitedly_)
+
+Thar he is, Shuruff!
+
+SHERIFF
+
+(_Draws his pistol as they run off left._)
+
+
+_Curtain_
+
+
+THE LAKE
+
+SCENE 2
+
+  (_A cleared place sloping down to the left, where the lake comes in
+  in a little bay. The branches of old trees meet overhead. The lake
+  glitters in the bright sunlight._
+
+PLANK _and the_ SHERIFF, _with the pistol still in his hand, stand
+and shout off left_.)
+
+SHERIFF
+
+Come in, you! Put that boat in to shore!
+
+LLOYD’S VOICE
+
+I won’t— I won’t—
+
+SHERIFF
+
+I’m givin’ you one more chance!
+
+LLOYD’S VOICE
+
+I won’t never do it! You cain’t make me, you cain’t—
+
+SHERIFF
+
+I’ll give you till I count three!
+
+LLOYD’S VOICE
+
+Count ten! Count a hunderd! I won’t come!
+
+SHERIFF (_deliberately_)
+
+One! Two! Three! Comin’?
+
+LLOYD’S VOICE
+
+Never!
+
+SHERIFF (_raises his gun slowly and fires_)
+
+Take that, then! (BETTY _screams_.)
+
+PLANK
+
+You got him, Shuruff! He’s sunk down in the boat like he’s dead! Hey!
+Look at it! Look! The girl! She’s standin’ up in the boat! Good God,
+she’s jumpin’ in the lake! She’ll drownd!
+
+  (BUTCH _and_ ELLY, _followed by_ JOE, _run in from the right_.)
+
+ELLY (_in horror_)
+
+Shuruff! Shuruff! You’ve killed him! You’ve killed him! (_She looks
+off, left._) Oh, the girl—she’s drownin’! Quick, save her—you got
+to—go an’ save her, she’s drownin’! (BUTCH _throws off his coat_.)
+
+BUTCH (_muttering_)
+
+Christ! (_He dashes off, left._)
+
+ELLY (_with a moan_)
+
+Oh, w’at’ve you done, w’at’ve you done! (_With bitter scorn._)
+You don’t know! You think you’ve upheld the law, you think you’ve
+done yer duty! Well, you ain’t! You’ve killed an innocent boy that
+wouldn’t hurt a fly—that’s w’at you’ve done! (_She looks left._) Oh,
+hurry! hurry! She’s goin’ down! Hurry an’ git her!
+
+SHERIFF
+
+Go help him, Plank. Go help him. Joe, go drag in the boat. Hurry up!
+(PLANK _and_ JOE _hurry out_.)
+
+ELLY
+
+Mebbe she ain’t drownded. Mebbe she ain’t—the pore thing— (_She sinks
+down wearily. To the_ SHERIFF.) Why’d you stand thar? Why don’t you
+do sump’n? (_With infinite scorn, infinite weariness._) Look at him.
+He’s the law. He’s done his duty. He’s got his man. He’ll git a
+reward.
+
+SHERIFF
+
+Shet up!
+
+ELLY
+
+You cain’t shet me up. I’m a fool not to a-told you before. I’m a
+fool too—like yerself—like Butch—like the whole damn world! I _been_
+a fool. But I won’t be now. I’ll tell you now—now it’s too late—I’ll
+tell you sump’n ’at’ll make yer ears burn, ’at’ll make you sick
+inside like sump’n eatin’ on yer heart! Listen t’ me—you! You’re
+bright, you’re smart, you’re a keen-smellin’ dog of the law, you’re
+the _law_! You pertect the weak, you hang the criminals. _You shoot
+down, you murder innocent people—that’s w’at you do!_ (_With a sob._)
+It uz Butch, it uz Butch killed Jim Dory....
+
+SHERIFF
+
+Whut’s this!
+
+ELLY
+
+_Butch_, I tell you! This boy ain’t his brother. He never saw him
+before. He’s jist a boy, jist a young boy—picknickin’—in the woods—
+
+SHERIFF
+
+Good God! Is this the truth you’re tellin’ me?
+
+ELLY
+
+It’s the truth—
+
+SHERIFF
+
+Godamighty!
+
+  (BUTCH _comes in dripping, carrying_ BETTY. _He puts her down
+  gently._)
+
+BUTCH
+
+Drownded—
+
+  (PLANK _and_ JOE _come in carrying_ LLOYD. _They put him down._)
+
+PLANK
+
+You got him, Shuruff—
+
+JOE
+
+He’s dead.
+
+  (_The_ SHERIFF _staggers a little, his hand before his eyes_. ELLY
+  _comes down, bends tearfully over the bodies. Then she stands
+  erect, wheels and faces the_ SHERIFF.)
+
+ELLY
+
+Ask him!
+
+SHERIFF
+
+Oh—
+
+ELLY
+
+Ask him, Shuruff! Ask him who killed Jim Dory! ’N’ if he lies!—
+
+SHERIFF (_to_ BUTCH)
+
+She says you done it.
+
+BUTCH
+
+She told on me?
+
+SHERIFF
+
+She says you done it.
+
+BUTCH
+
+(_He looks at_ ELLY. _She does not flinch. He looks back at the_
+SHERIFF. _Speaks slowly._) I killed him.
+
+SHERIFF
+
+Christamighty! You killed Jim Dory? You killed this boy too, then!
+_You_ done it! ’Twuzn’t _me_!
+
+BUTCH (_as if dazed_)
+
+I killed her, too. She drownded herself. I tried t’ save her.
+
+SHERIFF (_horrified_)
+
+How could you do it! Two men—an’ this pore innocent little girl! God!
+Why’d you do it? Whut made you?
+
+BUTCH
+
+I don’t know. You’re the law. _You_ tell me! Tell me why I done it!
+
+  (_The picnic party rushes in from the right. They stop. They are
+  silent, awed._)
+
+MISS MEREDITH
+
+What’s the matter? I heard shots! (_She catches sight of the
+bodies._) Oh! What is it? Lloyd and Betty! Good heavens!
+
+SHERIFF
+
+Dead, Miss.
+
+MISS MEREDITH
+
+Oh, my poor little children! My poor little ones! (_To_ BUTCH,
+_gratefully, noticing his wet clothes_.) Oh, you tried to save them!
+God will reward you! (BUTCH _turns away_.) Poor little Betty— Lloyd
+was good to her. Oh, why’d they go on the lake! Why’d they do it? I
+told them not to. (_She turns away, sobbing._)
+
+ELLY (_slowly_)
+
+It’s alwys the way. People _will_ go on the lake. Young people.
+Cain’t keep ’em off. ’N’ they’s alwys accidents. Sometimes it’s the
+lake, sometimes it’s the woods—boats leak, guns go off, people air
+keerless, they’s wild animals—sump’n happens, sump’n alwys happens.
+It cain’t be helped.—
+
+
+_Curtain_
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK BIG LAKE ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

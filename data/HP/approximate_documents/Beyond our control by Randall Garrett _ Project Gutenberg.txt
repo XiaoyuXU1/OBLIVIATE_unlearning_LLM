@@ -1,0 +1,1261 @@
+﻿The Project Gutenberg eBook of Beyond our control
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Beyond our control
+
+Author: Randall Garrett
+
+Illustrator: Richard Kluga
+
+Release date: October 6, 2023 [eBook #71821]
+
+Language: English
+
+Original publication: New York, NY: Royal Publications, Inc
+
+Credits: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team at http://www.pgdp.net
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK BEYOND OUR CONTROL ***
+
+
+
+
+
+                          Beyond Our Control
+
+                          By RANDALL GARRETT
+
+                     Illustrated by RICHARD KLUGA
+
+              _The "technical difficulties" on Satellite
+              Four became a menace to the entire Earth!_
+
+           [Transcriber's Note: This etext was produced from
+                        Infinity January 1958.
+         Extensive research did not uncover any evidence that
+         the U.S. copyright on this publication was renewed.]
+
+
+
+
+                               CHAPTER I
+
+
+The big building stood out at night, even among the other towering
+spires of Manhattan. The bright, glowing symbol on its roof attracted
+the attention of anyone who looked up at the night sky of New York; and
+from the coast of Connecticut, across Long Island Sound, the huge ball
+was easily visible as a shining dot of light.
+
+The symbol--as a symbol--resembled the well-known symbol of an
+atom. It consisted of a central globe surrounded by a swarm of
+swiftly-moving points of light that circled the glowing sphere
+endlessly. It represented the Earth itself and the robot-operated
+artificial satellites that whirled around it. It was the trademark of
+Circum-Global Communications.
+
+But it was more than just a symbol; it was also the antenna for the
+powerful transmitters that kept constant contact with the satellite
+relay stations which, in turn, re-broadcast the TV impulses to all
+parts of the globe.
+
+Inside the CGC Building, completely filling the upper twenty floors,
+were the sections of the vast electronic brain that computed and
+integrated the orbits of the small artificial moons and kept the
+communication beams linked to them. And below the brain, occupying
+another four floors, were the control and monitoring rooms, in which
+the TV communications of a world were selected and programmed.
+
+In Johannesburg, South Africa, the newly-elected President spoke in
+front of a TV camera. His dark, handsome face was coldly implacable
+as he said: "They wanted _apartheid_ when they were in power; we
+see no reason to believe they have changed their minds. They wanted
+_apartheid_--very well, they shall continue to have _apartheid_!"
+
+His image and his voice, picked up by the camera and mike, were
+transmitted by cable to the beam broadcaster in the old capital of
+Pretoria. From there, it was broadcast generally all over South Africa;
+at the same time, it was relayed by tight beam to Satellite Nine,
+which happened to be in the sky over that part of the Earth at that
+time.
+
+Satellite Nine, in turn, relayed it to all the other satellites in line
+of sight. Satellite Two, over the eastern seaboard of North America,
+picked it up and automatically relayed it to the big antenna on top of
+New York's Circum-Global Communications Building.
+
+There it was de-hashed and cleaned up. The static noise which it had
+picked up in its double flight through the ionosphere was removed; the
+periods of fading were strengthened, and the whole communication was
+smoothed out and patched up.
+
+From the CGC Building, it was re-broadcast over the United States.
+A man in Bismarck, North Dakota, looked at the three-dimensional,
+full-color image of the President of South Africa, listened to his
+clear, carefully-modulated words, and said: "Serves 'em right, by
+George!"
+
+       *       *       *       *       *
+
+Besides the world-wide television news and entertainment networks, CGC
+also handled person-to-person communication through its subsidiary,
+Intercontinental Visiphone. If the man in Bismarck had wanted to call
+the President of the Union of South Africa, his visiphone message would
+have gone out in almost exactly the same way, and the two men could
+have talked person-to-person, face to face. (Whether the President of
+South Africa would have accepted the call or not is another matter.)
+
+From all over the world, programs and communications were picked up by
+the satellites and relayed to the CGC Building, where they were sorted
+and sent out again.
+
+The man in charge of the technical end of the whole operation was a
+short, stocky, graying man named MacIlheny.
+
+James Fitzpatrick MacIlheny, Operational Vice-President of
+Circum-Global Communications, was one of those dynamic men who can
+allow their subordinates to call them by a nickname and still retain
+their respect. His wife called him "Jim"; his personal friends called
+him "Fitz"; and his subordinates called him "Mac." He knew his own job,
+and the job of every man under him; if one of the men slipped up, he
+heard about it in short order, but, on the other hand, if the work was
+well done, he heard about that in short order, too. MacIlheny was as
+free with his pats on the back as he was with the boot a little lower
+down. As a result, his men respected him and he respected them.
+
+MacIlheny liked his work, so he was quite often found in his office or
+in the monitoring rooms long after his prescribed quitting time. On
+the evening of 25 March 1978, he had stayed overtime nearly four hours
+to watch the installation of a new computer unit. As a matter of cold
+fact, since the day was Saturday, he needn't have been in the office at
+all, but--well, a new computer isn't put in every day, and MacIlheny
+liked computer work.
+
+It was exactly 1903 hours when the PA system clicked on and an
+operator's voice said: "Is Mr. MacIlheny still in the building, please?
+Mr. MacIlheny, please call Satellite Beam Control."
+
+MacIlheny stood up from the squatting position he had been in, handed a
+flashlight to one of the technicians standing nearby, and said: "Hold
+this, Harry; I'll be back in a minute."
+
+The installation crew went on with their work while MacIlheny went over
+to a wall phone. He picked it up and punched the code number for Beam
+Control.
+
+"This is MacIlheny," he said when the recog signal came.
+
+"Mac? This is Blake. Can you come down right away? We've lost Number
+Four!"
+
+"What happened?"
+
+"Don't know. She was nearly overhead, going along fine, when we lost
+contact all of a sudden. One minute she was there, the next minute she
+was gone. We've lost the beam, and--just a second!" There was a pause
+at the other end, then Blake said: "We just got a report from some
+of the ground stations within range. Satellite Number Four has quit
+broadcasting altogether--there's no signal from her at all!"
+
+"I'll be right down," MacIlheny snapped. He hung up the phone and
+headed for the elevator.
+
+       *       *       *       *       *
+
+It wasn't good. Number Four, like the other satellites, was in a nearly
+circular orbit high above the atmosphere of Earth. She should follow a
+mathematically predictable course, subject only to slight variations
+from the pull of the other satellites and the pull of the moon, plus
+the small perturbations caused by the changing terrain of the Earth
+beneath her. She'd have to be badly off course to be out of range of
+Beam Control.
+
+The elevator dropped MacIlheny down from the computer level to the
+monitor and control level. The men at the monitor screens didn't look
+up from their work as MacIlheny passed, but there was a feeling of
+tension in the air. The monitors knew what had happened.
+
+To the man in Bismarck, North Dakota, or the housewife in Tampa,
+Florida, the disappearance of the satellite meant nothing more than a
+slight irritation. If the program they were watching happened to be
+one that was shunted through Number Four, their screen had simply gone
+dark for a moment. Then, with apologies for "technical difficulties
+beyond our control," another program had been switched into the channel.
+
+For the businessman in San Francisco and the government official in New
+York, the situation was worse. Important intercontinental conferences
+were cut off in mid-sentence, and vital orders were left hanging in the
+air.
+
+For seven transcontinental stratoliners, the situation was almost
+tragic. The superfast, rocket-driven, robot-controlled ships, speeding
+their way through the lower ozonosphere, fifteen miles above the
+surface of the Earth, were suddenly without the homing beams they
+depended upon to guide them safely to their destinations. Their
+beam-detection instruments went into a search pattern while alarm
+bells shattered the quiet within. Passengers in the lounges and in the
+cocktail rooms looked suddenly wide-eyed.
+
+On one of the ships, there was a near panic when one fool screamed:
+"We're going to crash! Get parachutes!"
+
+Not until the flight captain caught the hysterical passenger on the
+chin with a hard right uppercut and explained that everything was
+in good order did the passengers quiet down. He didn't worry them by
+explaining that there were no parachutes aboard; at eighty thousand
+feet of altitude and a velocity of over forty miles per minute, a
+parachute would be worse than useless.
+
+Each of the stratoliners had to be taken over by the flight captain and
+eased down manually.
+
+MacIlheny had a pretty good idea of what was going on all over the
+United States, and he didn't like it. He pushed open the door of the
+Beam Control Section and strode in. Blake met him halfway across the
+room.
+
+"Nothing yet, as far as contact goes," he said. "We've heard from the
+spotter station in Topeka; they missed it at the same time we did--1702
+hours, two seconds."
+
+MacIlheny glanced at the chronometer on the wall. The satellite had
+been missing for nearly four minutes now.
+
+"Get the Long Island Observatory; tell 'em to keep an eye peeled for
+Number Four. It ought to be out of Earth's shadow," MacIlheny ordered.
+"And start a sweep search with the radar. Cover the whole area. Get
+a prediction from the Orbit Division; find the cone of greatest
+probability and search it carefully. Unless the damned thing just blew
+up, it's got to be up there somewhere!"
+
+"I've already called Orbits," Blake said. "I'll get Long Island on the
+line." He headed for the phone.
+
+MacIlheny went over to one of the control boards and looked over the
+instruments. He swept his eyes across them, reading them as a group, in
+the same way an ordinary man reads a sentence. Satellite Number Four
+had vanished, as far as the Beam Controls were concerned. Data from the
+electronic brain indicated that the acceleration of the satellite had
+been something terrific, but whether it had slowed down or speeded up
+was something the brain couldn't tell yet.
+
+A thin, sandy-haired man at a nearby board said: "What do you think,
+Mac?"
+
+"There's only one thing could have done it, Jackson," MacIlheny said.
+"A meteor."
+
+"That's what we figured. It must have been a doozie!"
+
+"Yeah. But which direction did it hit from? If it hit from the side,
+Number Four will be twisted around; its new orbit will be at an
+angle to the old one. If it overtook the satellite from behind, the
+additional velocity will lift it into a newer, higher orbit. If it
+was hit from the front, it'll be slowed down, and it may hit the
+atmosphere."
+
+"Not much chance of its being overtaken," Jackson said. "A meteor would
+have to be hitting it up at a pretty good clip to shove Four ahead
+_that_ fast!"
+
+"Right," MacIlheny agreed. "And meteors just don't travel that fast in
+that direction."
+
+"No--no, they don't."
+
+MacIlheny felt a sense of frustration. The satellite was gone, vanished
+he knew not whither. It had disappeared into some limbo which, at the
+moment, was beyond his reach. Until it was located, either visually or
+by radar, it might as well not exist.
+
+There was actually nothing further he could do until it was found; he
+couldn't find it himself.
+
+"What's our next contact?" he asked.
+
+"Satellite Number Eight. It'll be coming over the horizon in--" Jackson
+glanced at the chronometer. "--in eight minutes, twenty-seven seconds.
+We'll just have to hold on till then, I suppose."
+
+MacIlheny thought about the stratoplanes he knew were up there. "Yeah,"
+he said tightly. "Yeah. Just wait."
+
+
+
+
+                              CHAPTER II
+
+
+Four minutes came and went, while MacIlheny and the others smoked
+cigarettes and tried to maintain a certain amount of calm as they
+waited.
+
+At the end of the four minutes, the phone rang. Blake, who was nearest,
+answered.
+
+"Yes. Good! Okay, thanks, Dr. Vanner!" He cradled the receiver and
+turned to MacIlheny. "The Observatory. They've spotted Number Four.
+She's slowed way down and dropped. They're feeding the orbit figures to
+Orbits Division now, by teletype. She evidently hit a fast meteor, head
+on."
+
+MacIlheny nodded. "It figures. Tell Orbits to feed us a computation
+we can sight by--feed it directly into the Brain first, so we can
+get things going. We've got to get that satellite back up where she
+belongs!"
+
+As the figures came in, it became obvious that the orbit of Number
+Four had been radically altered. Evidently, a high-speed, fairly
+massive meteor had struck her from above and forward, slowing her
+down. Immediately, the satellite had begun to drop, since angular
+acceleration no longer gave her enough centrifugal force to offset the
+gravitational pull of the Earth. As she dropped, however, she picked up
+more speed, and was able to establish a new, different orbit.
+
+With this information fed into it, the electronic brain in the top
+twenty floors of the CGC Building went smoothly to work. Now that it
+knew where the satellite was, it could again focus the beams on her.
+Since the direction and velocity of the artificial moon in her new
+orbit were also known, the trackers could hold the beam on her.
+
+MacIlheny rubbed his chin with a nervous forefinger as he watched the
+instruments on the control board come to life again as contact was
+re-established.
+
+Meanwhile, Orbits Division was still at work. In order to re-establish
+the old orbit, the atomic rocket engines in the satellite would have to
+be used. Short bursts, fired at precisely the right time, in precisely
+the right direction, would lift her back up to where she belonged.
+It was up to Orbits Division to compute exactly how long and in what
+direction the remote-controlled rockets should apply their thrust.
+
+As the beams again locked on the wayward satellite, MacIlheny kept his
+eyes on the control board. Lights flickered and rippled across the
+panel; needles on various meters wavered and jumped. MacIlheny watched
+for several seconds before he said:
+
+"Blake! What the hell's wrong there?"
+
+Blake watched a set of oscilloscopes, four green-glowing screens which
+traced and re-traced bright yellow-green lines across their surfaces.
+His dark brows lowered over his eyes.
+
+"We can't get anything to her, Mac. She's dead. Either that meteor hit
+her power supply or else it did more damage than we thought."
+
+"No control, then?"
+
+Blake shook his head. "No control."
+
+MacIlheny frowned. If the remote controls wouldn't work, then it
+wouldn't be possible to realign the orbit of the satellite. "Keep
+trying," he said. Then he turned from the control board, went to the
+phone, and punched the number of the Orbits Division.
+
+"Orbits Division, Masterson here," said a gruff voice from the other
+end.
+
+"This is MacIlheny. How does that orbit on Number Four look now?"
+
+"We've got it, Mac. I'll send the corrective thrust data to the brain
+as soon as--"
+
+"Never mind the corrective thrust," MacIlheny interrupted impatiently.
+"We can't use it yet. We don't have any positive contact with her;
+she's dead--no response to the radio controls."
+
+"You mean you can't get her out of that orbit?" Masterson's voice was
+harsh.
+
+"That's exactly what I mean. She's stuck in her new orbit until we find
+some other way to change it. It can't be done from here."
+
+There was a pause at the other end, then Masterson said: "Mac, I hate
+to say this, but you've got a hot potato on your hands. That thing's in
+a cometary orbit!"
+
+"_Cometary?_"
+
+"That's right. Instead of a normal, near-circular path, she's going in
+an elongated ellipse. At perigee, she'll be less than a hundred and
+fifty miles above the surface."
+
+"_Uh!_" MacIlheny felt as though someone had slugged him. If the
+satellite went that low, the air resistance would slow her even more
+before she broke free again. Each successive passage through the
+atmosphere would slow her more and more until she finally fell to
+Earth. If she fell into the ocean, that would be bad enough; but if she
+hit a populated area....
+
+       *       *       *       *       *
+
+Fortunately, by that time her velocity would be considerably cut down;
+if she were to hit the atmosphere with her present velocity, the shock
+wave alone would be disastrous.
+
+"Okay," said MacIlheny at last. "Notify every observatory within sight
+range of her orbit! Keep a check on her every foot of the way! We'll
+have to send up a drone."
+
+"Right!" There was a subdued click as Masterson hung up.
+
+MacIlheny turned. Blake was standing beside him. "I've got White Sands
+on the line, Mac."
+
+MacIlheny flashed an appreciative grin. "Thanks, Blake." He went to
+Blake's office and closed the door. In the screen of the visiphone, he
+saw the face of Paul Loch, of Commercial Rockets, Inc., White Sands.
+
+"How's it going, Mac?" Loch asked. "I understand you're having trouble
+with Number Four."
+
+"It's worse than just trouble, Paul," MacIlheny told him. He carefully
+explained what had happened.
+
+Loch nodded. "Looks rough. What do you figure on doing?"
+
+"How much will it cost me to rent one of your RJ-37 jobs with a drone
+robot in it?"
+
+"Fully fueled?" Loch thought a moment, then named a figure.
+
+"That's pretty steep," MacIlheny objected.
+
+Loch spread his hands. "Actually, it's just a guess; but I'm pretty
+sure we won't be able to get insurance on her for something like this.
+What do you plan to do?"
+
+"I want to take an RJ-37 up there to Number Four and use it to put the
+satellite back in a safe orbit. It'll have to be done quickly or we'll
+lose the satellite and a few thousand square miles of Earth."
+
+Loch paused again, turning the idea over in his mind. MacIlheny said
+nothing; he knew how the mind of Paul Loch worked. Finally, Loch said:
+"Tell you what; get the Government to underwrite the insurance, and
+we'll give you the RJ-37 at cost. Fair enough?"
+
+MacIlheny nodded. "Get her ready. If the President won't okay the
+insurance, we'll have to pay the extra tariff. We absolutely can't
+afford to lose that satellite."
+
+"It'll be ready in half an hour," Loch promised as he cut off.
+
+MacIlheny began punching the code numbers for Washington, but the phone
+rang before he was through.
+
+_Pure luck_, MacIlheny thought to himself as the President's face came
+onto the screen.
+
+"Evening, Fitz," said the President of the United States.
+
+"Good evening, Mr. President."
+
+"Fitz, I understand you're having a little trouble with one of your
+satellites. The Naval Observatory tells me it's in a collision orbit
+of some kind. Where will it come down?"
+
+MacIlheny shrugged. "I don't know, sir. It'll depend on how much
+resistance it offers to the atmosphere at that altitude, and that will
+depend on how badly it was torn up by the meteor."
+
+"I see. What do you propose to do?"
+
+"I'm going to try to get one of Commercial's RJ-37's up there to put
+her back on course. I don't want to lose a twelve-million-dollar space
+station."
+
+"I can understand that, but--" The President looked off his screen
+suddenly as though someone had attracted his attention. "Hold the line
+a minute, Fitz," he said. And the screen went blank. MacIlheny waited.
+When the President came back, he wore a frown on his face. "The French
+government has been informed of what has happened. They want to know
+what we intend to do."
+
+"Did you tell them, sir?"
+
+"Not yet, but I will. But there are going to be other governments
+interested pretty quickly. Nobody wants something like that falling
+down on their heads. We may have to send up a hydrogen bomb and blow it
+out of existence if you can't get it back into a safe orbit."
+
+"I know." He paused. "Mr. President, I have an idea. Suppose we load
+the RJ-37 with a thermonuclear warhead. If we can't change the orbit
+of the satellite, we'll blast her."
+
+A slow grin spread across the face of the Chief Executive. "Very neat,
+Fitz; it'll also mean the government will have to underwrite the full
+insurance cost of the RJ-37 if you have to detonate the bomb."
+
+MacIlheny grinned back. "It will, at that. But don't worry, Mr.
+President; I won't set off the warhead unless I absolutely have to. I
+want to save that satellite--not destroy it."
+
+"All right, Fitz. I'll call White Sands and authorize the whole
+project. And I'll try to keep the foreign governments happy."
+
+"Fine, sir. We'll know more after her first passage through perigee. If
+her orbit changes too much--"
+
+"I'll leave it up to you, Fitz. Good luck."
+
+       *       *       *       *       *
+
+The special controls for remote operation of the RJ-37 were in a room
+just off the main monitors. It was set up just like the control cockpit
+of the ship itself, with all the instruments in their proper places.
+If a pilot moved a control knob here, the same knob would move the
+same amount in the ship. Instead of the heavy paraglass window in the
+nose of the ship, the control room in the CGC Building had a wide,
+three-dimensional color TV screen. It gave the illusion of actually
+being in the ship.
+
+The remote control cockpit was occupied by a Space Service officer--a
+Major Hamacher, who had been ordered up from a tour of inspection at
+the Brooklyn Navy Yard. He was a square-faced, clear-eyed, prematurely
+graying man in his early thirties.
+
+MacIlheny was relieved when he saw the major; the officer looked as
+though he could do the job. MacIlheny had wanted to use one of the
+Company pilots, but the President had vetoed that idea. If the ship was
+going to be insured by the government, then piloting it would be the
+government's job, too.
+
+It had been nearly an hour, now, since the accident which had disabled
+Satellite Number Four. She had been carefully tracked by several
+observatories across the face of the Earth, and the figures had been
+carefully checked and rechecked.
+
+Lower and lower the satellite dropped, as it spun around Earth in its
+elongated orbit. At a hundred and fifty miles altitude, the air is
+thin--thinner than the air in any but the very best vacuum tubes. But
+it is still dense enough to slow down anything traveling as fast as the
+satellite. The slight friction would be enough to alter the course of
+the flying moon.
+
+Major Hamacher sat in the control chair, his hat off and his sleeves
+rolled up. As soon as the satellite started up again and her new orbit
+stabilized, the major would take off the RJ-37 and guide it to Number
+Four.
+
+The men waited tensely. MacIlheny gnawed impatiently at the stem of his
+pipe, which had gone dead minutes before without his noticing it.
+
+They waited. Very soon, now, Number Four would hit perigee.
+
+It never did.
+
+The observatories saw what happened. As the satellite came lower and
+lower, it looked as though it were following a perfectly normal path.
+Then, quite suddenly, there was a flare of light from beneath her! She
+leaped up again, under the driving thrust of her underjets.
+
+Number Four had--somehow--changed her own orbit before the tenuous
+atmosphere could even begin to drag her down.
+
+
+
+
+                              CHAPTER III
+
+
+After a few short bursts which lifted the satellite up into a higher
+orbit, the jets stopped. The artificial moon went on coasting
+innocently around the Earth.
+
+"Well--I'll--be--damned!" said MacIlheny softly. The others, either
+silently or verbally, agreed with him.
+
+"Get a reading on that new orbit!" MacIlheny snapped after a moment.
+Blake was already on the telephone.
+
+MacIlheny turned to Major Hamacher. "Be ready to take that bird up as
+soon as we get orbital readings and bearings. There's something screwy
+as hell going on up there, and I want to find out what it is! Those
+jets shouldn't be working at all. What could have turned them on at
+exactly the right moment?" He was talking more to himself than to the
+major, who was busily making last-minute adjustments on the instruments.
+
+The computations on the new orbit came in, were run through the
+computers, and then fed into the autopilot section of the remote
+controls for the RJ-37.
+
+"Any time you're ready, Major," MacIlheny said.
+
+The major adjusted his controls, threw a switch, and pressed a stud.
+
+Over two thousand miles away, in White Sands Spaceport, New Mexico, the
+atomic-powered, fully armed RJ-37 squirted a tongue of white-hot flame
+out of her rocket motors, climbed into the air, and launched herself
+toward space.
+
+Over Major Hamacher's shoulder, MacIlheny and Blake watched the screen
+that showed the scene from the forward port of the space rocket.
+
+For a while, there was nothing to see. As the ship gained altitude, it
+burst through a layer of low-hanging clouds, then there was nothing but
+the blue sky overhead. Gradually, as the air thinned, the sky became
+darker, more purplish. Stars began to appear, and finally the ship was
+in the blackness of space.
+
+The major's hands glided smoothly over the controls, guiding the ship
+along its precalculated orbit, slowly overtaking the runaway satellite.
+
+At first there was nothing to see--only the distant, fixed stars,
+glittering like tiny shards of diamond against a spread of blackest
+velvet. Then it became apparent that one of the shards was moving with
+relationship to the others. It became brighter, bigger. Then it was no
+longer a point of light, but a globe of metal floating in the infinite
+darkness of space.
+
+Under the careful manipulation of Major Hamacher, the remote-controlled
+RJ-37 moved cautiously up to Satellite Number Four. As the details of
+the globe came into focus, every man in the room gasped involuntarily.
+
+"What the hell is _that_?" asked Blake.
+
+No one answered. It was obvious to everyone there that whatever it was
+that had crashed into Number Four and driven it off course, it was most
+certainly _not_ a meteorite.
+
+       *       *       *       *       *
+
+At last, MacIlheny said: "I'll be willing to bet my last dollar that
+that's a spaceship of some kind."
+
+From a gaping hole in the side of the satellite, there protruded a
+long, cigar-shaped shaft of bluish metal. It looked almost as though
+someone had shoved a fat blue cigar halfway into a silver tennis ball.
+
+Major Hamacher said softly: "I wonder what kind of metal that ship is
+made of?"
+
+"Yeah," said MacIlheny, "I wonder."
+
+It was a good question. The steel hull of the Number Four had crumpled
+and torn like cardboard around the hole where the impact of the ship
+had melted and volatalized the metal. But the hull of the alien
+spaceship wasn't even dented.
+
+"What now?" asked the major.
+
+"Take the RJ-37 in carefully, and lock on with magnetic grapples,"
+MacIlheny ordered.
+
+Blake glanced at him. "What if the pilot or crew of that ship is still
+alive?"
+
+"They probably are," MacIlheny said. "But we've got an H-bomb in our
+ship; if they try anything funny...."
+
+"What makes you think they're alive?" the major asked as he eased the
+ship in.
+
+"Somebody set off the atom jets when Number Four approached perigee,"
+MacIlheny reminded him.
+
+The RJ-37 approached Number Four closely, then the magnetic grapples
+were turned on, and the ship stuck to the hull of the battered space
+station with a metallic clank. The RJ-37 was only a few yards from
+the edge of the gaping hole that had been torn in the hull of the
+satellite. In front of them loomed the queer blue shaft of the alien
+ship.
+
+"Okay, hold it," said MacIlheny. "Let's see what happens next. Surely
+they felt the jar when the ship landed." Forcing himself to be calm,
+MacIlheny struck a match and fired the tobacco in the bowl of his pipe.
+
+       *       *       *       *       *
+
+They didn't have to wait long. From the edge of the hole, there
+suddenly appeared a moving shape. It was a manlike figure clad in a
+brilliant crimson spacesuit. The helmet was a dark purple, and it was
+difficult to see the head within.
+
+"Looks like a man," said Blake.
+
+"Not quite," MacIlheny said. "Look at the joints in the arms and legs.
+He's got two knees and two elbows."
+
+"What's that he's holding cradled in his arms?" Blake wondered.
+
+The major grunted. "Weapon of some sort. Look how he's pointing it
+straight at us."
+
+For a full minute, the figure stood there, for all the world as though
+he were on the surface of a planet instead of on the outer hull of a
+space station. Then, slowly, it lowered the thing in its hands. When
+nothing happened, the figure put the weapon down on the steel hull at
+its feet and held its oddly double-jointed arms out from its body.
+
+"Wild Bill Hickok," breathed Blake softly.
+
+"Huh?" said the major.
+
+"Hickok used to say: 'I'm a peaceable man.' I guess that's what this
+guy's trying to say."
+
+"Looks like it," agreed MacIlheny. "I wish there were some way of
+signaling him."
+
+"We've got the spotlights," suggested the major.
+
+MacIlheny shook his head. "Leave 'em alone. We couldn't make any sense
+with them, and our friend out there might think they were weapons of
+some kind. I don't know what that thing he laid down will do, but I
+don't want to find out just yet."
+
+The alien, his hands still out from his sides, walked slowly toward the
+RJ-37, his legs moving with a strange, loose suppleness. He came right
+up to the forward window and peered inside--at least, the attitude of
+his head suggested peering; within the dark purple helmet, the features
+could not be distinguished clearly.
+
+At last, the figure stepped back and started making wigwag signs with
+his arms.
+
+"Smart boy," said MacIlheny. "He recognizes that the ship is remote
+controlled. Wonder what he's trying to say."
+
+The alien waved his hands and made gestures, but there was no
+recognizable pattern. None of the hand-signals meant anything to the
+Earthmen.
+
+Blake leaned over and whispered into MacIlheny's ear. "Hadn't we better
+call the President, Mac? He'll want to know."
+
+MacIlheny considered for a moment, then nodded. "Give him a direct beam
+on what's coming over this screen. Then give me a pair of earphones
+connected to his office. I want to be able to hear what he says, but I
+don't want him countermanding my orders to Major Hamacher."
+
+       *       *       *       *       *
+
+The alien was still making his meaningless signals when Blake brought
+in a pair of earphones and clamped them on MacIlheny's head. A throat
+mike around his neck completed the communication circuit. "Can you hear
+me, Mr. President?" MacIlheny asked.
+
+"Yes. Your man Blake explained everything to me."
+
+"Got any advice?"
+
+"Not yet. Let's see what happens. By the way, I've given the
+impression to the rest of the world that it was through your efforts
+that Number Four avoided crashing; I don't think we'd better let this
+leak out just yet."
+
+"Right. Meantime, I'm going to try to capture that lad."
+
+"How?" asked the President.
+
+"Invite him into the ship and bring him back with it."
+
+"All right," said the President, "but be careful."
+
+"He's given up," said Blake, gesturing toward the screen.
+
+The alien had given up his incomprehensible gesticulating and stood
+with his odd arms folded in an uncomfortable-looking knot.
+
+"Major," said MacIlheny, "open the cargo hold."
+
+The officer looked puzzled, but did as he was told. After all, the
+President himself had ordered him to obey MacIlheny. He touched a
+button on one side of the control panel. After four or five seconds, a
+light came on above it, indicating that the cargo hold of the RJ-37 was
+open. The alien evidently saw the door swing inward; he hesitated for a
+moment, then went around to the side of the ship, out of range of the
+TV camera.
+
+But he didn't go inside immediately. MacIlheny hadn't expected him to;
+the alien couldn't be _that_ stupid. After perhaps half a minute, the
+alien figure reappeared and strode deliberately back to his own ship.
+He opened a port in the side and disappeared within.
+
+Then, quite suddenly, the screen went blank.
+
+"What happened?" snapped MacIlheny.
+
+Blake, who had been watching the beam control instruments, said: "I
+don't know how he's done it, but he's managed to jam our radio beam!
+We're not getting any signal through!"
+
+The President's voice crackled in MacIlheny's ears.
+
+"Fitz! Detonate that bomb! We can't take any chances!"
+
+MacIlheny half grinned. "Major," he said, "set off the H-bomb."
+
+The major pressed a red button on the control panel.
+
+       *       *       *       *       *
+
+Twenty minutes later, the screen came on again, showing the same scene
+as before. No one was surprised. By then, reports had come in that the
+satellite was still visible, still in its orbit. The H-bomb had failed
+to go off; the signal had never reached the detonation device.
+
+The alien was standing in front of the camera, holding a large piece of
+mechanism in his hands. On Earth, the thing would have been almost too
+heavy to lift, but the gravitational pull of Satellite Number Four was
+almost negligible.
+
+"_He's got the H-bomb!_"
+
+MacIlheny recognized the President's voice in his ears.
+
+The alien bowed toward the camera, then straightened and went back to
+his own ship. He clambered up the side of it with magnetic soles as
+easily as he had walked on the hull of the space station. Near the
+end of his ship, he opened a small door in the hull. Within was utter
+blackness.
+
+Working slowly and deliberately, he pushed the H-bomb into the
+blackness. It wasn't just ordinary darkness; it seemed to be an actual,
+solid wall, painted deep black. As the bomb went in, it looked as
+though it were cut off abruptly at the black wall. Finally, there was
+nothing outside except the two detonating wires, which had been clipped
+off from inside the Earth ship. The alien took the wires in his hands.
+
+"My God!" said the major. "He's going to blow up his own ship! Is he
+crazy?"
+
+"I don't think so," said MacIlheny slowly. "Let's see what happens."
+
+As the two wires came in contact, the black wall inside the small door
+became lighter, a pearly gray in color. There was no other result.
+
+"Well I'll be damned," said Blake in a low, shocked voice.
+
+The alien closed the door in the side of his ship and came back down
+to the camera. He bowed again. Then he pointed to the weapon that he
+had been carrying and waved his hands. He picked it up and brought it
+around the RJ-37. From the microphones inside the ship came a faint
+scraping sound. Then the alien reappeared in front of the ship. His
+arms were empty; he had put the weapon inside the open cargo hold.
+
+"A fair trade is no robbery," Blake said softly.
+
+The alien bowed once more, then turned on his heel and walked back to
+his ship. This time, he got inside and closed the door. Then the blue
+ship moved.
+
+Slowly, like a car backing out of a garage, it pulled out of the hole
+in the satellite. Nowhere on its surface was there a mark or a scratch.
+When it was finally free of the satellite, it turned a little, its nose
+pointing off into space. A pale, rose-colored glow appeared at the tail
+of the ship, and the cigar of blue metal leaped forward. To all intents
+and purposes, it simply vanished.
+
+"That," said the major in awe, "is what I call acceleration."
+
+       *       *       *       *       *
+
+"Here's the way I see it, Mr. President," said MacIlheny several hours
+later. "When he cracked up by accidentally plowing into Number Four,
+something happened to his energy supply. Maybe he was already low, I
+don't know. Anyway, he was out of fuel."
+
+"What do you think he used for fuel?"
+
+"The most efficient there is," said MacIlheny. "Pure energy. Imagine
+some sort of force field that will let energy in, but won't let it out.
+It would be dead black on the outside, just like that whatever-it-was
+in the alien's ship. He just set off the H-bomb inside that field; what
+little radiation did get out made the field look gray--and that's a
+damned small loss in comparison with the total energy of that bomb."
+
+"You know, Fitz, I'm going to have a hell of a job explaining where
+that bomb went," said the President.
+
+"Yeah, but we've got his gun or whatever in exchange."
+
+"But how do you know our technicians will be able to figure it out?"
+
+"I think they will," MacIlheny said. "Their technology must be similar
+to ours or he wouldn't have been able to figure out how to fire the
+jets on the satellite or how to set off that bomb. He wouldn't have
+even known what the bomb was unless he was familiar with something
+similar. And he wouldn't have been able to blank out our controls
+unless he had a good idea of how they operated. They may be a little
+ahead of us, but not too much, and I'll bet we have some things they
+haven't."
+
+"The trouble is," the President said worriedly, "that we don't know
+where he came from. He knows where we are, but we don't have any idea
+where his home planet is."
+
+"That's true. On the other hand, we know something about his physical
+characteristics, while he doesn't know anything about ours. For
+instance, I doubt if he'd be happy here on Earth; judging by the helmet
+he wore, he can't stand too much light. He had it polarized almost
+black. Probably comes from a planet with a dim, red sun."
+
+"Well, Fitz, when they do come, I hope it's for trade and not for war."
+
+MacIlheny grinned. "It won't be war. Don't you remember? We've started
+trading already!"
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK BEYOND OUR CONTROL ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

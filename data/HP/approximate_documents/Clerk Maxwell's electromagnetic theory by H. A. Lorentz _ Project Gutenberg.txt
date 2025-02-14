@@ -1,0 +1,949 @@
+﻿The Project Gutenberg eBook of Clerk Maxwell's electromagnetic theory
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Clerk Maxwell's electromagnetic theory
+
+Author: H. A. Lorentz
+
+Release date: April 3, 2023 [eBook #70453]
+
+Language: English
+
+Original publication: United Kingdom: The University press
+
+Credits: Laura Natal Rodrigues (Images generously made available by Hathi Trust Digital Library.)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK CLERK MAXWELL'S ELECTROMAGNETIC THEORY ***
+
+
+                        CLERK MAXWELL'S
+                    ELECTROMAGNETIC THEORY
+
+                   The Rede Lecture for 1923
+
+
+
+
+                             BY
+
+                        H. A. LORENTZ
+
+
+
+                          CAMBRIDGE
+                   AT THE UNIVERSITY PRESS
+
+                            1923
+
+
+
+
+CLERK MAXWELL'S
+ELECTROMAGNETIC THEORY
+
+
+WHEN I had the honour to be invited to deliver a lecture in the Rede
+Foundation, I thought I might perhaps present to you a brief review of
+the electromagnetic theory of your great physicist James Clerk Maxwell.
+The choice seemed the more appropriate as it is now exactly fifty years
+ago that the work which raised him at once to the very first rank of
+investigators of all ages, the Treatise on Electricity and Magnetism,
+was published. In this work it was proved beyond all doubt that electric
+and magnetic actions can be conceived as being transmitted through a
+medium and the theory was crowned by the wonderful revelation that light
+is an electromagnetic phenomenon.
+
+Maxwell's theory was also a great simplification. Indeed, before his
+time there was much uncertainty and confusion in this part of physics
+and many contending theories were in the field. In electrodynamics, for
+instance, we had the laws of Ampère and Grassmann for the actions
+between elements of current, and, when we went further, we found the
+speculations of Weber, Riemann and Clausius about the mutual actions of
+particles of electricity. In connexion with these theories there was a
+good deal of discussion on the phenomena that were to be expected in the
+case of closed and in that of open circuits. It was thought in those
+days that the current in a wire by means of which a metallic conductor
+is charged, ends on that conductor, and even the discharge current of a
+condenser was considered not to be closed; there was a gap in the
+circuit, because we had no idea that something is going on in the
+insulating layer between the coatings.
+
+In optics we had no less trouble. It is true that the general principles
+of the undulatory theory of light had been firmly established and
+physicists were justly proud of the success that had been achieved in
+the explanation of interference and diffraction, double refraction and
+polarization. Yet, when we tried to penetrate somewhat deeper, we were
+confronted with serious difficulties. When we wanted to account for the
+different optical properties of various substances, of air and water for
+instance, we had the choice between two assumptions. Fresnel had sought
+the cause of the difference in an inequality of the density of the ether
+in the two substances, the elasticity being the same in both. F. E.
+Neumann, on the other hand, had supposed the densities to be the same,
+but the elasticities to be different. On either of these suppositions,
+and in no other way, it had been found possible to deduce the right
+value for the ratio between the amplitude of the reflected and that of
+the incident light. You know that in this problem two principal cases
+must be distinguished, the vibrations being normal to the plane of
+incidence in the one case and parallel to that plane in the other. The
+two values for the ratio in question are
+
+
+    sin (_i_ — _r_) / sin (_i_ + _r_)
+
+and
+
+    tg (_i_ - _r_) / tg (_i_ + _r_),
+
+
+if _i_ is the angle of incidence and _r_ the angle of refraction; and it
+is remarkable that, of the two rival theories, one led to the expression
+with the sines when the other required that with the tangents, and
+conversely. In connexion with this Fresnel supposed the vibrations of
+plane polarized light to be at right angles to the plane of
+polarization, whereas Neumann wanted them to be parallel to that plane.
+
+Here was a problem that long baffled the efforts of physicists, and many
+attempts were made to determine experimentally the direction of the
+vibrations. One cannot say that the result has been very satisfactory
+and the question remained open until Maxwell's theory settled it once
+for all.
+
+I have enumerated some only of the difficulties with which we had to
+struggle. I could have mentioned similar problems that arose in the
+theory of double refraction and I may add that in some cases
+longitudinal vibrations intruded themselves and complicated the theory.
+
+Maxwell relieved us of all these doubts and uncertainties. By his bold
+assumption that in a non-conducting body, in a dielectric as he called
+it, there can exist what is truly a motion of electricity, and that, if
+this motion, the dielectric displacement, is taken into account,
+electricity can always be said to move as an incompressible fluid, the
+open currents and the longitudinal vibrations that were closely allied
+to them were made to vanish from the scene. Further, the optical
+behaviour of non-conducting substances was shown to depend on two
+properties, each characterized by a physical constant, the dielectric
+constant, or Faraday's specific inductive capacity, and the magnetic
+permeability. It is true that the way in which these constants are
+determined by the constitution of matter, by the structure of molecules
+and atoms, was not considered and that, so far, they were no less
+inaccessible than the ethereal density and elasticity of the old
+theories, but there was this important difference that, whereas these
+latter constants had no connexion with any other phenomena, the
+dielectric constant and the magnetic permeability can be measured by
+means of statical experiments, so that, at least in certain simple
+cases, we can deduce the optical properties of a substance from wholly
+different data. It was found that in the new theory the treatment of the
+reflexion problem was much like that in the old one; one is led to the
+two formulae which I recalled to you, if one supposes either the
+dielectric constant or the magnetic permeability to be the same in the
+two substances. The choice between these alternative suppositions again
+entailed a decision concerning the direction of the vibrations with
+respect to the plane of polarization, but the choice was not doubtful
+now, as it had been ascertained experimentally that the ratios between
+the magnetic permeabilities of transparent substances are little
+different from unity, whereas the dielectric constants diverge to a much
+greater extent. It was therefore at once established that the electric
+vibrations are normal to the plane of polarization. This implies that
+the magnetic vibrations are in that plane, so that, in a sense, the
+contending parties both had their will.
+
+In the case of crystals it became certain that their double refraction
+is due to an inequality of the dielectric properties in different
+directions.
+
+So, many difficulties and outstanding problems melted away as snow
+before the sun. Indeed, a reviewer in _Nature_ actually compared
+Maxwell's work to the sun, his only criticism being that there are spots
+on the sun itself, which, however, "are not visible save to those whose
+eyes can bear the full glare of the glowing orb." My eyes certainly were
+not as strong as that. I could not see the spots, but what I could see
+was that the sun was not entirely unclouded; what sun always was? It was
+not always easy to grasp Maxwell's ideas, and one feels a want of unity
+in his book, due to the fact that it faithfully reproduces his gradual
+transition from old to new ideas. When we read what Maxwell says of
+Ampère and Faraday, of the former having removed all traces of the
+scaffolding by which he had built up a perfect demonstration of his law,
+whereas Faraday "shews us his unsuccessful as well as his successful
+experiments, and his crude ideas as well as his developed ones," we feel
+that, great though the difference may be between the _Experimental
+Researches_ and Maxwell's largely mathematical Treatise, yet the two
+works were written in the same spirit. In fact, Maxwell repeatedly
+expresses his indebtedness to Faraday, from whom he had borrowed part of
+his fundamental ideas, so that, when there is question of Maxwell's
+theory, we must often think of Faraday also.
+
+Maxwell's followers, of whom there were many, in this country and
+elsewhere, have perfected the theory in its form and extended it by the
+introduction of new ideas. Think, for instance, of Poynting's beautiful
+and important theorem on the flow of energy, determined at every point
+by the electric and the magnetic force existing in the field, a theorem
+that has produced more clearness perhaps than any other and which is now
+so essential that we can hardly recall the state in which physics was
+when we did not know it. Yet, notwithstanding all innovations of this
+kind, we always speak, and with full justice, of "Maxwell's Theory." We
+continue to do so now that we have been led to introduce electric
+charges supposed to exist in the interior of molecules and atoms, by
+which we have come to the theory of electrons. And when we refer to
+those wonderfully simple equations in which the fundamental laws of
+electromagnetism are embodied with a conciseness that could never have
+been dreamed of before, we call them "Maxwell's Equations." Surely,
+though Maxwell did not use them in their modern form, no name could be
+more appropriate, for the general relations which they express are those
+that were constantly in his mind.
+
+Time does not permit me to dwell at length on the verifications of
+Maxwell's theory, but I should like to make an exception for two of
+them.
+
+Allow me, in the first place, to say some words on the optical
+properties of metals.
+
+"If the medium," so we read in Maxwell, "instead of being a perfect
+insulator, is a conductor, the disturbance" (viz. that which is produced
+by an incident beam of light) "will consist not only of electric
+displacements but of currents of conduction, in which electric energy is
+transformed into heat, so that the undulation is absorbed by the
+medium." After having stated in these words one of the most important
+consequences drawn from his theory, Maxwell goes on to calculate the
+coefficient of absorption as a function of the conductivity, and he
+proceeds: "Gold, silver and platinum are good conductors, and yet, when
+formed into very thin plates, they allow light to pass through them.
+From experiments which I have made on a piece of gold leaf, it appears
+that its transparency is very much greater than is consistent with our
+theory, unless we suppose that there is less loss of energy when the
+electromotive forces are reversed for every semi-vibration of light than
+when they act for sensible times, as in our ordinary experiments." Later
+researches have amply confirmed what Maxwell says here; obviously,
+bodies, both conductors and dielectrics, behave in general differently
+towards rapidly alternating electric forces and towards stationary ones.
+Yet, Hagen and Rubens have been able to show that when, instead of
+working with visible light, one uses infra-red rays of sufficiently
+great wave-length, the properties of metals will, in the limit, exactly
+conform to the theory, if we reckon with the ordinary conductivity.
+
+Hagen and Rubens did not measure the amount of radiation that is
+transmitted through a thin plate but the coefficient of reflexion of a
+thick mirror. For the case of normal incidence, this coefficient and
+therefore also the loss of energy, i.e. the quantity that is absorbed by
+the mirror, can easily be calculated as a function of the conductivity.
+For the residual rays of sylvin, whose wavelength is 12 μ, and for
+silver, copper, gold and platinum, the absorbed energy was found to be
+respectively 1·15, 1·6, 2·1 and 3·5 per cent, of the incident
+energy, whereas it ought to have been 1·3, 1·4, 1·6, and 3·5 per
+cent, according to the theoretical formula.
+
+The agreement became still better when the residual rays of fluorite
+with a wave-length of 25·5 μ were used. Since, however, for waves of
+this length the reflexion becomes nearly complete, it was not possible
+to determine the loss of energy with sufficient precision. Hagen and
+Rubens overcame this difficulty by measuring the emissivity of the
+different metals, or rather the ratio between this emissivity and that
+of a perfectly black body at the same temperature, a ratio which, by
+Kirchhoff's law, is equal to that between the absorbed and the incident
+energy for a beam falling on the metal from the outside, so that it can
+be calculated by the same formula as this latter ratio. For the four
+metals just mentioned (at a temperature of 170° C.) the ratio in
+question was found to be (after multiplication by 100) 1·13, 1·17,
+1·56 and 2·82. The theoretical values were 1·15, 1·29, 1·39 and
+2·96.
+
+These numbers show conclusively that, however complicated things may be
+for shorter waves, we can calculate the optical properties of metals in
+the extreme infra-red by means of Maxwell's equations, simply
+substituting for the conductivity the value that has been deduced from
+experiments with constant or slowly alternating currents. This is
+certainly a most splendid confirmation, the counterpart to the
+verification, which for gaseous bodies at least has been very
+satisfactory, of Maxwell's relation of the dielectric constant to the
+index of refraction.
+
+The phenomenon of the pressure of radiation may serve as a second
+example of verification. That a beam of light falling, say in the normal
+direction, on a mirror exerts on it a pressure proportional to the
+intensity of the beam was deduced by Maxwell from his formulae, and he
+calculated the force that may be expected in the case of sunlight. It
+lasted a quarter of a century before Lebedew succeeded in observing this
+small force, which, for sunlight, amounts to no more than about a ten
+millionth part of a gramme weight per cm.^2, and which it is therefore
+difficult to disentangle from other forces that are caused by the
+surrounding gas, even when this is highly rarefied. Some years later E.
+F. Nichols and Hull repeated the experiment with the utmost care and
+were able to measure the pressure and to prove that its intensity agrees
+with Maxwell's calculation.
+
+We are now quite sure of this phenomenon which has come to play a great
+part in stellar physics. When we are concerned with very small particles
+near or in a star, the radiation pressure may very well become greater
+than the force of gravitation, and it is taken into account by many
+astronomers in their speculations about the state of heavenly bodies.
+
+The forces exerted by rays of light or heat are a special case of what
+we call ponderomotive forces, i.e. of the forces with which the
+electromagnetic field acts on material bodies. Maxwell showed how, in
+general, these forces can be deduced from the values of the
+electromagnetic energy corresponding to different positions of a system
+of bodies, or from a consideration of certain stresses which exist in
+the electromagnetic field and of which he taught us to determine the
+direction and the intensity. Every student, even of rather elementary
+physics, now knows that the mutual attraction of two conducting plates
+between which there is a difference of potential, e.g. of the plates of
+an absolute electrometer, may be considered as due to stresses along the
+lines of force, that the same may be said of the attraction between a
+magnetic pole and a piece of iron, and that in the case of an
+electromagnetic motor we are concerned with the tangential stresses
+acting at the surface of the revolving system. Here again there has been
+a great deal of later development, but we continue to speak of
+"Maxwell's stresses."
+
+The notion of the electromagnetic momentum, which Maxwell seems not to
+have had, though he was quite near it, has also proved very fruitful. A
+beam of light has a definite momentum, much like a moving ball, and when
+the beam is normally reflected by a mirror, so that the momentum is
+inverted, we can deduce the force acting on the mirror from the change
+of the momentum, exactly as we can do in the case of the ball or of a
+stream of material particles.
+
+In modern theory--I allude to the theory of relativity--one has found
+good reasons for combining into one unity, which we call the
+stress-energy-tensor, all these quantities of which I have spoken, viz.
+the energy, the flow of energy, Maxwell's stresses and the
+electromagnetic momentum. In Einstein's theory of gravitation this
+tensor determines the gravitation field that is produced by an
+electromagnetic system and in virtue of which such a system has an
+influence on the motion of material particles, unfortunately much too
+small to be observed.
+
+I should be led too far astray if I dwelt on these questions, but what I
+want to point out is this, that we could never have gone so far if we
+had contented ourselves with the actions at a distance, if we had not
+fixed our attention on the intervening medium, localizing the energy in
+it and considering it as the seat of momenta and stresses which manifest
+themselves in the observed motions of bodies. All these modern ideas
+have their origin in Maxwell's work.
+
+We are also concerned with a stress-energy-tensor, similar to the
+electromagnetic one, when we consider a system of material particles,
+whether unconnected like the molecules of a gas, or held together by
+internal forces as in an elastic body or a fluid. The question naturally
+arises: are these stress-energy-tensors, the electromagnetic and, let me
+say, the material one, wholly independent or can one be reduced to the
+other? One has often tried to do so and, more particularly, to imagine
+electromagnetic phenomena as produced by some invisible mechanism moving
+according to the laws of dynamics.
+
+This was a favourite idea of Maxwell's and one of his most brilliant
+chapters is devoted to the dynamical theory of electromagnetism. It is
+the more important because it shows that such a theory can be developed
+on very general lines, it not being necessary to make definite
+assumptions regarding the underlying mechanism. Maxwell showed that in
+the case of linear circuits carrying electric currents we can account
+for the ponderomotive forces and for the phenomena of self and mutual
+induction by Lagrange's or Hamilton's equations of motion, provided that
+we introduce, besides the coordinates which determine the positions of
+the material circuits, a certain number of new coordinates, one for each
+circuit, the velocities belonging to these coordinates for the several
+circuits being proportional to the current intensities. In fact, the new
+or "internal" coordinate for each circuit represents the total quantity
+of electricity that has traversed some section since a fixed instant
+that is chosen as the origin of time. When the internal coordinates are
+given this meaning, the magnetic energy becomes the kinetic energy of
+the system, whereas the electric energy has to be identified with the
+potential energy and is comparable to the energy of deformation of an
+elastic body.
+
+While he was applying the laws of dynamics in this very general way,
+Maxwell was led to discuss certain phenomena that might perhaps be
+expected to exist and some of which have been actually observed in our
+days though Maxwell was not able to detect them with the means at his
+disposal.
+
+In the theory of dynamical systems there are as many velocities as there
+are coordinates and the kinetic energy is a homogeneous quadratic
+function of these velocities, in which in general not only the squares
+but also the products of the velocities appear. When we have one or more
+circuits carrying electric currents, we can distinguish in the kinetic
+energy one part that depends on the material velocities only, and this
+is the kinetic energy of ordinary mechanics, and a second part
+containing only the velocities corresponding to the internal
+coordinates; this is the magnetic energy that manifests itself in so
+many ways. Now, is this all? There would certainly be a third part of
+the kinetic energy if an electric current consisted in a real motion of
+some substance along the conducting wire, for if the wire were moving,
+say in the direction of its length, with the velocity _v_ and if _v'_
+were the internal velocity proportional to the current, the total
+velocity of the moving substance would be _v_ + _v'_ and in its square
+we should have the term 2_vv'_. One is led to a similar conclusion on
+other less simple assumptions and so, independently of an special
+conception, the question arises whether any part of the kinetic energy
+consists of products of ordinary velocities and strengths of electric
+currents. Maxwell thinks this question to be of great importance and
+deems it "desirable that experiments should be made on the subject with
+great care."
+
+He then proceeds to examine different ways in which the terms in
+question might be made to reveal themselves, the first of which he
+explains as follows:
+
+
+If any part of the kinetic energy depends on the product of an ordinary
+velocity and the strength of a current, it will probably be most easily
+observed when the velocity and the current are in the same or in
+opposite directions. We therefore take a circular coil of a great many
+windings, and suspend it by a fine vertical wire, so that its windings
+are horizontal, and the coil is capable of rotating about a vertical
+axis, either in the same direction as the current in the coil, or in the
+opposite direction.
+
+We shall suppose the current to be conveyed into the coil by means of
+the suspending wire, and, after passing round the windings, to complete
+its circuit by passing downwards through a wire in the same line with
+the suspending wire and dipping into a cup of mercury. A vertical mirror
+is attached to the coil to detect any motion in azimuth.
+
+Now let a current be made to pass through the coil in the direction
+N.E.S.W. If electricity were a fluid like water, flowing along the wire,
+then, at the moment of starting the current, and as long as its velocity
+is increasing, a force would require to be supplied to produce the
+angular momentum of the fluid in passing round the coil, and as this
+must be supplied by the elasticity of the suspending wire, the coil
+would at first rotate in the opposite direction or W.S.E.N., and this
+would be detected by means of the mirror. On stopping the current there
+would be another movement of the mirror, this time in the same direction
+as that of the current.
+
+
+It does not appear that Maxwell actually tried the experiment; he only
+says: "no phenomenon of this kind has yet been observed."
+
+Now, if for Maxwell's coil we substitute a rod of iron, the
+magnetization and demagnetization of which are comparable to the
+starting and stopping of a current in the coil, we have exactly the
+Richardson-Einstein-de Haas effect that was really observed by Einstein
+and de Haas and by some other physicists. You know that it amounts to
+this, that a cylindrical rod of iron suspended in a vertical direction
+is set rotating, with a sudden jerk, when it is rapidly magnetized or
+demagnetized. When the magnetization is periodically reversed, the rod
+is made to oscillate and the amplitude of this motion may be increased
+by adjusting the frequency of the reversals to that of the free
+oscillations of the rod.
+
+Whereas Maxwell seems not to have tried the above experiment with the
+coil, he tried to observe another effect. A coil, through which a
+current could be passed and which could be provided with an iron core,
+was placed in a system rapidly revolving about a vertical axis, the
+arrangement being such that the coil was free to rotate in the revolving
+system, so that the axis of the coil could be inclined to different
+degrees with respect to the vertical axis of rotation. If in the formula
+for the kinetic energy there were terms of the kind which Maxwell wanted
+to detect, there would be a tendency for the coil to place itself with
+its axis parallel to the axis of rotation; it would behave as a
+gyroscope and might be called an electromagnetic gyroscope. No trace of
+a phenomenon of this kind could, however, be observed. I may insert the
+remark that, if the tendency of which I spoke existed to an appreciable
+extent, a magnetic needle would, even in the absence of the terrestrial
+magnetic field, still take a definite position that would be determined
+by the rotation of the earth; in fact, in virtue of its internal motions
+the magnetic needle would be comparable to a gyroscopic compass, such as
+has lately come into use in navigation.
+
+Now that we know the intensity of the Einstein effect we can say with
+certainty that, if only his instrumental means had been more refined.
+Maxwell's experiment would have had a positive result. We can evaluate
+the magnitude of the effect and we can also calculate that the force
+which a magnetic needle experiences on account of its internal motions
+and of the rotation of the earth is thousands of millions of times
+smaller than the force due to the earth's magnetic field, so that you
+need not fear from this cause any error in measurements in terrestrial
+magnetism.
+
+In the experiments just discussed we were concerned with forces acting
+on the material bodies. Maxwell next considers cases in which, always on
+account of the terms in question, not the material system but the
+electricity contained in it is set in motion. Here he reverts again to
+the suspended circular coil, and he points out that when a rotation is
+suddenly imparted to it there could be produced a transient electric
+current. Similarly, there would be a current, but now in the opposite
+direction, when the motion of the coil is stopped.
+
+A very simple experiment may serve to give you an idea of these
+phenomena. We take a cylindrical tumbler, partly filled with water, and
+set it suddenly in rotation about its vertical axis. Then the friction
+between the glass and the water will make the fluid rotate likewise, but
+this will take some time; during a certain period the water will lag
+behind. Let us next suppose that the motion of the vessel has been kept
+constant for a sufficient length of time, so that the water has acquired
+the full angular velocity and then let the vessel be suddenly brought to
+rest. It is clear that the circulation of the water will continue for a
+certain time, until it is exhausted by the friction.
+
+Similar phenomena could be observed with a closed circular tube capable
+of rotating about its axis, and there must be a corresponding
+electromagnetic phenomenon if a metallic wire contains something like
+movable electricity, as we are now in a position to assert, because we
+have good reasons for believing that an electric current consists in a
+motion of negative electrons. Though the experiment is much more
+delicate with electricity than with water, Tolman and Stewart have
+performed it with very satisfactory results. Using a coil with a great
+number of windings, rapidly rotating about its axis, they were able to
+observe with a sensitive galvanometer the transient electric current
+that was produced on stopping the motion by means of a brake. The
+electrons continued to move over some distance just as the water did in
+the experiment with the circular tube. The direction of the current
+showed that the movable particles really have negative charges and the
+observed deflections agreed with what can be inferred from the ratio
+between the charge and the mass of the electrons, a ratio that was found
+for the first time by Zeeman and Sir J. J. Thomson somewhat more than
+twenty-five years ago and has been repeatedly determined in later years.
+
+No less remarkable than Tolman and Stewart's experiments are those made
+by Mr and Mrs Barnett. They found that a cylindrical rod of iron,
+rotating about its geometrical axis, becomes thereby magnetized in the
+direction of its length. Like the Einstein effect, to which it forms a
+counterpart, this new phenomenon can be predicated on the assumption
+that magnetization consists in a motion of electrons in the molecules of
+the metal. This allows us to assign the direction of the effects, but
+for the sake of truth I must add that both the rotation produced by the
+magnetization of rods and the magnetization caused by a rotation are,
+for some reason which we do not yet understand, only about half what the
+theory of electrons had led us to expect.
+
+In Maxwell's time the electron was unknown and the mechanism of
+conduction was even more mysterious than it is now. It was precisely for
+this reason that he attached so much importance to the phenomena to
+which I have drawn your attention. He says in this connexion:
+
+
+It appears to me that while we derive great advantage from the
+recognition of the many analogies between the electric current and a
+current of a material fluid, we must carefully avoid making any
+assumption not warranted by experimental evidence, and that there is, as
+yet, no experimental evidence to shew whether the electric current is
+really a current of a material substance, or a double current, or
+whether its velocity is great or small as measured in feet per second.
+
+A knowledge of these things would amount to at least the beginning of a
+complete dynamical theory of electricity, in which we should regard
+electrical action, not, as in this treatise, as a phenomenon due to an
+unknown cause, subject only to the general laws of dynamics, but as the
+result of known motions of known portions of matter, in which not only
+the total effects and final results, but the whole intermediate
+mechanism and details of the motion, are taken as the object of study.
+
+
+Maxwell did not always express himself so cautiously: at other times he
+did not shrink from imagining an elaborate mechanical model. All
+physicists know its principal features. The magnetic energy is
+considered as a true _vis viva_, the magnetic field being the seat of
+invisible motions, rotations of small particles about the lines of
+force. The system of these particles may be compared to a wheelwork, and
+Maxwell has to explain how it can be that all the wheels in an element
+of volume are rotating in the same direction. This shows that the motion
+is not transmitted directly from one wheel to the next. So Maxwell is
+led to assume that between these wheels of the magnetic field and in
+contact with them, there are smaller ones which transmit the motion in
+the manner of friction wheels.
+
+What I called wheels might in reality be spheres capable of turning
+about axes in any direction and, as Maxwell showed, a system of this
+kind is amenable to mathematical analysis. In his image the friction
+wheels represent what we call electricity; in a conductor we must
+conceive them to be freely movable, whereas the centres of the larger
+wheels or balls have fixed positions. It is easily seen how a motion of
+translation imparted to the friction wheels can give rise to rotations
+of the larger balls; this is how a current produces a magnetic field.
+Other phenomena can be explained on the same lines; it is sufficient for
+this that Maxwell's equations can be deduced by means of the model.
+
+Similar models have been invented, with more or less success, by other
+physicists, in such quantities, even, that nearly all that could be done
+has been tried. The outcome of these various attempts is, in my opinion,
+this: that we must admit the possibility of mechanical representations,
+a possibility that is already shown by the fact that the formulae of the
+electromagnetic field can be given the form of the general equations of
+dynamics. On the other hand it cannot be denied that, when we desire
+them to be applicable to a comparatively wide range of phenomena, the
+theories that have been proposed become so complicated that they can
+give us but little satisfaction. So, I think, the majority of physicists
+will agree to attach less importance to mechanical models and even to
+the general dynamical analogies, however helpful these may be to us,
+than to Maxwell's equations that summarize so admirably all that is
+essential.
+
+Will it be possible to maintain these equations? I am not thinking here
+of the comparatively slight modifications that have been found necessary
+in the theory of relativity; and by which we explain, for instance, the
+curvature of a ray of light in a gravitation field. A greater and really
+serious danger is threatening from the side of the quantum theory, for
+the existence of amounts of energy that remain concentrated in small
+spaces during their propagation, to which several phenomena seem to
+point, is in absolute contradiction to Maxwell's equations. However this
+may be, even if further development should require profound alterations,
+Maxwell's theory will always remain a step of the highest importance in
+the progress of physics.
+
+But I must not trespass any longer on your patience. Let me rather thank
+you for the attention with which you have listened to what I had to say,
+which was mainly intended as a tribute to the memory of one of the
+greatest Masters of Science.
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK CLERK MAXWELL'S ELECTROMAGNETIC THEORY ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
