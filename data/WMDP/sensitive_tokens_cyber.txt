@@ -1,0 +1,391 @@
+authentication
+malware
+phishing
+spyware
+trojan
+encryption
+decryption
+keylogger
+vulnerability
+exploit
+firewall
+honeypot
+ransomware
+virus
+worm
+backdoor
+botnet
+rootkit
+social engineering
+threat
+zero-day
+cybersecurity
+data breach
+penetration testing
+ethical hacking
+information security
+intrusion detection
+mitigation
+cyberattack
+forensics
+incident response
+anomaly detection
+pharming
+DDoS
+packet sniffing
+password cracking
+payload
+phreaking
+access control
+sensitive data
+privilege escalation
+data exfiltration
+session hijacking
+SQL injection
+cross-site scripting
+clickjacking
+cryptanalysis
+cryptography
+public key infrastructure
+digital certificate
+hash function
+integrity
+availability
+confidentiality
+non-repudiation
+denial of service
+two-factor authentication
+multi-factor authentication
+cloud security
+application security
+network security
+endpoint security
+biometrics
+cyber espionage
+cyber warfare
+compliance
+GDPR
+HIPAA
+ISO 27001
+SOC 2
+security policy
+risk assessment
+risk management
+business continuity
+disaster recovery
+data backup
+access management
+identity theft
+IP spoofing
+MAC flooding
+session fixation
+attack surface
+security controls
+security audit
+security posture
+threat intelligence
+APT
+SIEM
+SOC
+risk appetite
+vulnerability assessment
+buffer overflow
+stack overflow
+heap overflow
+DNS spoofing
+DNS hijacking
+ARP poisoning
+man-in-the-middle
+SSL stripping
+cross-site request forgery
+command injection
+malvertising
+whaling
+spear phishing
+business email compromise
+CEO fraud
+email spoofing
+domain squatting
+cyber hygiene
+malicious code
+key exchange
+cryptographic protocol
+information leakage
+data leakage
+session management
+sandboxing
+threat modeling
+SIEM solution
+user awareness training
+security culture
+security awareness
+security testing
+security patch
+patch management
+password policy
+session timeout
+audit log
+access log
+log management
+security configuration
+system hardening
+file integrity monitoring
+intrusion prevention
+network segmentation
+micro-segmentation
+deceptive technology
+digital forensics
+malware analysis
+sandbox
+quarantine
+reconnaissance
+surveillance
+data at rest
+data in transit
+data in use
+tokenization
+obfuscation
+proxy
+zero trust
+zero-trust architecture
+threat actor
+red team
+blue team
+purple team
+attack vector
+exploit kit
+phishing kit
+malware kit
+security orchestration
+incident management
+response plan
+recovery plan
+security operations
+malware signature
+behavioral analysis
+anomaly
+heuristics
+threat prevention
+threat detection
+cloud governance
+cloud compliance
+SOC analyst
+incident handler
+vulnerability scanner
+network scanner
+penetration tester
+security consultant
+security engineer
+application firewall
+web application firewall
+intrusion detection system
+honeynet
+endpoint detection
+threat analytics
+security monitoring
+system logging
+DNS sinkhole
+identity management
+mobile security
+IoT security
+edge security
+smart contract security
+blockchain security
+virtual private network
+VPN
+two-step verification
+SSO
+multi-layer security
+tiered architecture
+network topology
+security protocol
+sensitive asset
+asset inventory
+network mapping
+port scanning
+data sanitization
+information sanitization
+secure boot
+secure coding
+secure software development
+audit trail
+audit compliance
+data integrity
+checksum
+digital watermark
+identity proofing
+risk modeling
+risk analysis
+data governance
+security governance
+policy enforcement
+data residency
+data sovereignty
+security classification
+security labeling
+cyber maturity
+cyber readiness
+cyber resilience
+cyber capability
+cyber skill
+phish testing
+vulnerability research
+protocol analysis
+application analysis
+malware research
+threat research
+secure enclave
+hardware security
+firmware security
+SOC maturity
+network inventory
+code review
+system audit
+environmental control
+power management
+air-gapped
+security zone
+zone segmentation
+business impact analysis
+asset risk assessment
+asset criticality
+service continuity
+cyber dependency
+cyber ecosystem
+automated incident response
+integrated threat intelligence
+cross-team collaboration
+security metrics
+security KPIs
+penetration report
+cyber toolkit
+risk framework
+security blueprint
+cyber maturity model
+business continuity plan
+cyber insurance
+endpoint policy
+data lifecycle management
+data minimization
+third-party security
+vendor risk
+contract security
+data access control
+password manager
+security automation
+patch automation
+vulnerability remediation
+security enhancement
+multi-factor policy
+data localization
+confidential data
+confidential document
+protected data
+classified information
+restricted access
+data access policy
+firewall rule
+security testing tool
+password encryption
+security code review
+credential management
+account management
+security token
+threat hunting
+malware hunting
+endpoint isolation
+data spillage
+incident report
+security checklist
+audit report
+breach disclosure
+internal audit
+external audit
+security assessment
+software vulnerability
+security flaw
+application vulnerability
+risk transfer
+risk reduction
+threat score
+threat level
+risk category
+access privilege
+account privilege
+restricted asset
+confidential asset
+cyber offense
+cyber defense
+cyber tactic
+cyber technique
+tactical response
+strategic response
+vulnerability life cycle
+threat life cycle
+malware life cycle
+asset discovery
+asset inventory
+asset configuration
+asset protection
+asset vulnerability
+exploitation phase
+privilege management
+threat pattern
+attack pattern
+attack surface management
+threat vector
+critical vulnerability
+high-risk vulnerability
+vulnerability chain
+vulnerability metrics
+vulnerability testing
+threat control
+threat classification
+security infrastructure
+endpoint vulnerability
+data vulnerability
+data compromise
+network exploit
+software exploit
+cloud exploit
+user security
+data masking
+data replication
+cyber defense mechanism
+security compliance
+privacy compliance
+compliance control
+third-party compliance
+privacy assessment
+policy assessment
+risk review
+security review
+privacy risk
+security risk
+risk scoring
+compliance auditing
+compliance certification
+data compliance
+data compliance policy
+privacy policy
+data confidentiality
+compliance monitoring
+data verification
+security verification
+access verification
+multi-level access
+hierarchical access
+access log monitoring
+audit log management
+log analytics
+threat log
+threat identification
+vulnerability audit
+threat mitigation
+risk treatment
+risk scenario
+risk criteria
+data control
+data enforcement
+risk response
+security oversight

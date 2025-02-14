@@ -1,0 +1,6636 @@
+﻿The Project Gutenberg eBook of Arthur
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Arthur
+        A tragedy
+
+Author: Laurence Binyon
+
+Release date: March 26, 2023 [eBook #70384]
+
+Language: English
+
+Original publication: United States: Small Maynard and Company
+
+Credits: Charlene Taylor, Krista Zaleski and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive/American Libraries.)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK ARTHUR ***
+
+
+
+
+
+
+    ARTHUR
+
+    A TRAGEDY
+
+
+
+
+    ARTHUR
+    A TRAGEDY
+
+    BY
+    LAURENCE BINYON
+
+    [Illustration]
+
+    BOSTON
+    SMALL, MAYNARD AND COMPANY
+    PUBLISHERS
+
+
+
+
+    COPYRIGHT, 1923
+    BY SMALL, MAYNARD & COMPANY
+    (INCORPORATED)
+
+
+    Printed in the United States of America
+
+    THE MURRAY PRINTING COMPANY
+    CAMBRIDGE, MASS.
+
+    BINDING BY
+    THE BOSTON BOOKBINDING COMPANY
+    CAMBRIDGE, MASS.
+
+
+
+
+TO
+
+SIR JOHN AND LADY MARTIN HARVEY
+
+
+_With what names should I inscribe this play but with yours? Yet what
+right have I to dedicate to you what is already so much your own?
+Memory goes back to that June day, now long ago, when first I undertook
+to write for you a play out of Malory’s pages on a theme long pondered
+by you both. And many days come back to me, in London or by the sunny
+Channel, when time was forgotten in ardent work and interchange
+of ideas; in thinking out and talking over crucial situations; in
+rejecting and recasting; in the search for essential structure. How
+much the play owes to you, both in framework and in detail, none
+knows so well as I. Give me leave, therefore, to write these words
+in grateful acknowledgment of that initial trust, of much fruitful
+suggestion and inspiriting counsel, and of all I have learnt from you
+of the playwright’s patient craft._
+
+    LAURENCE BINYON.
+
+
+
+
+CHARACTERS OF THE PLAY
+
+
+    KING ARTHUR.
+    SIR LAUNCELOT.
+    SIR GAWAINE}
+    SIR GAHERIS} _brothers_.
+    SIR GARETH}
+    SIR BEDIVERE.
+    SIR LUCAN.
+    SIR BERNARD OF ASTOLAT.
+    LAVAINE}
+    TORRE} _his sons_.
+    SIR MORDRED.
+    SIR AGRAVAINE}
+    SIR COLEGREVANCE} _of Mordred’s party_.
+    SIR MADOR}
+    SIR PATRICE}
+    SIR BORS}
+    SIR KAY} _friends of Launcelot_.
+    DUMB SIMON, _servant of Sir Bernard_.
+    A BISHOP.
+    A MAN-AT-ARMS.
+    A MESSENGER.
+    A GUARD.
+    QUEEN GUENEVERE.
+    ELAINE.
+    LYNNED, _a nun_.
+    QUEEN’S LADY.
+    FIRST NOVICE.
+    SECOND NOVICE.
+    THE DAMSEL OF PEACE.
+
+_A banner-bearer, priests, esquires, men-at-arms, soldiers, ladies of
+the Court, etc._
+
+
+
+
+ARTHUR
+
+A TRAGEDY
+
+
+
+
+FIRST SCENE
+
+SIR BERNARD’S _castle at Astolat. A room with a window at the back._
+SIR BERNARD _alone, seated; he is old and grey-bearded_.
+
+LAVAINE _enters in a hurry of excitement_.
+
+
+LAVAINE
+
+    Father, the King’s at London gates!
+
+SIR BERNARD
+
+                                        Returned?
+
+LAVAINE
+
+    Victorious. He has overthrown and scattered
+    Those rebels in the North.
+
+SIR BERNARD
+
+                               Praise God for that!
+    How heard you this, Lavaine?
+
+LAVAINE
+
+                                 From a King’s herald
+    That rode through Astolat. I spoke with him.
+    But, father, there’s new faction now, he says,
+    Brewing in the West. He is below with Torre.
+
+SIR BERNARD
+
+    A herald of the King! What does he here?
+
+LAVAINE
+
+    The King sends seeking for Sir Launcelot.
+    Three months ago he vanished, this man said;
+    Vanished, and not a word of why or whither.
+    But now the King’s returned, he’ll search the land
+    Into its farthest corners for his friend.... (_pause_)
+    Father, is it not strange Sir Launcelot vanished
+    Just ere the King had so great need of him?
+
+SIR BERNARD
+
+    Very strange.
+
+        (_A pause._)
+
+LAVAINE
+
+                  Father, have you ever thought
+    Perhaps our guest, this knight my sister found
+    Pierced by an arrow among the forest leaves,
+    Who will not tell his name, might be none other
+    Than Launcelot himself?
+
+SIR BERNARD
+
+    What starts your thought upon so wild a fancy?
+
+LAVAINE
+
+    It is three months ago, the herald says,
+    Sir Launcelot disappeared. Three months ago
+    This knight was wounded and brought hither. Then,
+    Another thing--but now I took him news
+    Of the King’s victory; he was greatly stirred;
+    But when I spoke of this new head of trouble
+    Reared in the West, he started up and cried,
+    “I must be gone: the King has need of me!”
+
+SIR BERNARD
+
+    Sir Launcelot? It can hardly be, Lavaine.
+    But he has borne him like a true, brave knight,
+    And though he has kept his name unknown to us
+    I’ll wager it is noble----
+
+LAVAINE
+
+                               And a name
+    Not less renowned than noble, I am sure.
+    Father, King Arthur needs good men-at-arms,
+    Needs every sword that’s loyal. If our guest
+    Goes to the King now, let me ride with him
+    To London; let me serve in the King’s wars.
+
+SIR BERNARD
+
+    Your sword must win a wide renown, my son,
+    Ere he has need of you.
+
+LAVAINE
+
+                            I’ll win renown;
+    I’ll hew it from the world, as Launcelot did.
+
+SIR BERNARD
+
+    Patience, my son! If any serves the King
+    From this house, it shall be my eldest son
+    First, and your brother bides with me----
+
+LAVAINE
+
+                                              Oh, Torre!
+    A stay-at-home born! He’ll not leave his dogs.
+    He’s for the country, and abhors the Court.
+
+TORRE _bursts in_.
+
+TORRE
+
+    I have found him. Blind that I must have been
+    Not to have guessed before!
+
+LAVAINE
+
+                                Found whom, Torre?
+
+TORRE (_at the window_).
+
+                                                   Look!
+    Look! in the garden, walking with Elaine.
+    God wither him!
+
+SIR BERNARD
+
+                    Our guest? What mean you, boy?
+
+TORRE
+
+    Evermore by our sister’s side, and she
+    Takes his corruption to her innocence
+    Like syllables of Scripture. Would to heaven----
+
+SIR BERNARD
+
+    Cease raving, Torre. Our guest----
+
+TORRE
+
+                                       Who hides his name----
+    What name? Why hidden? I have found him out.
+
+LAVAINE
+
+    Who is it?
+
+TORRE
+
+               Launcelot!
+
+LAVAINE
+
+                          Did I not say it, father?
+
+TORRE
+
+    You knew?
+
+LAVAINE
+
+              The thought leapt to my mind but now.
+
+SIR BERNARD
+
+    Sir Launcelot?
+
+TORRE
+
+                   Launcelot, the Queen’s paramour.
+
+SIR BERNARD
+
+    Shame, Torre! Shame! The King’s friend.
+
+LAVAINE
+
+                                            The best knight
+    That wears a sword upon this earth.
+
+TORRE
+
+                                        A traitor!
+
+LAVAINE
+
+    He serves the Queen, and the Queen chooses him
+    To be her peerless champion in the lists;
+    Therefore the vile think evil.
+
+TORRE
+
+                                   You are a boy;
+    Talk like a boy, think like a boy.
+
+SIR BERNARD
+
+                                       You know
+    This is Sir Launcelot? He has told it to you?
+    Many a knight will hide his name for cause
+    Of some adventure, or some secret vow.
+
+TORRE
+
+    Is it not three months since this guest of ours
+    Was found in the forest with an arrow through him----
+    Found by Elaine? Would God that hunter’s arrow
+    Had split his heart in two!
+
+SIR BERNARD
+
+                                This rage is madness.
+
+TORRE
+
+    It’s he. The herald told me of a scar
+    Upon Sir Launcelot’s forehead. You have seen it.
+    Look at Elaine, pacing beside him. Watch
+    How her cheek changes, how she listens----
+
+LAVAINE
+
+                                               Well,
+    He is not so graceless not to bid good-bye
+    To her that’s been his hostess and his nurse.
+    What harm in that?
+
+TORRE
+
+                       What harm? To lose her heart
+    And make a pastime for the filcher of it!
+    Queen, country maid--all’s practice to his lures.
+
+SIR BERNARD
+
+    You anger me: so rank in your suspicions.
+    You read him backward, as the witches do
+    The holy writ. Whether Launcelot or no,
+    This is a true man.
+
+TORRE
+
+                        Father, he is false.
+
+LAVAINE
+
+    You slander one that’s better than yourself.
+
+TORRE
+
+    He goes. I’ll to the herald now, and I’ll
+    Proclaim him found.
+
+LAVAINE
+
+                        And when he goes, I go.
+    I’ll follow such a man to the world’s end.
+
+TORRE
+
+    Lavaine, you shall not.
+
+LAVAINE
+
+                            And I say, I will.
+
+TORRE
+
+    He is the lover of Queen Guenevere.
+
+LAUNCELOT _enters quietly_.
+
+TORRE
+
+    None in the Court but knows it, save the King.
+
+SIR BERNARD
+
+    Now shame upon you, Torre. Our guest is here.
+
+TORRE
+
+    Let me speak, father.
+
+SIR BERNARD
+
+                          Will you shame our house
+    And me too? Peace.
+
+TORRE
+
+                       I must speak out my heart,
+    Guest or no guest. Sir, will it please you to ask
+    This guest of ours why he has hid a name
+    Men know, whether for good or ill----
+
+SIR BERNARD
+
+                                          This house
+    Shall not forget its ancient courtesies
+    While I am master. These are sorry manners:
+    I never taught you such. In his own time
+    Our noble guest shall tell us what he will
+    Or, if he choose, be nameless. Now, no more.
+
+LAVAINE (_eagerly_)
+
+    Is it Sir Launcelot?
+
+LAUNCELOT
+
+                         I am Launcelot. Sir,
+    Pardon me, if for causes of my own
+    I let my name sleep in the dark awhile.
+
+SIR BERNARD
+
+    We should have guessed it. Though we dwell retired
+    In Astolat, doubt not those deeds of fame
+    Which you have done for Britain and our King
+    And made a glory in the land--doubt not
+    We have them all by heart.
+
+LAVAINE
+
+                               Drank them like wine.
+
+SIR BERNARD
+
+    Our children’s children will be telling them
+    By the fire. The famed Sir Launcelot! and this,
+    This is our guest--Sir Launcelot! Good news.
+
+TORRE
+
+    Good news, that he has thieved your daughter’s heart!
+    But here he stays no moment more. I’ll fetch
+    King Arthur’s herald and proclaim him.
+
+LAUNCELOT
+
+                                           Spare
+    Your pains, sir. I have spoken with that herald
+    And ride with him at once; I had come now
+    For my farewell.
+
+TORRE
+
+                     By heaven, and not too soon.
+
+SIR BERNARD
+
+    Torre!
+
+LAUNCELOT
+
+           Let him speak.
+
+SIR BERNARD
+
+                          Nay, Sir----
+
+TORRE
+
+                                       Have you not eyes?
+    This paragon of Courts, smiled on of Queens,
+    Deigns for his rustic leisure to make sport
+    Of our simplicity. Elaine has given
+    Her whole heart to him, and he’ll toss her now
+    To oblivion.
+
+SIR BERNARD
+
+                 Torre, you have dishonoured me----
+
+LAVAINE
+
+    Shame, Torre!
+
+SIR BERNARD
+
+                  Dishonoured me and all my house.
+
+TORRE
+
+    I am rough: but truth is rough; and the bur sticks.
+
+LAUNCELOT
+
+    Sir Bernard,
+    I owe your daughter all the breath I breathe.
+    She found me at the gasp of death; she brought me
+    Of her sweet pity hither, healed my wound,
+    And more; for when black clouds were on my mind
+    She let the morning shine full into it;
+    I felt her like the sky, the morning dew.
+    If--if there be some fondness, some young spring
+    Of fondness in her heart, Time soon amends
+    Such wounds. She is a child. If this be gone
+    More deep than tenderness and pity’s tears
+    I have means to cure it. Let me speak with her.
+
+TORRE
+
+    He shall not, father.
+
+SIR BERNARD
+
+                          This to me! Now leave us,
+    Or ask a pardon that is ill deserved.
+
+ELAINE _enters_
+
+SIR BERNARD
+
+    Sir Launcelot----
+
+        (ELAINE, _hearing the name, gives a little cry of wonder_.)
+
+                      Elaine! Speak with her, then.
+    You have my trust. My sons, come.
+
+TORRE
+
+                                      You are blind.
+    We shall taste bitterness ere this be done.
+
+        [SIR BERNARD _goes out with his sons._
+
+ELAINE
+
+    Sir Launcelot! Sir Launcelot of the Lake?
+    Was it the famed Sir Launcelot that I found
+    Like a dead man so pale on the dead leaves?
+    Sir Launcelot! I have won Sir Launcelot back
+    To life, to glory! Now I have a name
+    To call you by; the name I used to hear
+    When it seemed distant as the dazzling sun;
+    Why did you hide your name?
+
+        (LAUNCELOT _is silent_.)
+
+                                Something is changed.
+    What is it? Tell me.
+
+LAUNCELOT
+
+                         The King has been in peril;
+    I should have been with him.
+
+ELAINE
+
+                                 And not with me!
+
+LAUNCELOT
+
+    Forgive me, my fair nurse. If I have breath
+    To speak at all, I owe it to you. For you
+    Have made of me a new man, and I thank you
+    With all my heart that now I can return
+    To serve my King. Where is my shield?
+
+ELAINE (_bringing the shield from a corner of the room_)
+
+                                          So soon?
+    And I must lose the shield? Look, I have made
+    A silken case broidered with its device
+    And bordered with fair flowers, which day by day
+    I broidered while you lay so sick and speechless.
+    Each morning I have burnished it.
+
+LAUNCELOT
+
+                                      Like me,
+    It wears its scars.
+
+ELAINE
+
+                        Glorious scars! I seem
+    To feel the rushing stroke, when you upheld it
+    There! Dreadful stroke! Good shield! What fight was that?
+
+LAUNCELOT
+
+    It was that battle on the Solway shore,
+    When all the sands were blood, and we were pressed
+    So heavily by the wild men of the isles
+    That in the press the King came near his death.
+    This shielded Arthur then.
+
+ELAINE
+
+                               And you, you saved him.
+
+LAUNCELOT
+
+    So kingly a King, who would not die for him?
+    He has made this isle of Britain such a realm
+    As famous Alexander might have throned
+    Or Cæsar bled for:
+    Beat back the Saxon, soldered into one
+    The princedoms that were all at envious broil
+    With one another; made his name a trumpet,
+    Sounding across the seas even to Rome.
+    The world knows that; but I know more and dearer.
+
+ELAINE
+
+    How came this other scar?
+
+LAUNCELOT
+
+                              Ah, that was done
+    By my own friend, Sir Gawaine. He mistook me
+    For the false Torquil, who had trapped his brothers.
+    But, when he knew, he flung his sword away
+    And caught me to his heart; a headlong man
+    In wrath or love.
+
+ELAINE
+
+                      I pray he love you always.
+    And this deep gash?
+
+LAUNCELOT
+
+                        By the black winter waves
+    Under Tintagel towers, that blow was dealt.
+
+ELAINE
+
+    Wonderful shield, that has endured such blows
+    And borne your mortal wounds for you, and been
+    Where I would fain have been! I feel as if
+    Those dreadful murderous thrusts were in my body.
+    How had I gloried to be this, that saved you!
+    Leave me the shield that has your story on it
+    Till I have all its battles in my heart.
+
+LAUNCELOT
+
+    How should a knight do battle without his shield?
+
+ELAINE
+
+    I must resign it then. Take your good shield,
+    But I will keep its case. Look! I have stitched
+    Upon it with my needle every scar
+    That gashed its brightness. And now you will forsake me?
+
+LAUNCELOT
+
+    Have you no boon to ask me, ere I go?
+    I owe you all. Ask what you will.
+
+ELAINE
+
+                                      A boon?
+    And you will grant me anything I ask?
+
+LAUNCELOT
+
+    If it be in my power, and in my honour.
+
+ELAINE
+
+    I have heard that a knight wears his lady’s favour
+    When he goes into battle. Wear you mine?
+
+LAUNCELOT
+
+    I never did that yet for any maid,
+    For any woman. Ask some other boon,
+    Not this.
+
+ELAINE
+
+              But this is all I have to ask.
+
+LAUNCELOT
+
+    Think, and then choose again.
+
+ELAINE
+
+                                  You promised me.
+    Is my poor favour so contemptible?
+    I have it here.
+
+LAUNCELOT
+
+                    What is it?
+
+ELAINE
+
+                                A red sleeve
+    Sewn with pearls.
+
+LAUNCELOT
+
+                      If I wear this for your sake,
+    Since you have won me from my wound, Elaine,
+    You did more than you knew. I had fled the world.
+    Because I had in my tormented heart
+    Something it was too weak to endure against.
+    But now you have made me strong. I fear no more.
+
+ELAINE
+
+    Never was fear, never was aught but honour
+    Within the great heart of Sir Launcelot.
+    And you will wear this? I will bind it on.
+
+LAUNCELOT
+
+    I never did so much for any woman;
+    But I will wear it.
+
+ELAINE
+
+                        I have bound it on.
+    And now you are my knight! I see it far,
+    My sleeve, my red sleeve, far among the spears,
+    Among the helmets: none dare follow it.
+    I know my knight shall triumph over all,
+    Over the world.
+
+LAUNCELOT
+
+                    Elaine, you cannot tell
+    How like a fountain that pure trust you have
+    Cleanses me through. God keep me true to it.
+    And now, farewell.
+
+ELAINE
+
+                       But you will come again?
+
+LAUNCELOT
+
+    My child, I will not.
+
+ELAINE
+
+                          Oh, my lord, have mercy
+    Without you I shall die.
+
+LAUNCELOT
+
+                             Elaine!
+
+ELAINE
+
+                                     Have mercy.
+    I cannot live, but if you love me.
+
+LAUNCELOT
+
+                                       Ah!
+
+ELAINE
+
+    Take me for wife, or no wife if you will.
+    But if you do not love me, I must die.
+
+LAUNCELOT
+
+    Elaine,
+    Deep in the heart of me, humbly and purely,
+    I thank you for your love, for your sweet love;
+    Sweet as a flower it is to my sore spirit.
+    But I am one who, could I give such love
+    As should be yours, the love that blesses both
+    In the meeting lips of innocence, the love
+    That’s honour, faith, truth--must be changed to what
+    I am not. Did you know----
+
+ELAINE
+
+                               I only know
+    That if you will not love me, I must die.
+
+LAUNCELOT
+
+    Let the months pass, and you shall smile at this.
+    Life’s yet for you in the young leaf, Elaine,
+    You’ll love some other man, some better man.
+    And whosoever it be, I give you both
+    A dowry of my treasure and my lands
+    To you and to your heirs, and I will be
+    Your own knight till I die.
+
+ELAINE
+
+                                None of all this,
+    None of all this I want; only your love.
+    Give me your love, or my good days are done.
+
+LAUNCELOT
+
+    You know not what you ask, nor whom you ask.
+    I have a sin heavy upon my soul.
+
+ELAINE
+
+    What is that to me, who love you?
+
+LAUNCELOT
+
+                                      It were better
+    You thought of me all the evil that’s in men.
+    Hate me!
+
+ELAINE
+
+             I cannot. If I would, I cannot.
+
+LAUNCELOT
+
+    Made I such pain when I was tasting only
+    The sweet of the world? Now I have set my will
+    On the hard path, I suffer and make suffer
+    All that I touch.
+
+ELAINE
+
+                      Let me but suffer for you!
+    Let me but follow where you go, my lord;
+    However rough the roads, I’ll travel them;
+    Though my feet bleed, that shall be sweet to me.
+
+LAUNCELOT
+
+    Shall nothing but the truth content you then?
+    My heart is given--lost!
+
+ELAINE
+
+                             Now you have told me.
+
+        (_She sinks half fainting._)
+
+LAUNCELOT
+
+    Lavaine, Sir Bernard, enter!
+
+        SIR BERNARD, TORRE, and LAVAINE _re-enter_.
+
+TORRE
+
+                                 Devil! She knows,
+    And it will kill her.
+
+SIR BERNARD
+
+                          Child! Elaine! Look up.
+
+LAUNCELOT
+
+    Sir Bernard, I have hurt her but to heal.
+    Pardon me for this sorrow I have made.
+
+TORRE
+
+    Did I not say that we should rue this man?
+    She has seen to his black heart, and it will kill her.
+
+SIR BERNARD
+
+    Peace, Torre! (_To Launcelot_) I doubt not you have used all kindness.
+    We’ll pray that Time amend this in his fashion.
+    Sir Launcelot, God be with you.
+
+LAUNCELOT
+
+                                    And with you
+    Would heaven that I could have requited her.
+
+LAVAINE
+
+    I must go, father, with Sir Launcelot.
+    _She_ understands well how it is with me.
+    Father, your blessing (_kneels_).
+
+SIR BERNARD
+
+                                           Have your will, my son.
+    Seeing what has befallen, maybe it is best.
+    Go, and be worthy of the house that bred you.
+
+LAUNCELOT
+
+    Come then, Lavaine. I do but rankle here.
+
+LAVAINE
+
+    Sister, farewell.
+
+LAUNCELOT
+
+                      Peace come to you, Elaine.
+    Kind host, again farewell. In the white fire
+    Of her young heart be grief consumed away.
+
+        [_Exeunt_ LAUNCELOT _and_ LAVAINE.
+
+SIR BERNARD
+
+    Brave, sweet; look up!
+
+TORRE
+
+                           Oh, father, she will die.
+
+
+
+
+SECOND SCENE
+
+_A room in the Palace at London. At the back a colonnade, through which
+is seen a rose hedge. The_ KING _and_ SIR BEDIVERE: ARTHUR _pacing up
+and down_.
+
+ARTHUR
+
+    No news yet, Bedivere?
+
+BEDIVERE
+
+    Our messengers return with silent faces.
+    It is as if the earth had swallowed him.
+
+ARTHUR
+
+    Launcelot lost!... This victory, Bedivere,
+    Was not as the old days. Something baulked us, something
+    Like an invisible impediment--
+    I felt it round me--something that unnerved
+    What should have been a hammer-stroke. Almost,
+    But for my suddenness, it was defeat.
+
+BEDIVERE
+
+    I had not hazarded to broach a thought
+    Sprung from surmises only; but my King
+    Has spoken; therefore, may I speak?
+
+ARTHUR
+
+                                        Hide nothing.
+
+BEDIVERE
+
+    If rumours breathed about the camp be true,
+    There was some treason.
+
+ARTHUR
+
+                            I felt it in the air,
+    Like fog on a sour wind. Tell me more.
+
+BEDIVERE
+
+                                           Sir,
+    I cannot speak but on a dark report,
+    And hardly now dare tell.
+
+ARTHUR
+
+                              Hide nothing. Speak.
+
+BEDIVERE
+
+    The name that men have whispered in the night
+    Is the name of Mordred.
+
+ARTHUR
+
+                            My own sister’s son!
+    In my own house, treason!
+
+BEDIVERE
+
+                              It may be nothing,
+    But one I sent on a night-errand saw
+    A man disguised and muffled stealing up
+    From where the rebels lay. A camp-fire chanced
+    To blaze up on a sudden out of smoke.
+    The face was Mordred’s.
+
+ARTHUR
+
+                            Mordred, false to me!
+    Treachery in my own house, Bedivere.
+
+BEDIVERE
+
+    Mordred is ever fair and frank in speech,
+    Looks you in the eyes and smiles. And in the battle,
+    Though he’s no hungry fighter, he fought well;
+    And, after, cheered our victory. And yet
+    There is a hushing upon Mordred’s name
+    As if it curtained secrets. Sir, I fear him;
+    I cannot tell why.
+
+ARTHUR
+
+                       There is power in him.
+
+BEDIVERE
+
+    He keeps a kind of hidden confidence,
+    That is a magnet to unstable men.
+
+ARTHUR
+
+    I never wronged him. Treason? For what cause?
+    Envy’s a cause. Ambition is a cause.
+
+        (GUENEVERE _enters_.)
+
+    The marshals of the jousts
+    That are to celebrate our victory
+    Attend the King in Council.
+
+ARTHUR
+
+                                Say I come.
+
+        [_Exit_ BEDIVERE.
+
+        (_Absorbed in his own thoughts_, ARTHUR _does not notice
+        the_ QUEEN.)
+
+    I grow old, I begin to doubt and fear.
+    Rather a thousand enemies that shout
+    Their hate, than one that smiles behind me----
+
+GUENEVERE (_softly_)
+
+    Arthur!
+
+ARTHUR
+
+    And Launcelot gone from me! But why? I grope
+    Into the silence, and find nothing.
+
+
+GUENEVERE (_more loudly_)
+
+                                        Arthur!
+
+ARTHUR (_turning_)
+
+    My Queen!
+
+GUENEVERE
+
+              You have bid me no good-morrow yet.
+
+ARTHUR
+
+    Good-morrow, Guenevere.
+
+GUENEVERE (_after a pause_)
+
+                            I think they wait you.
+
+ARTHUR
+
+    In time. What ails my Queen?
+
+GUENEVERE
+
+                                 Nothing at all.
+    I am but an idle corner of your kingdom;
+    You are called to graver matters.
+
+ARTHUR
+
+                                      Guenevere,
+    If that this robe of care that now is on me
+    Seem to absent my heart, take it not ill,
+    You know where my heart lives. Perplexities
+    Even now beset me.
+
+        (_Murmurs without._)
+
+GUENEVERE
+
+                       Hark!
+    Someone cried “Launcelot”! If it were he!
+
+        (_Louder murmurs._)
+
+    They do cry “Launcelot”!
+
+ARTHUR
+
+                             Can it be?
+
+GUENEVERE
+
+                                        It is!
+
+ARTHUR
+
+    The world is changed if I have Launcelot.
+    Come we to meet him.
+
+    GUENEVERE (_afraid of showing her joy_)
+
+                         If it be ill news?
+
+ARTHUR
+
+    What is it ails you, Guenevere? You hear
+    The joy cry in those voices. Come.
+
+GUENEVERE
+
+                                       Go you.
+
+ARTHUR
+
+    He comes, my friend, my Launcelot! It is true!
+
+LAUNCELOT _enters and falls on his knee before_ ARTHUR. LAVAINE
+_follows at a distance_.
+
+LAUNCELOT (_kneeling_)
+
+    My King!
+
+ARTHUR
+
+             My friend! Rise, look me in the face,
+    That I may be assured it is my friend
+    Beside me once again.
+
+LAUNCELOT (_rising_)
+
+                          To the last hour.
+    And last drop of my blood.
+
+ARTHUR
+
+                               See, Guenevere,
+    Our hope is havened. Our Launcelot returns.
+    Whence come you? Tell me.
+
+LAUNCELOT
+
+    Ah, what matters whence,
+    Since I am come to serve my only King?
+
+ARTHUR
+
+    Pale, too! I think some suffering’s written here.
+
+LAUNCELOT
+
+    I am but new-recovered from a wound.
+
+ARTHUR
+
+    In battle?
+
+LAUNCELOT
+
+               Nothing glorious, my King.
+    I rode in the forest on a winter’s day,
+    Thinking my thoughts. A misty day it was
+    With a pale sun, and red leaves underfoot.
+    I let my horse pace on, lost in a muse;
+    But, as it chanced, a hunter in those woods
+    Was shooting at the deer, and aimed so ill
+    His arrow found its quarry in my side.
+
+GUENEVERE
+
+    Ah!
+
+LAUNCELOT
+
+    I fell. I knew no more. But for good hap,
+    Some clown had tracked me to those muddy leaves,
+    Me that had shaped a splendid field to die on--
+    And found me--sorry venison----
+
+ARTHUR
+
+                                    Where was this?
+
+LAUNCELOT
+
+    In the thick woods over Astolat.
+
+ARTHUR
+
+                                     You fled me,
+    Launcelot; and scarcely were you gone, when came
+    Ill-tidings, and I had sore need of you.
+    You fled me: for what cause?
+
+LAUNCELOT
+
+    I fled not you, my King, I fled not you--
+    Ask me no more.
+
+ARTHUR
+
+                    Let be then;
+    Keep secret what you will. You are come back:
+    I’ll probe no further. Is this wound well healed?
+
+LAUNCELOT
+
+    There was a maid found me in that same forest,
+    A maid well skilled in healing, and the daughter
+    Of the old lord of Astolat. Elaine
+    She is called: she won me back to life, and I
+    Have brought with me her brother: he would serve
+    His King, and he is worthy.
+    Will it please you to receive him?
+
+ARTHUR
+
+                                       Surely one
+    Who comes with Launcelot, and so commended,
+    Shall have his full of welcome. Bring him to us;
+    For many of my knights, alas! are fallen,
+    And youth amends our loss.
+
+        (LAUNCELOT _brings forward_ LAVAINE, _who kneels_.)
+
+LAUNCELOT
+
+                               Lavaine, your King.
+
+ARTHUR
+
+    Lavaine, be of our court and fellowship.
+    And if you would be patterned, here is one
+    To follow: have him for your heart’s ensample
+    In loyalty, in love, in all that’s honour.
+
+        [LAVAINE _bows and retires_.
+
+    True stock. I thank you.
+    Launcelot, we celebrate a joust to-morrow
+    In honour of this victory we have won;
+    And you must ride in it: for we were mourning
+    That it should lack the star of all my knights.
+    The Marshals wait me. But my Queen, no word?
+    Welcome him, Guenevere. Give me your hand.
+
+        (_Takes_ GUENEVERE’S _hand in his_.)
+
+    Launcelot, it was you that long ago
+    Saved my Queen for me, when proud Orkney’s King
+    Had taken her, trapped and captive, to his tower.
+    You brought her back to me: you saved her then.
+    Have you forgotten?
+
+LAUNCELOT
+
+                        I remember it.
+
+GUENEVERE
+
+    What need to call that old day back to us?
+
+ARTHUR
+
+    Circumstance is a quicksand. If the day
+    Fall on me ever when my Launcelot stands
+    Not on my side----
+
+LAUNCELOT
+
+                       Never shall that day dawn!
+    My King, I say again those words I said
+    When first I vowed my fealty. By that sword
+    Which made me knight, I swear me to be true.
+    I will devote my body to your cause,
+    I will not fail you by my hand or heart
+    While breath is in me; and if I fail, be this
+    My adjuration and high oath fulfilled
+    In curse and condemnation on my soul.
+
+ARTHUR
+
+    So anchor faith in one another’s breast.
+
+        (_Takes_ LAUNCELOT’S _hands_.)
+
+    Guenevere, to these hands, these loyal hands,
+    That never in my battle failed me yet,
+    See, I commend you still. So, God be with you.
+
+        (ARTHUR _goes out. A pause._ LAUNCELOT _fights against the
+        returning passion which he thought he had conquered_.)
+
+GUENEVERE
+
+    Do I grow old
+    And negligible? Ah, so long away
+    And never a word, never a single word!
+    I think that Launcelot is so long away
+    He forgets Guenevere.
+
+LAUNCELOT
+
+                          If he remembered
+    An hour when he forgot her----
+
+GUENEVERE
+
+                                   You are changed;
+    Pale in the cheek, cold in the heart; or is it
+    The young eyes of a maid, and her soft hands
+    Touching you? Who is this fair maid?
+
+LAUNCELOT
+
+                                         My Queen,
+    You heard me. Thank her, if you find it thanks
+    That I am here to serve you.
+
+GUENEVERE
+
+                                 You are changed.
+    Something, I know not what, has wrought in you.
+    You are still absent from me. I hear your voice,
+    But it is like the dream-voice that was all
+    I had, these days of desolation. Tell me,
+    Am I, too, altered?
+
+LAUNCELOT
+
+                        You are beautiful
+    As when I first beheld you, Guenevere;
+    More beautiful.
+
+GUENEVERE
+
+                    And you, you too, have suffered.
+    You have been wounded, and I was not there.
+    Ill chances happen, when you go from me.
+    Why did you go from me? And there was none
+    To love me.
+
+LAUNCELOT
+
+                Guenevere! The King----
+
+GUENEVERE
+
+                                        The King!
+    He gives me to your hands; defends me so,
+    With circumspection, like a palisade
+    From far away; not with a strong right arm
+    About my body and a sword in hand.
+    I am but a custom and an effigy
+    Robed for his realm’s observances; and he
+    Remembers only that I wear a crown.
+    He is as far from me as the night stars.
+    I cannot touch him, cannot wound him.
+
+LAUNCELOT
+
+                                          Queen,
+    I love him. Speak not so.
+
+GUENEVERE
+
+                              I am alone,
+    And there is none to love me.
+
+LAUNCELOT
+
+                                  Here am I,
+    With my sword, with my blood, every last drop
+    Of blood that’s in my body, and it is yours.
+
+GUENEVERE
+
+    And yet you left me--left me to Mordred’s mercy.
+    I am afraid of Mordred, Launcelot.
+    He has barbed your very absence; whispers that you
+    Fled from a rumour grown too dangerous
+    Because you dared not fight against the truth--
+    Ah, now you put your hand upon your sword--
+    Yes, even this. He has been diligent,
+    Has Agravaine, his brother, at his side.
+    And Colegrevance has joined them, with his friends
+    Patrice and Mador; and these go about
+    Shrugging suspicion at me, breathing hints
+    Foul as a fog about my name.
+
+LAUNCELOT
+
+                                 Vile traitors!
+    Mordred plays deep then, and makes power about him.
+    I fear that he is falser than you dream.
+    The rumour runs that treachery was at work
+    Conniving with these rebels in the North.
+    My life upon the hazard, it was he.
+    The Queen is but a pawn in Mordred’s game
+    That plays--who knows?--for kinship. Guenevere,
+    This poison that he brews and breathes abroad
+    Is but to start dissension round the King
+    And split the realm in two. But that my Queen
+    Should suffer torture for his use! The traitor!
+    If this impalpable fog could take a shape,
+    A body--there before me--a throat to strangle,
+    A breast to strike at and to kill!
+
+GUENEVERE
+
+                                       Ah, now
+    I have a shield and a sword--what care I now
+    For the world’s evil tongues? You are come back,
+    And spring is in the sky. Is it not sweet
+    To taste and feel? The blue sky, the warm air,
+    Trembling among the young leaves. Now I feel
+    As when we went a-Maying in the woods
+    Together and alone. Pluck me a flower.
+    There at the window one peeps in.
+
+        (LAUNCELOT _brings her a rose. She caresses his hand._)
+
+                                      So sad?
+    So sad still? Come into the golden sun.
+    Look, every small shoot thrills up to the light.
+    Smell the sweet rose upon its thorny briar.
+
+LAUNCELOT
+
+    Sweet as old hours remembered.
+
+GUENEVERE (_very softly_)
+
+                                   Sweet as those
+    To come.
+
+LAUNCELOT (_madly embracing her_)
+
+             Ah, Guenevere, to suffer so.
+    I am yours, yours, only yours--(_abruptly breaking away_)--O God,
+      have pity!
+
+GUENEVERE
+
+    Why should we not take what there is of joy,
+    So little as there is, so little?
+
+LAUNCELOT
+
+    Guenevere, I have sworn. There’s burning fire
+    Between us.
+
+        (_Pushes her from him._)
+
+GUENEVERE
+
+                Where is your joy gone?
+    In what strange countries have you been from me?
+    This--this is not the Launcelot I knew.
+
+LAUNCELOT
+
+    That Launcelot must die. Think of him slain,
+    As in my anguish I have fought to slay him!
+    Where have I been?
+    I have been down in the darkness, near great Death.
+    I have had dreams upon my fever-bed,
+    Trances that touched the mortal sense of Time
+    To nothing; and Eternity looked in
+    To the inmost of my soul,
+    There seemed no lifting of a hand but had
+    Its shadow vast in heaven----
+
+GUENEVERE
+
+                                  We are sinners all.
+    Put these black dreams behind you----
+
+LAUNCELOT
+
+                                          And no deed
+    But, like a wave that writes upon the sand
+    Ebbed from its naked witness, I remembered
+    What in the fault and soilure of our nature
+    I have wrought amiss. Guenevere, I am afraid
+    To see my very self, as God sees it.
+
+GUENEVERE
+
+    That is God’s business. He has made us flesh.
+    When we are spirits, and in the world of spirits,
+    It may be then that we shall ache no more,
+    Nor hunger for a voice, a touch, a kiss;
+    But while this wine of earth is in my veins,
+    I hunger. Had I sought for happiness,
+    Should I have chosen love? But it was Love
+    Chose me, and all my soul is dyed in yours,
+    I cannot be a separate self----
+
+LAUNCELOT
+
+                                    Nor I.
+    Guenevere, when this body is in the grave,
+    My very dust will turn and yearn to you.
+    As the seed springs and shoots up through the earth,
+    So shall I come to you.
+
+GUENEVERE
+
+                            But now, but now,
+    Have you no joy of me?
+
+LAUNCELOT (_as if no word were stranger_)
+
+                           Joy?
+
+GUENEVERE
+
+                                Do you keep
+    Your passion for the dust and for the grave?
+    Oh, you grow weary, say the truth at last,
+    For a young hand has touched you.
+
+LAUNCELOT
+
+                                      Guenevere!
+
+GUENEVERE
+
+    Why did you leave me?
+
+LAUNCELOT
+
+                          I was afraid.
+
+GUENEVERE
+
+                                        The truth.
+
+LAUNCELOT
+
+    I thought to pluck you from my heart: and if
+    Sharp stone or cutting steel could do it, I’d
+    Have spared no agony. But stone nor steel
+    Can root what’s part of every breath I breathe.
+    Though I should stamp on it, it flowers again
+    And looks like innocence. I fled from love
+    That was too strong for me.
+
+GUENEVERE
+
+                                And fled to her.
+    I see you changed, and she has wrought the change.
+    Insulter, mocking me with sick pretence
+    And virtuous aversions. Love! You love!
+    The burning name is ashes in your mouth.
+    You are weary, you are weary, you are weary!
+    You’ll none of me, and I’ll have none of you,
+    I’ll choose another for my sword and shield
+    Not you--that are but words.
+
+        [_She rushes out in great anger._
+
+LAUNCELOT
+
+    Didst thou make woman, God,
+    As thou hast made fire, earthquake, and sea-storm,
+    To raise a beauty of terror and overthrow
+    Great realms and reason’s self? Comes she again,
+    The flame is on the wind and I am straw.
+    I’m in the net. Oh for an enemy
+    To hurl at! Dogs, would they betray their King,
+    Shatter that dearest jewel of his life,
+    This realm; make me their poisoned instrument,
+    And in the crash drag down into the dirt,
+    O infamy!--my Queen?
+    Get to your work, Mordred; prime your crew;
+    Hatch your plot! Still I have my word to say.
+    If no way else avails I’ll take me hence
+    To my own country, and you shall stretch your hands
+    To grasp at nothing. Well,
+    Whatever comes, I have a sword that’s clean.
+
+
+
+
+THIRD SCENE
+
+_Astolat. A room with a low seat by a window at the back, as in Scene
+I._
+
+SIR BERNARD _and_ TORRE _stand watching_ ELAINE, _who sleeps by the
+window. They talk in low tones._
+
+TORRE
+
+See how she is wasted. If you lift her hand, it is as light as a leaf,
+and she shakes with the beating of her heart. He has cast a spell on
+her, bewitched her.
+
+SIR BERNARD
+
+I would I had that balm, whatever country bears it, that should refresh
+my child.
+
+TORRE
+
+Twice has she started from her sleep crying: “It is he! It is he!”
+
+SIR BERNARD
+
+Alas, that her mother is dead. What should an old man do against love?
+
+
+TORRE
+
+Love? It is madness.
+
+SIR BERNARD
+
+Love is madness.
+
+TORRE
+
+It is not nature.
+
+SIR BERNARD
+
+Nature makes this blossom red in the young heart, and cares not whether
+it be sweet or bitter.
+
+TORRE
+
+She is a child.
+
+SIR BERNARD
+
+An hour has made her older than the world. I would that Sir Launcelot
+had never seen her, or that seeing her he had loved her.
+
+TORRE (_indignant_)
+
+Father!
+
+SIR BERNARD
+
+I would he had loved her.
+
+TORRE
+
+How can you say it? A man fouled with sin. If God strike him not for
+this, I will say there is no God.
+
+SIR BERNARD
+
+Who can tell men’s hearts? Sir Launcelot, I doubt, will bring me to the
+grave. And yet he was a noble knight.
+
+TORRE
+
+A villain.
+
+SIR BERNARD
+
+He has sinned, it may be, yet we knew him and found him noble.
+
+TORRE
+
+I know what he has done--the traitor.
+
+SIR BERNARD
+
+Anger will not move love. Let us rather pray to God that He may change
+her heart and bring her through pain to peace.
+
+TORRE
+
+My heart is too hot. I will go to the Court. I will challenge Sir
+Launcelot to the death. I will fling my glove in his face and call him
+what he is.
+
+SIR BERNARD
+
+Softly. She is moving.
+
+ELAINE (_suddenly_)
+
+Hark.
+
+TORRE
+
+What is it?
+
+ELAINE
+
+It is a rider.
+
+TORRE
+
+I heard nothing.
+
+ELAINE
+
+He is coming. He is coming. I can hear his step on the stair.
+Launcelot!
+
+TORRE
+
+I hear nothing but the blackbird in the sycamore. (ELAINE _falls
+back_.) See, sister Elaine, it is May. The thorn-boughs are white.
+Shall we go a-Maying in the woods? Just as we used?
+
+ELAINE
+
+Let me die now. Since Sir Launcelot will not come to me, I must go to
+him.
+
+SIR BERNARD
+
+Child, my child, put away the thoughts of earth.
+
+ELAINE
+
+Dear father, I am an earthly woman, and love an earthly man. Is it so
+great an offence to love? I hope God may pardon me, since I have borne
+such pains. But if He will not pardon, I cannot help my love.
+
+SIR BERNARD
+
+I beseech you, Elaine, think not on Sir Launcelot any more.
+
+ELAINE
+
+I was called “The Fair Maid of Astolat ...”; but that has helped me
+nothing.... Is Torre here?
+
+TORRE
+
+I am here, sister.
+
+ELAINE
+
+I have something to ask of you, Torre.
+
+TORRE
+
+Ask anything, sister, dear sister.
+
+ELAINE
+
+Write me a letter, Torre.
+
+TORRE
+
+A letter?
+
+ELAINE
+
+Get paper and pen. (TORRE _gets paper and pen_.) I will tell you the
+words. Write!
+
+TORRE (_suspicious_)
+
+Is it to him?
+
+ELAINE
+
+Whom else?
+
+TORRE
+
+Sister, I cannot.
+
+ELAINE
+
+You do not love me, Torre.
+
+TORRE
+
+I would give you my life, but do not ask me this.
+
+ELAINE
+
+It is the last thing I shall ask.
+
+SIR BERNARD
+
+Do as she wishes, son.
+
+TORRE (_after an effort_)
+
+Tell me the words.
+
+ELAINE
+
+“Most noble Launcelot ... I was your lover, though you would not
+love me. (TORRE _forces himself to write_.) You would not love me,
+and therefore I can endure no longer. I was called the Fair Maid of
+Astolat, and yet I was not loved. So I make my lament to all fair
+ladies and to the Queen Guenevere. Sir Launcelot, since you would not
+come to me, now come I to you. Bury this my body that is dead for love
+of you....”
+
+TORRE
+
+Elaine, dear sister, do not speak so--you shall not die.
+
+ELAINE
+
+It is not finished, Torre. Write.
+
+TORRE
+
+No, no.
+
+ELAINE
+
+There is so little time. Write. “This is the last thing that I ask of
+you that would not love me. And, Sir Launcelot, as you are a knight
+peerless, pray for my soul.” Is it written?
+
+TORRE
+
+It is written.
+
+ELAINE
+
+All?
+
+TORRE
+
+All.
+
+ELAINE
+
+Prop my head a little ... Father! Where are you, father?
+
+SIR BERNARD
+
+I am here, child.
+
+ELAINE
+
+The letter! While I am still warm, put it in my hand. Bind it there,
+father, bind it fast.
+
+SIR BERNARD
+
+It shall be done.
+
+ELAINE
+
+And when I am cold, clothe me in the fairest dress I have. Put me on
+the barge.
+
+SIR BERNARD
+
+On the barge?
+
+ELAINE
+
+Let old Simon, dumb Simon, take me, and steer downstream to Thames. So
+I shall come to him.
+
+SIR BERNARD
+
+It shall be done. You know I never said “Nay” to your desire, little
+daughter. Perhaps it was not wisdom.
+
+ELAINE
+
+Is the day nearly done?
+
+SIR BERNARD
+
+Yes, child, the sun is sinking behind the great trees.
+
+ELAINE
+
+The flowers are falling....
+
+TORRE
+
+Elaine!
+
+SIR BERNARD
+
+She does not hear us. She does not know us any longer.
+
+TORRE
+
+What is she saying?
+
+ELAINE
+
+The rushes are gliding, the rushes are gliding. The water, the water!
+The flowers are falling upon me.
+
+TORRE
+
+Oh, father, will she really die? She, so young.
+
+SIR BERNARD
+
+She will die because she is so young. We that are old, we endure.
+
+
+
+
+FOURTH SCENE
+
+_Westminster. A vast circular banqueting hall with steps to the river
+in front. The hall is hidden at first with heavy curtains so that only
+the stairs are seen._ LAVAINE _by the river steps, leaning pensive on
+the balustrade_.
+
+_Enter_ GARETH _and_ GAHERIS _arm in arm_.
+
+GARETH
+
+    Who’s yonder?
+
+GAHERIS
+
+                  Our new courtier, young Lavaine.
+
+GARETH
+
+    Stolen apart to admire his blushing looks
+    In the dark water.
+
+LAVAINE (_turning_)
+
+                       Gaheris! Ah, and Gareth!
+    Are you for the banquet?
+
+GARETH
+
+                             Come, Narcissus, come;
+    And you shall find a mirror more attractive
+    In ladies’ eyes.
+
+LAVAINE
+
+    My thoughts strayed up the river to my home.
+    I wondered when the ripple that I watched
+    Went by our cowslip meadows. Months it seems
+    Since I was there.
+
+GAHERIS
+
+                       Soon they will be acclaiming
+    Your feats and praises in the joust, Lavaine.
+
+LAVAINE
+
+    I did but follow where Sir Launcelot led.
+
+GARETH
+
+    A good road that.
+
+GAHERIS
+
+                      How furiously he fought!
+
+MORDRED _enters through curtains. He pauses a moment; then goes off at
+side._
+
+GARETH
+
+    There’s one he toppled down.
+
+LAVAINE
+
+                                 What prince is that?
+
+GAHERIS
+
+    Mordred.
+
+GARETH
+
+             No friend to Launcelot, nor to us.
+
+LAVAINE
+
+    Then none to me.
+
+GARETH
+
+                     Hush! He is dangerous.
+
+GAHERIS
+
+    There are black bruises under those fine silks,
+    I’ll swear. How hard Sir Launcelot struck!
+
+GARETH
+
+                                               The Queen
+    Should have been there to see him.
+
+GAHERIS
+
+                                       It is strange:
+    He wore a lady’s favour, a red sleeve.
+
+GARETH
+
+    And never in his life wore such a badge.
+
+GAHERIS
+
+    None will dare ask his secret.
+
+LAVAINE
+
+                                   The red sleeve?
+    It is my sister’s. She prevailed on him
+    To wear it for her sake.
+
+GAHERIS
+
+                             Your sister’s? Ah!
+
+        (_The brothers exchange looks._ MORDRED _reappears with_
+        AGRAVAINE.)
+
+GARETH
+
+    Mordred again! And Agravaine with him.
+
+GAHERIS (_to_ LAVAINE)
+
+    His brother.
+
+GARETH
+
+                 And both dangerous.
+
+        (_Music sounds within._)
+
+GAHERIS
+
+                                     Let’s be quit.
+
+GARETH
+
+    Hark! There’s the music.
+
+        (_The young men bow ceremoniously as they pass in to_
+        MORDRED _and_ AGRAVAINE, _who come down to the steps and
+        begin talking hurriedly_.)
+AGRAVAINE
+
+    What do you want of me?
+
+MORDRED
+
+                            A private word
+    Before the banquet. I have news to-night.
+    These headstrong rebels chafing in the West
+    Are grown impatient. If we act not quickly
+    They’ll doubt my power. I have promised them too much.
+
+AGRAVAINE
+
+    Good. Then we strike and kill this Launcelot.
+
+MORDRED
+
+                                                  Fool,
+    To glut your appetite, you’d lose the world.
+
+AGRAVAINE
+
+    What is the scheme, then, that shall better it?
+
+MORDRED
+
+    I stake my first throw on this feast to-night.
+    The Queen is vext and in her stormy mood,
+    For that she feigned a sickness in excuse
+    To absent her from the jousts. Now when she’s tinder
+    To any chance fire--words can strike a spark;
+    Watch me for that--her secret may be out
+    Before she know it.
+
+AGRAVAINE
+
+                     You are too cunning, Mordred.
+
+MORDRED
+
+                                                   The King will not believe
+    Without stark proof. But he shall have it. Listen.
+    I have a fellow, silent as the snow,
+    Who watches; he is soft on Launcelot’s steps,
+    And Launcelot’s a moth that cannot choose
+    But flit to the candle. There’s a secret way
+    To the Queen’s chamber, cunningly contrived;
+    Since Launcelot went, I have found it. Soon or late
+    We trap him; it may be this very night.
+
+AGRAVAINE
+
+    Stark proof for the King!
+
+MORDRED
+
+                              Nail that into his soul
+    Red-hot as searing iron the flesh;
+    Then what a weapon is a righteous cause!
+    He will be just. King Arthur is most just.
+    But when the gall is in him, when he has smelt
+    The wormwood up into his brain, and dyed
+    His very dreams black--Launcelot shall be banished,
+    And half of Arthur’s bravest go with him:
+    Or Launcelot defies him: either way
+    The realm’s in pieces; and my hour is come.
+
+AGRAVAINE
+
+    Mordred, you are a devil.
+
+MORDRED
+
+    On the instant we make certain of the King
+    And Launcelot’s sentence, post we to the West.
+    There from our vantage we can launch our powers
+    Ripe to the moment, and the throne is mine.
+
+AGRAVAINE
+
+    I’d liefer have my steel in Launcelot’s heart.
+
+MORDRED
+
+    Calm now; no hot words, and no hasty hand
+    Flying to the sword-hilt! Watch me and the Queen.
+    Wine shall be drunk to-night, and with the wine,
+    It may be, the truth spilt upon the floor!
+
+        (_Curtains draw back and disclose the Round Table spread
+        for a banquet. The knights are already assembling._ MORDRED
+        _and his brother joins them. Harpists attending._)
+
+MORDRED
+
+    Good evening to Sir Gawaine!
+
+GAWAINE
+
+                                 You are gay,
+    Sir Mordred.
+
+MORDRED
+
+                 Why not? Bright eyes match a feast.
+    Have you no smiles?
+
+GAWAINE
+
+                        What have you heard?
+
+MORDRED
+
+                                             I? Nothing.
+
+GAWAINE
+
+    I hear the King sits not at table with us.
+
+MORDRED
+
+    Indeed? For what cause?
+
+GAWAINE
+
+                            There came news to-night.
+
+MORDRED
+
+    Ill news?
+
+GAWAINE
+
+              Who knows? News from the West, Mordred.
+
+MORDRED
+
+    Is trouble afoot there, too? But all’s secure,
+    Now we have Launcelot back. Is he not here?
+
+GAWAINE
+
+    He is with the King.
+
+MORDRED
+
+                         But I see friends of his.
+    Greeting to you, Sir Bors, and you, Sir Kay.
+
+AGRAVAINE (_to_ COLEGREVANCE)
+
+    Colegrevance, be wary.
+
+COLEGREVANCE (_going apart with him_)
+
+                           What’s afoot?
+
+AGRAVAINE
+
+        (_They whisper together._)
+
+                                         Be wary.
+
+_Enter_ BEDIVERE
+
+BEDIVERE
+
+    I come straight from the King: the Queen to-night
+    Presides for him. Lucan, array the guests.
+    The Queen approaches.
+
+        (_The guests arrange themselves. Harps. The_ QUEEN _enters
+        attended by her ladies. All are standing._)
+
+GUENEVERE
+
+    Welcome and salutation to you all.
+    Our banquet loses what it least should lose
+    On such a day as this; my lord the King
+    Had thought to celebrate his feast with those
+    That bore his banners into victory:
+    But sudden cares absent him. Pray, be seated.
+    Your Queen is honoured being in his place.
+    Brave knights, my welcome,
+    A Queen’s dear welcome. Glad am I, Sir Gawaine,
+    To greet the legend of the land for valour,
+    Proud in unchampioned causes;
+    And you, Sir Mordred, far-seeing in counsel;
+    Sir Bedivere, our sovereign’s pillar of trust;
+    Sir Kay, Sir Bors, Sir Agravaine, Sir Lucan,
+    Sir Colegrevance----Is not Sir Launcelot here?
+
+SIR KAY (_to a lady_)
+
+    Go, tell Sir Launcelot the Queen asks for him.
+
+GUENEVERE
+
+    Welcome to you, Sir Gareth and Sir Gaheris.
+    Never a Queen
+    Had round her such array of peers renowned
+    In arms and courtesy.
+
+GAWAINE
+
+                          Most royal Queen!
+
+MORDRED
+
+    The honour that you do us dumbs our speech.
+
+        (_The_ QUEEN _seats herself upon a raised daïs at the back.
+        All take their seats and the banquet begins. Each knight is
+        attended by his squire._)
+
+GUENEVERE
+
+    I grieve my sickness robbed me of yesterday’s
+    Great jousts: I had thought to glory in them, and joy
+    In the prowess of antagonists so noble.
+
+BEDIVERE
+
+    Our grief it was, your presence shone not on us.
+
+BORS
+
+    Ah, Madam, had you seen Sir Launcelot there!
+
+KAY
+
+    He never rode so terrible a course
+    In all his days.
+
+BEDIVERE
+
+                     There was no man could stand
+    Against the fury of his setting on.
+
+COLEGREVANCE
+
+    Why, all men have their lucky day.
+
+KAY
+
+                                       And this
+    Was not denoted in your stars.
+
+COLEGREVANCE
+
+                                   For me
+    These jousts are toys.
+    What comfort’s in a partridge to good hunger?
+    Give me a pasty royally bastioned, stuffed
+    For siege, a challenge to the assault; and give me
+    Battle’s reality, not miming spears.
+    When the blood’s up and runs hot in the veins
+    Then you shall see these hands of mine at work,
+    Not play.
+
+KAY
+
+              And yet methought the blood was up,
+    When Launcelot bore you down.
+
+MORDRED
+
+                                  Ah, yesterday
+    Launcelot was an army, not a man.
+
+AGRAVAINE
+
+    It seems he is too weary with his feats
+    To grace this royal table!
+
+GUENEVERE
+
+                               Dear my lords,
+    I raise a cup to your good fellowship.
+    If, as may chance, the semblance of division
+    Or the beginning of an enmity
+    Set any of you askance at one another,
+    Let it be melted in this cordial wine.
+    Shall it not? If a word has flown, forget it,
+    If any old wound be open, let it close,
+    And mould to-night your fellowship anew.
+    Drink with me all: “King Arthur’s fellowship!”
+
+        (_The knights, rising, respond with a great shout. Deep
+        horns sound a flourish._)
+
+ALL KNIGHTS
+
+    “King Arthur’s fellowship.”
+
+GAWAINE
+
+    You speak to loyal hearts.
+
+LADY (_returning_)
+
+                               King Arthur, Madam,
+    Takes private counsel of Sir Launcelot,
+    Who prays to be excused.
+
+GUENEVERE
+
+                             As the King wills.
+
+BORS
+
+    It seems new strife is hatching in the West.
+
+BEDIVERE
+
+    These rats gnaw at our realm on every side.
+
+GAWAINE
+
+    So we shall soon be horsed----
+
+GARETH
+
+                                   And in the field.
+
+GAHERIS
+
+    Lavaine, there shall be spurs to win.
+
+AGRAVAINE
+
+                                          These rebels
+    Renown us not. There’s not a knight among them.
+
+KAY
+
+    Enough for Colegrevance to flesh his steel.
+
+        (_A laugh from_ LAUNCELOT’S _friends_)
+
+MORDRED
+
+    While we go to the wars, ladies lament.
+
+BORS
+
+    What, ladies, Mordred?
+
+MORDRED
+
+                           Breaker of hearts, so modest?
+    I thought Sir Launcelot’s comrades boasted more
+    Of sighs than trophies. As for me and mine----
+
+COLEGREVANCE
+
+    We are blunt men-at-arms.
+
+MORDRED
+
+                              But you, Sir Bors;
+    If I were not discreeter than the dusk----
+
+        (_A laugh from_ MORDRED’S _followers_.)
+
+GUENEVERE
+
+    Friends, of your charity!
+
+MORDRED
+
+                              I say no more.
+
+GUENEVERE
+
+    Your tongues speak trippingly of breaking hearts,
+    Yet of your courtesy remember this:
+    A woman has no armour, has no sword;
+    And absent, how shall she defend herself?
+    If tongues be sharp with malice,
+    A woman must be silent. If defamers
+    Stab at her honour in the dark--why, still
+    She must be silent. I am a woman, a Queen;
+    And yet, how can I fight with evil tongues?
+    I count you all as friends, all of you here;
+    And if your Queen on any day should need
+    Armour and sword, she gives to you her honour;
+    The dearest thing she has she gives to you.
+
+GAWAINE
+
+    Now may the lightning scorch the lips that made
+    Our loyal oaths, if we forget. In peace
+    As in the hour of peril, we are yours
+    In service absolute; and we will shed
+    Our bosom’s last blood to defend our Queen.
+    Do I not speak for all?
+
+BEDIVERE (_raising his cup_)
+
+                            For all! The Queen!
+
+ALL KNIGHTS
+
+    We pledge her.
+
+GAWAINE
+
+                   Sword and life!
+
+ALL KNIGHTS
+
+                                   Hail to the Queen!
+
+BORS
+
+    To the most gracious lady in the land!
+
+LUCAN
+
+    To the glory of this isle!
+
+KAY
+
+                               The Western star!
+
+MORDRED
+
+    The radiant rose of Britain and the world!
+
+GAWAINE
+
+    Happily spoken. Mordred hits the mark:
+    “The radiant rose of Britain and the world.”
+
+ALL KNIGHTS
+
+    The radiant rose of Britain and the world.
+
+        (_A great flourish from the horns._)
+
+GUENEVERE
+
+    Thanks to you all, thanks from my heart that glows
+    Great in my bosom to be pledged so queenly,
+    To have such praises like a crown upon me
+    More golden than this circlet; for I feel
+    Your voices are like swords upon my side
+    Flashing about me.
+    Sir Mordred, specially I thank you, since
+    Too seldom have we seen you grace our table.
+    Honour us more!
+
+MORDRED
+
+                    I am honoured past desert.
+    Let me again pledge that most royal beauty
+    Dimming the fame of queens dead and renowned.
+    Drink yet again, knights, to our Queen.
+
+ALL KNIGHTS
+
+                                            Our Queen!
+
+        (_Another flourish._)
+
+MORDRED
+
+    Yet something, give me pardon, something lacks
+    Your feast, Queen Guenevere.
+
+GUENEVERE
+
+                                 Speak your desire.
+    I blame my entertainment that it lacks----
+
+MORDRED
+
+    Sir Launcelot!
+
+GUENEVERE
+
+                   I have word the King requires him
+    In council.
+
+MORDRED
+
+                A light is wanting by your side
+    When Launcelot is absent. You have spoken
+    Of the division that an envy breeds.
+    Lives one who envies not Sir Launcelot?
+    If it be fault,
+    I must confess to it. Fame he has and love,
+    And therefore stands the envy of the world.
+    Where is the man’s hand can prevail against him,
+    Or where the heart of woman?
+    When in the bright lists Launcelot rode on me
+    How was I dazzled? Not by him alone;
+    I marvelled at the red sleeve which he wore,
+    Beauty’s proud badge. That smote me in the eyes.
+    My Queen, it was your red sleeve conquered me.
+
+GUENEVERE
+
+    A red sleeve? Launcelot?
+
+MORDRED
+
+                             Knights,
+    Red wine to the red sleeve! (_A pause._)
+    Does no one drink? Have I said aught amiss?
+
+GUENEVERE
+
+    What does Sir Mordred rave of?
+
+BEDIVERE
+
+                                   Queen, excuse.
+    It is but some extravagance of phrase.
+
+LAVAINE (_shyly_)
+
+    Sirs,
+    This red sleeve is my sister’s.
+
+MORDRED
+
+                                    Not the Queen’s?
+
+        (_A pause._)
+
+COLEGREVANCE
+
+    Out of the mouth of babes!
+
+MORDRED
+
+                               Oh, pardon me
+    If in my innocence I have offended.
+
+GUENEVERE
+
+    Sir Launcelot wore a red sleeve yesterday?
+    And this sleeve was your sister’s?
+
+LAVAINE
+
+                                       Yes, my Queen.
+    She supplicated him to wear it.
+
+GUENEVERE
+
+                                    She
+    Has healed him of his wound. For gratitude
+    He could have done naught else.
+
+MORDRED
+
+                                    But this is marvel.
+    Never did Launcelot take such badge before
+    Of any lady. More than gratitude
+    This surely meant.
+
+GAWAINE
+
+                       Mordred, the Queen has spoken.
+    You slight her word.
+
+MORDRED
+
+                         Nay, for the Queen must joy
+    With all her knights in so surpassing news.
+    We shall see Launcelot bring to Court at last
+    A bride.
+    Sirs, drink with me to Launcelot and his bride!
+
+AGRAVAINE, COLEGREVANCE, PATRICE, AND MADOR
+
+    To Launcelot and his bride!
+
+GUENEVERE
+
+    I also drink to Launcelot’s fair bride.
+    And now, sirs, I will pray you pardon me.
+    (_To_ SIR LUCAN) Sir Lucan, bid my woman to attend me.
+
+        (_Pause._)
+
+GAWAINE (_in a low voice_)
+
+    Mordred, this marring of the feast is yours.
+
+MORDRED
+
+    I spoke but praises.
+
+GAWAINE
+
+                         Honey, dropping venom.
+
+AGRAVAINE
+
+    Gawaine, you are ever shaping taunts at us.
+
+BEDIVERE
+
+    Sirs, sirs, the Queen!
+
+MORDRED
+
+    I spoke no word but what should honour her.
+
+BORS
+
+    Sir Mordred, we
+    That are the friends of Launcelot know not you
+    So fond a lover of his fame; so pardon
+    If phrases of such fashion seemed to taste ...
+    I say no more. Yet be assured, if ill
+    Be meant to Launcelot, rue to him that means it.
+
+COLEGREVANCE
+
+    A threat! By Uther’s beard, we’ll not be threatened.
+
+MORDRED
+
+    Colegrevance, be still.
+    What said the Queen. Accord old feuds, be friends.
+    Which of us now shows her obedience?
+
+KAY
+
+    Were Launcelot here----
+
+AGRAVAINE
+
+                            Launcelot, Launcelot!
+    Must we be ever plagued with Launcelot?
+
+BORS
+
+    Yesterday, Agravaine, you had some cause.
+
+        (_A laugh from_ LAUNCELOT’S _friends_.)
+
+AGRAVAINE
+
+    I defy you all.
+
+BEDIVERE
+
+                    The Queen!
+
+AGRAVAINE
+
+                               The Queen, it seems,
+    Has bidden us to be gibed at.
+
+MORDRED
+
+                                  Peace, sirs, peace.
+    The Queen bade us be merry.
+    I ask your pardon if I spoke amiss,
+    I marvel that a sleeve, a mere red sleeve----
+
+GAWAINE, BEDIVERE, BORS, KAY
+
+                                                  Mordred!
+
+GUENEVERE (_rising in wrath_)
+
+    Unmannerly dastard!
+
+        (_Pause and a low laugh from_ AGRAVAINE.)
+
+                        Nay, forgive me, sirs;
+    I am not all recovered from my sickness:
+    Pardon me if I leave you; stir not. Come.
+
+        [_Exit with ladies._
+
+GAWAINE (_after a pause, to_ MORDRED)
+
+    What devil pricked your tongue to speak of that?
+
+MORDRED
+
+    Why should I not?...
+    Were it not injury to think such thoughts
+    I would say----
+
+GAWAINE
+
+                    To your meaning, and be done.
+
+MORDRED (_slowly_)
+
+    I would say Gawaine hints of some dishonour,
+    Some secret that must not be told abroad.
+    Would Gawaine say the Queen
+    Is jealous because Launcelot----
+
+GAWAINE
+
+                                     Slanderer!
+
+MORDRED
+
+    It was not I that hinted.
+
+LAVAINE
+
+                              The red sleeve,
+    I tell you again, Sir Mordred, was my sister’s.
+    For Elaine’s sake and in mere courtesy
+    Sir Launcelot wore it.
+
+MORDRED
+
+                           Needs the Queen these defenders?
+
+COLEGREVANCE
+
+    What fool boy’s talk is this? A paramour
+    The more, say I.
+
+AGRAVAINE
+
+                     False to one, false to all.
+
+LAVAINE
+
+    Liar!
+
+AGRAVAINE
+
+          I will have blood for that.
+
+COLEGREVANCE
+
+                                      And I.
+
+BEDIVERE
+
+    For shame! Be silent. Here in the King’s hall!
+
+AGRAVAINE
+
+    Off, masks! We have slobbered phrases long enough.
+    The Queen confessed, you know it by her eye
+    And cheek of flame that spoke clear as a trumpet
+    “Launcelot is mine! None else shall have his love
+    While I have breath and can deceive the King.”
+    Shall the King be deceived?
+
+BORS
+
+                                Drag him away!
+
+AGRAVAINE
+
+    To the King!
+
+COLEGREVANCE, MADOR, PATRICE
+
+    To the King!
+
+BEDIVERE, LUCAN, KAY, BORS
+
+    To the King? No.
+
+GAWAINE
+
+    Silence! To the King? And shame
+    The very floor we stand on? To the King,
+    And with what pitiable pretext? Why,
+    But that the wine is flown into your brains,
+    What colour is in this tale? The morning air
+    Will blow it into nothing.
+
+AGRAVAINE
+
+                               That we’ll see.
+
+BEDIVERE
+
+    Mordred, you vowed devotion to the Queen.
+
+MORDRED
+
+    I have said naught against her.
+
+BORS
+
+                                    Hypocrite!
+
+AGRAVAINE
+
+    Do you dare insult my brother?
+
+LUCAN
+
+                                   Are Britain’s peers
+    Grown tavern brawlers?
+
+KAY
+
+                           Launcelot shall hear you
+    And prove upon your bodies that you lie.
+
+AGRAVAINE
+
+    The truth is out, and Launcelot shall die
+    For all his champions.
+
+PATRICE
+
+                           Come we to the King.
+
+BEDIVERE
+
+    Are knightly vows then turned to drunkards’ oaths?
+
+KAY
+
+    Is loyalty in the gutter?
+
+GAWAINE
+
+                              Shame on all
+    If one word come to the King’s ear of this.
+
+BEDIVERE
+
+    And with this hubbub we affront the Queen
+    Most shamefully. Remove we all, at once.
+
+        (_The knights pass out in great turmoil_, MORDRED
+        _lingering last_.)
+
+MORDRED
+
+    I have pulled the sluice. Now let the torrent stream.
+
+        [_Exit._
+
+GUENEVERE _enters with one of her women_.
+
+GUENEVERE
+
+    Sir Launcelot, have you found him?
+
+WOMAN
+
+    He is here.
+
+        (GUENEVERE _dismisses the woman with a gesture_. LAUNCELOT
+        _enters, grave and preoccupied_.)
+
+LAUNCELOT
+
+    My Queen!
+
+GUENEVERE
+
+    Perjurer! The truth leaps to light at last!
+    Ah God, Launcelot, that I trusted you,
+    Loved you with such a love, such a mad love,
+    So weak! But now my heart turns into hate
+    And all my blood into one river of scorn.
+    Oh, that I were the lightning and could strike
+    To the false heart of you; there, there,
+    Behind the lips that vowed me endless love
+    To the false heart that laughed those vows away,
+    False as the sea, cruel and false with smiles
+    And sighs and perjured protestation.
+
+LAUNCELOT
+
+                                         Queen!
+
+GUENEVERE
+
+    Who fills your secret bosom, fires your thought?
+    Who speeds her champion’s onset in the lists?
+    Not I, but she whose dear red sleeve you wore.
+
+LAUNCELOT
+
+    Guenevere, hear me!
+
+GUENEVERE
+
+                        A milky-hearted maid,
+    A tender maid, the maid of Astolat,
+    She for whose sake you did what never yet
+    You did for any woman. And you came
+    Fresh from her clasp, and her cold kiss, to me!
+    Get to her, haste to her.
+    Run to that adoration of meek eyes----
+
+LAUNCELOT
+
+    Guenevere, Guenevere! you are much deceived.
+
+GUENEVERE
+
+    Deceived indeed! Ah, did you ever love?
+    Is all that sweetness, ah God, all that seemed
+    So sweet, it tortures me to think of it,
+    Ashes and dust? Horrible! Now I know
+    Why you came sainted and exalted back--
+    Loyalty and compunction on your lips,
+    But in your heart a love you dared not own.
+    It is this girl that’s changed you. Go to her!
+
+LAUNCELOT
+
+    I am not changed, my Queen. It is you change.
+
+GUENEVERE
+
+    I?
+
+LAUNCELOT
+
+       Has some devil entered into you
+    That you rave slander?
+    Speak not, for you shall hear me. You have wronged
+    One that you know not, and me too you wrong
+    That never loved any but you, have spent
+    Blood for you, fought for you, have many times
+    Been in death’s peril for you, and would to God,
+    If so I am requited, would to God
+    That I had never loved.
+
+GUENEVERE
+
+                            Ah, you have said it.
+
+LAUNCELOT
+
+    I love her not, you know it.
+
+GUENEVERE
+
+                                 Yet you wore
+    Her sleeve, her favour.
+
+LAUNCELOT
+
+                            What I did, I did
+    For pity, and for the shielding of your name.
+    I would not wear your favour for that cause.
+
+GUENEVERE
+
+    And yet you never did so much for love.
+
+LAUNCELOT
+
+    She had won me back from death. How otherwise
+    Could I requite her, since I could not love?
+    So earnestly she asked me for that boon.
+
+GUENEVERE
+
+    It was a token to the world you loved her.
+    You had no thought of me, never a thought.
+
+LAUNCELOT
+
+    Rack me no more! Day and night, night and day,
+    The image of your eyes and voice and hair
+    Burns me; you are twisted in my heart strings, I have sought
+    To cut love from my bosom, but I cannot,
+    I cannot; and because it saps, divides,
+    Undoes this realm, and wrongs the King I love--
+    Never can I enough repent that wrong----
+
+GUENEVERE
+
+    Ah, false and faithless, you will go to her.
+
+        (_At the height of this scene, suddenly from the right a
+        barge appears with the body of_ ELAINE _upon it. It is
+        steered by a very old dumb servant. It glides very slowly
+        to the steps which lead down to the river._ LAUNCELOT
+        _alone sees it first_.)
+
+GUENEVERE
+
+    What comes into your eyes and sends you pale?
+
+LAUNCELOT
+
+    Is it a vision?
+
+    GUENEVERE (_to the steersman_)
+
+    Whom do you bring, cold on her bier, so strangely?
+    (_To_ LAUNCELOT) Why does he speak no word?
+
+LAUNCELOT
+
+                                                What need of words?
+
+GUENEVERE
+
+    Is it she?
+
+LAUNCELOT
+
+               Yes.
+
+GUENEVERE
+
+                    What have you done to her?
+
+LAUNCELOT
+
+    Speak! Can you answer nothing?
+
+        (_The steersman signs that he is deaf and dumb_)
+
+                                   He is dumb.
+
+        (_The steersman points to the letter_)
+
+GUENEVERE
+
+    There is a folded paper in her hand.
+
+        (LAUNCELOT _steps into the barge, and unties the letter and
+        reads it_.)
+
+LAUNCELOT
+
+    “Most noble Launcelot, I was your lover, though
+    you would not love me. You could not love me,
+    and therefore I can endure no longer. I was
+    called the Fair Maid of Astolat, and yet I was not
+    loved. So I make my lament to all fair ladies,
+    and to the Queen Guenevere. Sir Launcelot,
+    since you would not come to me, now come I to
+    you. Bury this my body that is dead for love of
+    you. This is the last thing that I ask of you
+    who would not love me. And, Sir Launcelot, as
+    you are a knight peerless, pray for my soul.”
+
+ARTHUR _appears, entering slowly_
+
+ARTHUR
+
+    What wonder’s here?
+
+LAUNCELOT
+
+                        The wonder of a death;
+    The wonder and the beauty and the sorrow.
+
+ARTHUR
+
+    Who is this maid?
+
+LAUNCELOT
+
+                      One that loved overmuch;
+    It is Elaine.
+
+ARTHUR
+
+                  The maid of Astolat
+    That healed your wound? How comes she dead?
+
+LAUNCELOT
+
+                                                Read here.
+
+        (ARTHUR _reads the letter to himself_.)
+
+GUENEVERE (_Gliding away with bowed head_)
+
+    Pardon, pardon, pardon!
+
+ARTHUR
+
+    Is love so terrible? I did not know.
+    I would that you had married her.
+
+LAUNCELOT
+
+                                      I could not.
+
+ARTHUR
+
+    Why, Launcelot?
+
+LAUNCELOT
+
+                    I could not,
+    Love cannot be constrained. Love must be free.
+    Where love is bound, it breaks free.
+
+ARTHUR
+
+                                         It breaks free
+    Where it is bound. Bound, and breaks free! Think you
+    That other women can love like to this?
+
+LAUNCELOT
+
+    Doubt it not.
+
+ARTHUR
+
+                  Even to death?
+
+LAUNCELOT
+
+                                 Even to death.
+
+        (_A pause, each thinking his own thoughts._)
+
+ARTHUR
+
+    It is as if a flame had leapt from her
+    And stung me in the brain.
+    Lives such a world of fire in Guenevere
+    And I have never known it?
+    She is smiling, yet she suffered even to death.
+    Heart of a woman! Is a realm so strong,
+    Armies, or battlements? Is faith? Is justice?
+
+LAUNCELOT
+
+    I pray you let me go apart awhile
+    For I am charged with a burial.
+
+ARTHUR (_with a change of tone_)
+
+                                    Be it so,
+    There’s something hidden from me. Why that clamour
+    And then the silence when I came among them?
+    (_Going away, he turns_) Launcelot, I have trusted you.
+
+LAUNCELOT
+
+                                                            My King,
+    Trust me still.
+
+        [ARTHUR _goes out_.
+
+    There’s no end now but exile, I must hence,
+    Back with to-morrow’s dawn to my own land,
+    To Brittany. (_He motions to the steersman, and
+    steps into the barge._)
+                      Steer down the stream, and I
+    Will bring you to that place
+    Where this must leave the light.
+    Have mercy, Jesu, on that wounded heart!
+    Give me a soul so constant, flight so straight!
+    Some angel of compassion bear her now
+    Where innocence may haven, far from me!
+    Steer on!
+
+        (_The barge passes down stream._)
+
+
+
+
+FIFTH SCENE
+
+_The_ QUEEN’S _tower. Night. At the back a bolted door. At one side
+a prie-dieu, with a footstool before it. A single lamp burning on a
+tripod._ GUENEVERE _stands by a window, holding the curtain and peering
+out_.
+
+GUENEVERE
+
+    It has not moved.... It’s nothing; fancy’s fever,
+    That shapes the shadows into forms of fear!
+    And yet there is a shadow among those shadows,
+    And I could swear that shadow had human eyes,
+    Watching. It stirs not. Is it a tree-stem
+    Gives body to the dark? No tree was there.
+
+        (_She drops the curtain._)
+
+    Can someone have found out the secret way
+    And even now be spying on Launcelot?
+    Pray Heaven he comes not! Why is the air so still
+    With such a mortal stillness?
+    There’s the owl again, crying, and there again!
+    As if it knew the secret of the night
+    And called me warning notes. Was that a step?
+    I am all imagination and sick scares;
+    And that dead face returns, ever returns--
+    Elaine’s face, smiling cold upon her bier.
+    She burnt her very heart out. Yet her face
+    Had peace on it, and joy! Dead! Did she love
+    Better than I?
+
+        (_She looks out again._)
+
+    It has not moved. It must be fear’s invention.
+
+        (_She throws herself before the Virgin’s image._)
+
+    Mother of God, Mother.... She is dead;
+    And yet she triumphs and she humbles me.
+    I _will_ pray. O thou seven-times wounded one,
+    Because thou didst so suffer, look on me;
+    Look in my heart, thou hadst a bleeding heart;
+    Thou knowest how I sinned, but how I suffer....
+    I cannot pray. I only see that face
+    Dead, with the joy on it. I want, I want----
+
+LAUNCELOT _enters with a cloak wrapped about his head_
+
+    Who is it?
+
+    LAUNCELOT (_showing his face_)
+
+    I. I came the secret way.
+    I come from burying the dead. Elaine
+    Is laid in earth. She sleeps. I have no sleep.
+
+GUENEVERE
+
+    Hush!
+
+        (_She goes to the window_)
+
+          It is gone!
+
+LAUNCELOT
+
+                      What is it?
+
+GUENEVERE
+
+                                  A dark shape,
+    That stood within the shadow of the wall
+    This hour past.
+
+LAUNCELOT
+
+                    I saw nothing.
+
+GUENEVERE
+
+                                   If it be
+    Mordred, or Mordred’s spy? Launcelot, go
+    Now, or we are both lost.
+
+LAUNCELOT
+
+    What’s Mordred’s hate but a nettle on a dunghill?
+    What is it to me, that go from you for ever?
+    Look on me, Guenevere, for the last time.
+    The hard hour’s here, the bitter moment’s come;
+    To-morrow I hoist for Brittany.
+
+GUENEVERE
+
+                                    Not yet!
+    Oh no, not yet!
+
+LAUNCELOT (_embracing her_)
+
+    Once, once again, and then never again!
+
+GUENEVERE
+
+    Never? Never?
+
+        (_She half swoons in his arms._)
+
+LAUNCELOT
+
+    O Queen, Queen of the World! Endure! Dear God,
+    Have pity on her Thou madest beautiful
+    With such a beauty as those burning stars
+    In the waste heavens.
+
+GUENEVERE
+
+                          Launcelot!
+
+LAUNCELOT
+
+                                     Guenevere!
+    Oh for a stream in a wood beneath the stars!
+    A stream to bathe our souls in, Guenevere!
+    I wish I had a giant’s strength to break
+    This walling world down, hurl it stone from stone,
+    Break from this dungeon into burning life,
+    Free--lost, but free!
+
+GUENEVERE (_pushing him from her_)
+
+    Go now, or I shall keep you
+    For ever in my arms.
+
+        (_As they gaze silent on one another, voices are heard
+        without. A knocking at the door; then the voice of_
+        AGRAVAINE _calling aloud_.)
+
+AGRAVAINE
+
+    Launcelot! Traitor knight!
+
+GUENEVERE
+
+                               What voice is that?
+
+VOICES
+
+    Traitor! Come forth!
+
+GUENEVERE
+
+    What insolent clamour at my very door!
+    I am a Queen, and daughter of a Queen.
+
+        (_A laugh and voices._)
+
+AGRAVAINE
+
+    Traitor, come forth to us.
+
+LAUNCELOT
+
+                               It’s Agravaine!
+
+AGRAVAINE
+
+    You are taken!
+
+OTHER VOICES
+
+                   Taken, traitor; taken at last!
+
+AGRAVAINE
+
+    Come you out, Launcelot; there is no escape.
+
+GUENEVERE
+
+    Ah, Launcelot, they are come to murder you!
+
+VOICES
+
+    Come out! Come out!
+
+LAUNCELOT
+
+    Unclasp your hands; I am a man again!
+    The secret way! Farewell, my Queen!
+
+GUENEVERE (_stopping him_)
+
+                                        Wait.
+    That shape I saw in the shadow! If they have set
+    A watch below? Stay an instant. Let me look.
+
+        (_She looks out, and her appearance is met with a hoarse
+        and mocking laugh from below._)
+
+LAUNCELOT
+
+    Trapped!
+    Is there no armour, not a coat of mail?
+    Nothing?
+
+GUENEVERE
+
+             Alas, nothing.
+
+VOICES
+
+                            Out, come out!
+
+LAUNCELOT
+
+    Not a sword even?
+
+GUENEVERE
+
+                      Alas, not even a sword.
+
+LAUNCELOT
+
+    I would to God I had my armour on me.
+
+        (MORDRED _laughs_.)
+
+    Mordred’s laugh. It is he that has done this.
+
+MORDRED
+
+    In the King’s name, we come to avenge the King
+    And the King’s honour.
+
+VOICES
+
+                           Recreant knight, come out.
+
+LAUNCELOT
+
+    God strike them!
+    Such shameful crying at your very doors!
+    Better death straight.
+
+GUENEVERE
+
+    Let them kill me, so that they let you go.
+
+LAUNCELOT
+
+    Heaven defend me from such shame as that.
+    No, I’ll sell life as dearly as I may,
+    But I would sooner have my armour on me
+    And a sword within my hand than all the crowns
+    Of Christendom. Then, then would I have done
+    Some deeds that men might tell of.
+
+        (MORDRED _and his men have brought a bench and begin to
+        batter at the door_.)
+
+GUENEVERE
+
+    They will break in the door.
+
+COLEGREVANCE
+
+                                 Come out to us,
+    And let us kill you.
+
+LAUNCELOT
+
+                         That was the voice
+    Of Colegrevance. He has the wits of an ox.
+    Be still. Muffle the light. I have a thought.
+    If I am slain, my Queen, pray for my soul.
+
+    GUENEVERE (_muffles the lamp_)
+
+    You will not open to these hounds of blood?
+
+LAUNCELOT
+
+    Be still.
+
+        (_He opens the door a little._ COLEGREVANCE _comes in, and_
+        LAUNCELOT _shuts the door and bolts it in an instant_.)
+
+COLEGREVANCE
+
+    There is no light.
+
+        (LAUNCELOT _with a great buffet stuns_ COLEGREVANCE. _He
+        draws_ COLEGREVANCE’S _sword and thrusts it into his
+        throat_.)
+
+    LAUNCELOT (_to_ GUENEVERE)
+
+    The lamp.
+
+        (GUENEVERE _uncovers the lamp_.)
+
+    Now help me. Quick! Help me to arm.
+
+        (_He tears off_ COLEGREVANCE’S _coat of mail and puts it
+        on_.)
+
+    Why, what a girth is here. Yet it shall serve.
+
+AGRAVAINE
+
+    Colegrevance! Colegrevance!
+
+LAUNCELOT
+
+                                Now I can defy them.
+
+AGRAVAINE
+
+    Vengeance! We’ll break the door, and drag you out.
+    False fighter! You are caught, for all your wiles.
+
+LAUNCELOT
+
+    Listen! Cease your slanderous clamour! Listen!
+    Go from this door, each of you get you home.
+    To-morrow come you all before the King.
+    There I will meet you and there answer you.
+    That’s my last word.
+
+AGRAVAINE
+
+    Say your prayers now, and we will cry Amen
+    Before we kill you.
+
+LAUNCELOT
+
+                        Is that your answer? Then
+    Look to yourselves!
+
+        (_He sets open the door suddenly, sword in hand._
+        AGRAVAINE, MADOR, PATRICE, _and_ MORDRED _enter. There is a
+        rush and furious combat._ AGRAVAINE _falls mortally wounded
+        within the room_.)
+
+VOICES
+
+                        Have at him!
+
+LAUNCELOT
+
+                                     Mouths of shame!
+
+GUENEVERE
+
+    Ah, Jesu, help!
+
+AGRAVAINE
+
+                    I am dead. Mordred, Mordred!
+
+PATRICE (_falling_)
+
+    It is the fiend.
+
+LAUNCELOT
+
+                     To the black heart of you!
+
+        (MORDRED _falls wounded, but rises and escapes_.)
+
+MADOR
+
+                                                Help, Mordred, help!
+    The fiend is in him. He has seven swords.
+
+        (MADOR _falls_.)
+
+LAUNCELOT
+
+    Bring me the lamp.
+
+        (GUENEVERE _brings lamp_.)
+
+    Ah, never more to insult you now, my Queen.
+
+        (_He turns over the body of_ AGRAVAINE.)
+
+    It is Agravaine, not Mordred!
+
+        (_He holds the lamp over the other bodies._)
+
+    Patrice! and Mador! Mordred’s fled, the coward!
+    Why did I not make sure? Fled!
+
+GUENEVERE
+
+                                   Save yourself!
+    Launcelot, from this hour all’s war and ruin.
+    I forsee it, I that made it. It has come,
+    Doom! Doom!
+
+LAUNCELOT
+
+                I’ll to the King.
+
+GUENEVERE
+
+    Your enemy!
+
+LAUNCELOT
+
+                Arthur, my enemy?
+
+GUENEVERE
+
+    From this night forth. Away! Gather your friends.
+    Mordred is working while you linger. Ride.
+    Ride without rein to your castle in the North,
+    To Joyous Gard.
+
+LAUNCELOT
+
+                    To fight against my King?
+    I cannot.
+
+GUENEVERE
+
+              Will you then be taken? Mordred
+    Will be before you with the King. Hasten!
+    Arm; gather every sword that’s on your side.
+
+LAUNCELOT
+
+    I cannot fight against my King.
+
+GUENEVERE
+
+                                    Then fly!
+
+LAUNCELOT
+
+    Fly and desert my Queen? Fly in her hour
+    Of utmost peril?...
+    Ah, Guenevere, what’s done nothing revokes,
+    Neither repentance, nor new deeds, nor tears.
+    See, we had parted: the great joy we had
+    Was over; all was anguish and farewell.
+    And now, and now, when we had torn asunder,
+    We are driven together, and we cannot part.
+
+GUENEVERE
+
+    But part we must.
+    This blood all cries against us. Save yourself,
+    I have wrought you wrong enough.
+
+LAUNCELOT
+
+                                     I’ll to the King.
+    He trusted me; and I must tell him all.
+    I am more to him than many Mordreds.
+
+GUENEVERE
+
+                                         Blind!
+    But if it must be, go this very night,
+    Now! Dawn will soon be upon us.
+
+LAUNCELOT
+
+                                    Call your women,
+    And lock yourselves within some inner room,
+    That no harm come, till I have seen the King.
+    I’ll rouse my friends that should have sailed with me
+    For Brittany to-morrow. With my friends
+    I’ll go to Arthur.
+    Guenevere, if a hair upon your head
+    Be threatened, I’ll not suffer it.
+
+GUENEVERE
+
+                                       Away!
+
+
+
+
+SIXTH SCENE
+
+_The King’s Tower. The same night. Sentinels discovered who move off at
+a motion from the King._
+
+ARTHUR _pacing up and down_.
+
+(_Enter_ GAWAINE.)
+
+GAWAINE
+
+    Does not the King sleep?
+
+ARTHUR
+
+                             Gawaine, there are things
+    Will not be put to sleep: thoughts in the blood....
+
+GAWAINE
+
+    You called me. Midnight’s past. It is near dawn.
+
+ARTHUR
+
+    There’s something secret round me.
+
+GAWAINE
+
+                                       Not in me,
+    That with my life would guard you.
+
+ARTHUR
+
+                                       Guard? From what?
+    What, Gawaine? Why, too, when I came among you--
+    Bedivere, Mordred, all of you--I heard
+    Hot cries of quarrel called and answered back--
+    Why was there silence? When I questioned, none
+    Found voice.
+
+GAWAINE
+
+                 They were ashamed.
+
+ARTHUR
+
+                                    Were you ashamed,
+    Gawaine?
+
+GAWAINE
+
+             Not I.
+
+ARTHUR
+
+                    And yet you answered not.
+
+GAWAINE
+
+    My King, you know that Mordred and his friends
+    Are glib in slander.
+
+ARTHUR
+
+                         Slander of whom? The truth!
+
+GAWAINE
+
+    They hate and envy Launcelot. To-morrow
+    Let them face Launcelot. You shall hear them then.
+
+ARTHUR
+
+    This was no cause they should not speak to-night.
+    How fell this quarrel out? At my Queen’s feast!
+    Her guests! and Launcelot absent.
+
+GAWAINE
+
+                                      I forget.
+
+ARTHUR
+
+    Remember. It was insult to my Queen.
+    How could you suffer it?
+
+GAWAINE
+
+                             I did not, sir.
+    Nor any of your friends.
+
+ARTHUR
+
+                             And she, and she?
+    Said they aught of her, of Guenevere?
+
+GAWAINE
+
+                                          Ah, King,
+    My blood’s all rage. Pardon my silence now.
+
+ARTHUR
+
+    They spoke of her! They have talked of her abroad!
+    My royal Guenevere! I did not know.
+    I have been housed in my own roof of cares.
+    I have been strange to her, that needed me.
+    Where’s Launcelot?
+
+GAWAINE
+
+                       He took the young Lavaine,
+    And they together have buried that fair maid
+    Who died for Launcelot’s love. He’ll be abed
+    Ere this.
+
+ARTHUR
+
+              Ah!
+
+GAWAINE
+
+                  Surely.
+
+ARTHUR
+
+                          Launcelot fled me. Why?
+
+GAWAINE
+
+    Think not of Launcelot ill. Who sought your good,
+    Who fought for you, who toiled, who suffered, who
+    Gave of his marrow and heart’s faith for you?
+    Launcelot! Has Mordred? Not a jot. If ever
+    There is dissension, rancour, envy, strife,
+    Seek Mordred: you will find him under it
+    Like a snake. Mordred loves you not.
+
+ARTHUR
+
+                                         I know it,
+    And therefore must be just, more strictly just
+    Where I love least.
+
+GAWAINE
+
+                        Believe me, Launcelot loves you.
+
+ARTHUR
+
+    Do I not know it? Ah,
+    What curse of a sharp sight is come to me?
+    This very love: why was that pain in it?
+    Why was the torment in that loyal voice?
+
+GAWAINE
+
+    I would I had smitten Mordred to the earth
+    And silenced him for ever.
+
+ARTHUR
+
+                               Woman’s love!
+    It is a fire that eats upon the heart.
+    It is past comprehension; it exceeds
+    And feeds upon excess.
+    Duty, duty can be taught and learned;
+    But this love, it is out of all our laws
+    And all our wisdom; none can measure it....
+    If it be true--ah, Christ, if it be true!
+
+GAWAINE
+
+    Doubt not that it is false.
+
+ARTHUR
+
+                                Heaven knows my heart
+    Has nothing willing in it: slow and heavy
+    Moves my thought thither where the fear is, slow
+    And heavy as sea-tides against the wind.
+    Yet little things hurt in the memory,
+    Like a mote pricking in the eyelid: words
+    That may be fondest innocence, and may not.
+    A look, a flying colour in the cheek,
+    Soft hand-takings and silence of farewells;
+    These may be friendship’s language, but if not,
+    Friendship is foul.
+
+GAWAINE
+
+    These are the fears of the dead night that tempt
+    Reason against our own heart’s truth. Now, sleep.
+
+ARTHUR
+
+    I put them from my mind, and then again
+    They creep back, like a stain across the floor.
+
+GAWAINE
+
+    Launcelot’s true, my life on it. Shake this off
+    Like a foul nightmare that the witches send.
+
+ARTHUR
+
+    What days were those when we were young together,
+    The morning of the world! Gawaine, you know
+    How many a time Launcelot took on his shield
+    A blow that might have emptied me of life;
+    At Solway, Celidon, at Badon Hill....
+    Why should his hand have saved me, why, if....
+
+GAWAINE
+
+                                                   Ah,
+    Launcelot is the truest knight on earth.
+
+ARTHUR
+
+    And yet he fled from me; fled from himself,
+    If this my hand should suddenly take will,
+    Against my own, to strike at one I loved,
+    It would not more affront my reason. Oh,
+    Gawaine, I love this man.
+
+GAWAINE
+
+                              As he loves you.
+
+ARTHUR
+
+    But woman, woman! I am mad to have these thoughts.
+    If it be true, Gawaine, if it be true!
+
+GAWAINE
+
+    It’s false; Mordred shall own it.
+
+ARTHUR
+
+                                      Ay, the proof.
+    Proof, and if no proof, banishment: nay, death.
+    To-morrow this shall all be cleared. To-morrow!
+    Get to bed.
+
+        (GAWAINE _is going, when a loud knock is heard without,
+        and_ MORDRED’S _voice, “The King!” The guard opens the
+        door._)
+
+GUARD
+
+    My lord, it is Sir Mordred.
+
+ARTHUR
+
+                                Let him in.
+
+MORDRED _appears, all bloody_.
+
+GAWAINE
+
+    Mordred! And there is blood upon his hands.
+
+MORDRED
+
+    Justice, O King, on a murderer and traitor.
+
+GAWAINE
+
+    What have you done? What villainy?
+
+ARTHUR
+
+                                       Peace, Gawaine.
+    Now, speak.
+
+MORDRED
+
+                I grieve to tell what I must tell,
+    But truth is worth its wound, Launcelot, your friend,
+    The man whom you have trusted, whom you hold
+    Dear as your life and honour, he it is
+    I must accuse.
+
+ARTHUR
+
+                   To the accusation. Speak!
+    And yet beware! Speak not without the proof!
+
+MORDRED
+
+    I have the proof.
+
+GAWAINE
+
+                      Is that his blood upon you?
+
+ARTHUR
+
+    Where is Launcelot?
+
+MORDRED
+
+                        Launcelot is ... where we found him,
+    With the Queen, in her own chamber. Pardon me
+    That loyalty must speak of shame so gross.
+
+ARTHUR
+
+    You have slain him, Mordred?
+
+MORDRED
+
+                                 Nay, he has lived to heap
+    A second guilt upon his head. Murder!
+    This is my own blood, where he wounded me,
+    And Agravaine is dead, and Colegrevance,
+    Patrice, and Mador. On the Queen’s threshold
+    Launcelot slew them, thinking that one stroke
+    Should silence all that caught him in his guilt.
+    I cry upon your justice!
+
+ARTHUR
+
+                             Launcelot lives?
+
+MORDRED
+
+    Being taken, he set upon us like the fiend.
+    The darkness, and his trickery, aided him.
+
+GAWAINE
+
+    One against five, and you all armed like men
+    That go to battle!
+
+ARTHUR
+
+                       A marvel is this Launcelot,
+    A marvellous proud fighter! There is none
+    In Christendom or heathendom, I swear
+    To match him. So he lives?
+
+MORDRED
+
+                               He has escaped:
+    But now I cry your justice; banishment
+    For Launcelot, the traitor!
+
+ARTHUR
+
+    There shall be justice done. Look to your wound.
+    To-morrow I will have the proof of all,
+    Mordred--full proof, or on your own head be it.
+
+MORDRED
+
+    You shall have proof, my King. Peace be to you.
+
+        [MORDRED _goes out_.
+
+ARTHUR
+
+    Arm you now, Gawaine, arm! Arrest the Queen.
+    Seek Launcelot out, and take him.
+
+GAWAINE
+
+                                      Never, sir.
+    That will I never do. If I did this,
+    It would be said Gawaine abetted what
+    To him is shame and an unreason both.
+    It may be Mordred lured him to the Queen
+    With some feigned message.
+
+ARTHUR
+
+                               He was found with her.
+    Why came he not to speak in his own cause?
+
+GAWAINE
+
+    I am not of your counsel.
+
+ARTHUR
+
+    Then call me Gaheris and Gareth here,
+    Your brothers. They shall do this.
+
+GAWAINE
+
+                                       Ah, my lord,
+    They will be as loth as I, but they are young
+    And cannot say you nay. Yet I beseech you----
+
+ARTHUR
+
+    Fetch them. They lodge with you.
+
+GAWAINE
+
+                                     If it must be.
+
+ARTHUR
+
+    It must.
+
+        (GAWAINE _goes out_. ARTHUR _pulls back the curtains at the
+        window_.)
+
+    Dawn. Is it dawn so soon?
+    The birds sang soft so when I wooed her, soft
+    And thrilling with low pipe. Smell of the grass,
+    Dew, and her face, wonderful, coming towards me....
+    Ah, God, that it were night again, the night,
+    The dark, where I knew nothing, where I loved
+    And trusted, where I had a wife, a friend.
+
+        (_He falls on his knees._)
+
+    Saviour of men, dear Christ, though my flesh bleed,
+    Lift me to see, distinguish, and be just.
+    The King must needs be just. Let me not fail,
+    Now when thou seest me humbled. I have lost her.
+    Have mercy upon us both. (_He rises._)
+                             I am the King,
+    And therefore justice. If I fail, that fails
+    Which is of costlier essence than a King,
+    Which salts corruption. (_Goes towards table._)
+
+GARETH _and_ GAHERIS _enter, and stand by the door_. ARTHUR _turns_.
+
+                            Gareth and Gaheris, enter!
+    Fear not; come hither.
+
+GARETH
+
+                           We fear, my liege, what errand
+    This midnight summons, hailing us from sleep,
+    May mean.
+
+    ARTHUR (_signing and giving them a warrant_)
+
+              Fear not; go, seek Queen Guenevere,
+    And take her into ward, as one that must
+    Be judged. Then find Sir Launcelot, and take
+    Him too. Be armed. Have force with you. Go quickly.
+
+GARETH
+
+    The King commands, and we must do his will.
+
+GAHERIS
+
+    Yet it is sore against our own will, sir.
+
+GARETH
+
+    And therefore we will take a guard of force,
+    But for ourselves, we pray you pardon us,
+    But we will not be armed, for we but do
+    The King’s commandment.
+
+_Re-enter_ GAWAINE.
+
+GAHERIS
+
+                            Which ourselves would not.
+
+ARTHUR
+
+    Are you all so stubborn? Get you gone, then; do
+    What I command; be it done instantly.
+
+        [GARETH _and his brother retire_.
+
+GAWAINE
+
+    This is ill done, and no good comes of it.
+
+ARTHUR
+
+    That which I do my will does; I am borne
+    Onward, and cannot stay. The graves are dug
+    For all mortality; our woes have been
+    Wept for from the beginning of the world.
+    I feel the creeping of the rust that dims.
+    Excalibur, and those lamenting Queens
+    That come to take me draw like shadows near
+    Upon the shores of time.
+
+GAWAINE
+
+    This is ill done, and no good comes of it.
+
+ARTHUR
+
+    What comes has come already.
+
+BORS, LAVAINE, _and other friends of_ LAUNCELOT, _appear with drawn
+swords in the doorway_.
+
+                                 Are you ghosts?
+    That visit me, so haggard, pale and silent?
+    Your swords are bare and in your eyes are looks
+    Of fear. This dim light has a ghastness in it
+    Making the vision of you strange.
+
+BORS
+
+                                      Sire, pardon!
+    But some of us had terrors in our dreams
+    And leapt awake in sweat, and snatched our swords.
+    It was as if a cry rang in our ears.
+    We thought some danger happened to Launcelot;
+    And lo, we cannot find him.
+
+GAWAINE
+
+                                Launcelot!
+
+BORS
+
+    Where is he! Tell us!
+
+ARTHUR
+
+                          Ask of the King’s foes.
+    Launcelot is a traitor.
+
+BORS
+
+                            Woe is me
+    The King should say it. Launcelot loves him more
+    Than all his friends.
+
+ARTHUR
+
+                          Choose: choose between your King
+    And Launcelot.
+
+BORS
+
+                   What miserable cloud
+    Is fallen about us, or what evil dream!
+    Gawaine!
+
+GAWAINE (_shrugging his shoulders_)
+
+    All idle! Waves upon a rock.
+
+ARTHUR
+
+    Choose: if your will be on the King’s side, stay:
+    But if on Launcelot’s, turn your faces from me.
+    It shall be battle when we meet again.
+
+        [BORS _and his friends look at each other, then silently
+        turn and go out_.
+
+ARTHUR
+
+    So breaks my kingdom. It is gashed in two.
+    Oh, Gawaine! Gawaine! (_He falls upon_ GAWAINE’S _neck_.)
+
+        (A MAN-AT-ARMS _is heard without crying: “The King! Where
+        is the King?”_)
+
+GAWAINE
+
+    Terror’s in that cry!
+
+_The_ MAN _stumbles in breathless_.
+
+    MAN (_falling on his knee_)
+
+    Pardon me, King!
+
+GAWAINE
+
+                     My heart forebodes an evil.
+
+MAN
+
+    I am come breathless.
+
+ARTHUR
+
+                          Speak!
+
+GAWAINE
+
+                                 All news is ill.
+
+ARTHUR
+
+    Tell all.
+
+MAN
+
+              I am afraid.
+
+ARTHUR
+
+                           Your King commands.
+
+MAN
+
+    The Queen.... Sir Launcelot.
+
+ARTHUR
+
+                                 Taken?
+
+MAN
+
+                                        They are fled.
+    Sir Launcelot has carried off the Queen.
+
+    ARTHUR (_starting up_)
+
+    Do you live and tell it to me?
+
+MAN
+
+                                   Patience, my lord,
+    And I will tell you all. The dawn was breaking.
+    The guard had just relieved us. It was then
+    Sir Gareth and Sir Gaheris summoned me
+    On the King’s business. I knew not what it was.
+    We went with them. They had no arms. We went;
+    We came to the Queen’s door, and it was open.
+    The Queen stood there, like one that waited us.
+    There was a lamp burning above her head;
+    Oh, very pale she seemed and very calm.
+    “Do you come at my lord’s bidding?” so she asked.
+    And then Sir Gareth bowed his head. He spoke
+    No word, nor did Sir Gaheris; not a word.
+    And we were awed by her, she was so calm.
+
+ARTHUR
+
+    So calm! And after?
+
+MAN
+
+                        I am telling all.
+    The Queen said “I am ready,” and so she passed
+    Between Sir Gareth and Sir Gaheris,
+    And we about them followed. It was dark
+    In the shadow by the walls. There was a mist,
+    A summer mist. The dawn was far above.
+
+ARTHUR
+
+    And then?
+
+MAN
+
+              We were all sorrowful at heart,
+    Knowing not----
+
+ARTHUR
+
+                    To the issue!
+
+MAN
+
+                                  Some one cried
+    “Look where the Queen is taken to her death!”
+    Men had thronged up, and women; the cry passed
+    From lip to lip, “She is taken to her death.”
+    And sudden like a lion burst on us
+    Sir Launcelot.
+
+ARTHUR
+
+                   Ah!
+
+MAN
+
+                       I know not whence he came,
+    Out of the mist; his sword flashed in his hand,
+    But not so terrible as his eyes. They flamed,
+    You would have thought that when he saw the Queen
+    His very reason rushed right out of him.
+
+GAWAINE
+
+    Ah, God defend my brothers!
+
+MAN
+
+                                He was mad,
+    Blood-mad he seemed; he knew not what he did,
+    He struck so sudden.
+
+GAWAINE
+
+                         My brothers!
+
+MAN
+
+                                      Right and left
+    His sword was like a score of blades flashing.
+    I swear no man could have prevailed against him.
+    ’Twas quicker than a hawk upon a hare.
+    Myself was thrown down. He had caught the Queen,
+    And borne her off--men say, to Joyous Gard.
+
+ARTHUR
+
+    War! It is war!
+
+GAWAINE
+
+                    My brothers? Where are they?
+    Speak, wretch.
+
+MAN
+
+                   I know not.
+
+GAWAINE
+
+                               Speak.
+
+MAN
+
+                                      Oh, my good lord,
+    Sir Gareth and Sir Gaheris are dead.
+
+GAWAINE (_utters a great cry_)
+
+    Launcelot slew them?
+
+MAN
+
+                         He knew not what he did.
+
+GAWAINE
+
+    They had no arms!
+
+ARTHUR
+
+                      Woe is me!
+
+GAWAINE
+
+                                 Launcelot!
+    He saw them and he slew them!
+
+ARTHUR
+
+                                  Woe is me!
+    I let them go. Ah, Gawaine!
+
+GAWAINE
+
+                                Blood for blood!
+    I will believe all evil of him now,
+    I am with you now, my King, and he shall die.
+    My brothers! (_Sinking down._)
+
+_A_ MESSENGER _enters hurriedly_.
+
+MESSENGER
+
+    My lord, the King!
+
+ARTHUR
+
+                       What, more? Worse cannot be.
+
+MESSENGER
+
+    Sir Mordred!
+
+ARTHUR
+
+                 Speak!
+
+MESSENGER
+
+                        He is fled.
+
+ARTHUR
+
+                                    He, too! How fled?
+
+GAWAINE
+
+    Who recks of Mordred! Drop him down the wind
+    To his own hell. But Launcelot that I loved
+    Has slain my brothers. Death to Launcelot!
+
+ARTHUR
+
+    Sir Mordred?
+
+MESSENGER
+
+                 He has flown and taken all
+    His following with him; armed; an army!
+
+ARTHUR
+
+                                            So,
+    He has shot his shaft and left it in the wound.
+
+MESSENGER
+
+    My lord, the word goes openly about
+    Sir Mordred’s leagued with rebels in the West.
+    They have summoned him to head them, and revolt
+    Against your crown and kingdom.
+
+ARTHUR
+
+                                    Gawaine, hear!
+
+GAWAINE
+
+    I hear. But it’s from Launcelot I’ll have
+    Most bitter satisfaction.
+
+ARTHUR
+
+                              Northward now!
+    Summon my knights about me in the hall.
+
+        [_Exit_ MESSENGER.
+
+    Send a strong force on Mordred’s heels to hold
+    The traitor back. Ourselves will swiftly ride
+    To take the Queen from Launcelot. Day is come,
+    And friends are friends and foes are foes at last.
+
+        [_Exeunt._
+
+
+
+
+SEVENTH SCENE
+
+_The_ KING’S _Camp before Joyous Gard. Stormy weather. Black skies
+against which the earth shows up white and livid. The towers of the
+Castle appear above rising ground._
+
+BEDIVERE
+
+Black skies!
+
+LUCAN
+
+God’s anger.
+
+BEDIVERE
+
+How shall this end? Saw you the King?
+
+LUCAN
+
+But now he passed into his tent, slowly, with head dejected. His heart
+is weary of this war.
+
+BEDIVERE
+
+Sick and sated. The heavy clouds seem to fall on us. One would say that
+all the tempests of the world had gathered in that storm, which soon
+will break about us.
+
+LUCAN
+
+There’s something monstrous in the season, a curse and an infection.
+Storm after storm! The corn rots unripened, there’s mildew in the
+orchards.
+
+BEDIVERE
+
+And here, unnatural strife. Arthur and the brother of his heart.
+
+LUCAN
+
+And the Queen betwixt them, like some baleful star.
+
+BEDIVERE
+
+And Gawaine mad with hate.
+
+LUCAN
+
+How long is it since we have besieged this Joyous Gard of Launcelot’s?
+
+
+BEDIVERE
+
+I cannot count the days.
+
+LUCAN
+
+This quarrel fills all Christendom. Men say the noise of it goes over
+the seas even to Rome. Were it not for Gawaine, the King, I think,
+would make his peace, and Launcelot deliver up his Queen to him.
+
+BEDIVERE
+
+Not while the King is fixed to bring the Queen to judgment. To that
+Launcelot will never yield. So stands our wrestle in a deadlock;
+meanwhile this dear realm splits in two.
+
+LUCAN
+
+And Mordred!
+
+BEDIVERE
+
+The wedge that drives into the crack.
+
+LUCAN
+
+I fear Mordred most. The rebel tribes gather to him in the West, while
+we waste ourselves before Joyous Gard. We should have caught him before
+he could join and head them.
+
+BEDIVERE
+
+The King’s force holds him at bay yonder.
+
+LUCAN
+
+Yet men begin to cry that with the King all is profitless fighting, but
+with Mordred feasting and plunder.
+
+BEDIVERE
+
+Would God we were fighting him, not Launcelot.
+
+GAWAINE _enters_.
+
+GAWAINE
+
+Where is the King?
+
+BEDIVERE
+
+He has passed into his tent. He rests.
+
+GAWAINE
+
+What, can remembrance sleep? The wrong that Launcelot has done is red
+before my eyes, day and night. Can he forget?
+
+BEDIVERE
+
+The King were a glad man, if he could forget. At the bottom of their
+hearts is a dear love one to the other.
+
+GAWAINE
+
+He shall not forget while I can sting remembrance.
+
+BEDIVERE
+
+Gawaine, if any man was your friend, it was Launcelot.
+
+GAWAINE
+
+The dearer friend, the dearer foe. It grows to madness in my brain,
+that ever I held that traitor in my heart.
+
+BEDIVERE
+
+However it be, right or wrong, we are sore grieved to be against him.
+
+
+LUCAN
+
+Sore and sorrowful, Gawaine.
+
+GAWAINE
+
+It is you that are against the King, then?
+
+BEDIVERE
+
+We?
+
+LUCAN
+
+Never.
+
+GAWAINE
+
+I say you are against him. It is you that blunt his justice, it is you
+that soften him with fond reluctances, like women looking backward. Who
+would be a man, and in the cause he has espoused not trample down such
+weakness?
+
+BEDIVERE
+
+Who would be a man and utterly forget the friendship of his friend?
+
+GAWAINE
+
+Forget! Forgotten! Never! And never forgiven! Had you but the flint in
+you that a just cause strikes her flame from, we should have overturned
+these proud towers long ago. But overturned they shall be. I’ll to the
+King, and rouse him.
+
+        [_Exit._
+
+BEDIVERE
+
+How like a frenzy is his hatred!
+
+LUCAN
+
+He is narrowed to one point, vengeance. Look, what’s yonder?
+
+BEDIVERE
+
+A damsel riding hither from Joyous Gard.
+
+LUCAN
+
+Upon a milk-white ass! Look, a gleam follows her from the stormy
+heaven. A happy omen!
+
+BEDIVERE
+
+She is in white; like a white dove; like peace. Go, Lucan, go to meet
+her. (LUCAN _advances. A distant trumpet sounds from_ LAUNCELOT’S
+_side_.) A trumpet sounds from Joyous Gard. Is it peace at last?
+
+_The_ DAMSEL _enters_.
+
+LUCAN
+
+God be with you, maiden.
+
+DAMSEL
+
+Peace to you, fair lord.
+
+LUCAN
+
+Come you from Joyous Gard?
+
+DAMSEL
+
+I am Sir Launcelot’s herald. I go before him. He comes to parley with
+King Arthur.
+
+LUCAN
+
+I will tell the King.
+
+        [_Exit._
+
+BEDIVERE
+
+Would that the issue might be gracious as the forerunner. What sends
+Sir Launcelot? Is it peace? (_Trumpet sounds from the_ KING’S _side_.)
+Hark! The King comes!
+
+        _The_ KING’S _knights come on, arrayed as for battle.
+        Trumpets answer from_ LAUNCELOT’S _side_. GAWAINE _enters,
+        and then the_ KING.
+
+ARTHUR
+
+    I hear the trumpet blow from Joyous Gard;
+    Is a lily come against us?
+
+GAWAINE
+
+                               What’s this mockery?
+    What brought this maiden hither?
+
+DAMSEL
+
+                                     Oh, most noble,
+    Noble King Arthur, graciously hear me!
+    Your servant, Launcelot, comes from Joyous Gard
+    And prays to parley with his lord, the King.
+    You see in me what gentle thoughts are his----
+
+ARTHUR
+
+    White and fair! What avails?
+
+GAWAINE
+
+                                 A treacherous trick,
+    To clothe his blackness white, and let it speak
+    In virgin syllables of gentleness.
+
+ARTHUR
+
+    Softly. How is it with the Queen?
+
+DAMSEL
+
+    The Queen weeps.
+
+GAWAINE
+
+                     Send her to her lord again.
+
+        (_Trumpet._)
+
+DAMSEL
+
+    Sir Launcelot is here.
+
+        [LAUNCELOT _and his knights appear. Exit_ DAMSEL.
+
+GAWAINE
+
+                           No parley, King,
+    Let us out swords and make an end at once.
+
+ARTHUR
+
+    Such embassy must have its honour.
+
+GAWAINE
+
+                                       Nay.
+
+ARTHUR
+
+    This is the royal office;
+    Usurp not----
+
+LAUNCELOT
+
+                  May I speak, my lords?
+
+ARTHUR
+
+                                         Speak on!
+
+LAUNCELOT
+
+    Fair lords, and you my own King----
+
+GAWAINE
+
+                                        Perjurer!
+
+LAUNCELOT
+
+    I make no war on you, my King. Assure me
+    With confirmation of your kingly oath
+    That harm come not to her that is your Queen,
+    And I restore her straightway and depart.
+
+ARTHUR
+
+    Do you enjoin your terms upon your King?
+
+GAWAINE
+
+    False once, false always!
+
+LAUNCELOT
+
+                              To my King I speak.
+    Make me that promise.
+
+ARTHUR
+
+                          Justice asks her due.
+
+LAUNCELOT
+
+    Never, my lord, shall the Queen stand this charge
+    On testimony of that traitor Mordred.
+
+GAWAINE
+
+    Yourself’s the traitor! We will take your towers
+    And you shall cry his pardon on your knees.
+
+LAUNCELOT
+
+    Knights, lords of Britain, you’ll not take my towers;
+    And if I choose to come forth on the field
+    Soon shall I make an end, and that you know.
+
+ARTHUR
+
+    An end, an end! But God shall make the end.
+    Bring all your boast of knights into the field,
+    Set your array, and sound your trumpets; then
+    The desolate seashores shall have renown
+    And you dishonour!
+
+LAUNCELOT
+
+    Ah, my lord Arthur, God defend that ever
+    I should lift arms against my only King!
+
+ARTHUR
+
+    Give me your enmity! We are met in storm
+    And under angry heaven, but were these clouds
+    Of imminent tempest rolled away, and light
+    Before us endless on a path of peace,
+    Our quarrel stretches to the world’s end still
+    And sleeps but in the grave. You have done that
+    Which time can never undo, never amend
+    Or alter into kindness, nor can words
+    That use old fondness reach their lodge again
+    Within this heart. Strike, you shall find it iron.
+
+LAUNCELOT
+
+    Say what you will, with you I cannot strive.
+
+ARTHUR
+
+    Ah, Launcelot, you have done me wrong enough----
+
+LAUNCELOT
+
+    And I repent it sorely. It is too true,
+    Many of your best have spilt Life in this quarrel.
+    Yet, that I did, I did but in defence
+    Of your own Queen.
+
+ARTHUR
+
+                       My Queen whom you have taken,
+    And by force held.
+
+LAUNCELOT
+
+                       From death and cruel shame
+    I hold her and will hold her.
+
+GAWAINE
+
+                                  He has said it!
+    Why parley here?
+
+ARTHUR
+
+                     Back to your towers then! Go,
+    Ere we set on. There is no ending here,
+    And no amending save through judgment.
+
+LAUNCELOT
+
+                                           First
+    Listen!
+    Remember, my lord Arthur, how I vowed
+    Long ago, how I vowed, you smiling on,
+    To be your Queen’s true servant all my days.
+    Remember how it pleased her, and you too,
+    To cherish and uphold me more than all
+    And any of your knights; past my desert
+    Indeed, and yet some love did I deserve,
+    Who ever fought for you and for your Queen
+    In many another quarrel than my own.
+    Remember----
+
+ARTHUR
+
+                 Speak no more. It’s now; not then.
+
+LAUNCELOT
+
+    Yet one word more! Had Mordred and his crew
+    Not set their miserable snare for me
+    That night----
+
+ARTHUR
+
+                   That night?
+
+LAUNCELOT
+
+                               You had been rid of me,
+    Rid of this abjured, exiled Launcelot,
+    And in a realm at peace.
+
+ARTHUR
+
+                             What mystery speaks
+    In such a protestation, I know not.
+    Your deeds have deafened us to that.
+
+LAUNCELOT
+
+                                         My King,
+    Even while those felons feasted on the death
+    They plotted for me, out of hate for you,
+    Even when their shameful cries were at the door,
+    I had already made my hard farewell
+    And everlasting absence from your Queen,
+    Because of ill tongues, and because I knew
+    Their worst plot was to part us, and to rend
+    This realm of yours in twain.
+
+ARTHUR
+
+                                  What avails words?
+    You stole her.
+
+LAUNCELOT
+
+                   Saved her! Could I leave her then
+    A prey to those fanged foxes? To the wrath
+    They were so cunning with their stratagems
+    To fire in you? I had vowed to be your Queen’s
+    Unalterable knight and steadfast sword.
+    Could I forswear her in her hour of danger?
+
+        (ARTHUR, _moved, is silent_.)
+
+    Speak!
+
+ARTHUR
+
+           Yield her up.
+
+LAUNCELOT
+
+                         And she shall be unharmed?
+
+ARTHUR
+
+    Justice must stand, and she abide by that.
+
+LAUNCELOT
+
+    On the accusation of a miscreant
+    Proved false as hell? Arraigned in such a cause?
+    Never!
+
+ARTHUR
+
+           Your own guilt, Launcelot, stands clear.
+
+GAWAINE
+
+    Enough of words. To arms!
+
+LAUNCELOT
+
+                              Ere that my words
+    Be scattered in this tempest, hear me out.
+    Think of her dead.
+    Think of that royal beauty in its grave!
+    Did Guenevere, your Queen, lie here before you
+    With the eyes that see not, with the ears that hear not,
+    Ignorant of a pardon come too late,
+    Past beyond all repentance, cold to all
+    Tears of your supplication, locked away
+    In silence answerless, would that content you?
+    Oh, take her sorrow to your grace, my King,
+    Take that most noble lady to your grace,
+    And be it peace between us.
+
+ARTHUR
+
+                                Peace? Alas!
+    The dear cords that have bound us are all frayed
+    And ragged on the sore.
+
+GAWAINE
+
+                            Insolent thief!
+    The King shall have his Queen, despite of you.
+
+LAUNCELOT
+
+    Put me to proof, Gawaine, put me to proof!
+    Hazard your force upon me, and I swear
+    It shall be easier for your single hand
+    To storm a barricaded city, than
+    By force or threat to take the Queen from me,
+    Except I have the King’s oath.
+
+GAWAINE (_drawing his sword_)
+
+    Now and here!
+    Now and here! Put it to the proof.
+
+ARTHUR
+
+                                       Gawaine,
+    Put up your sword!
+
+        (_Lightning._)
+
+GAWAINE
+
+                       The heavens strike at him.
+
+ARTHUR
+
+    Launcelot!
+
+LAUNCELOT
+
+               Arthur!
+
+GAWAINE
+
+                       I have stemmed my wrath
+    Too long! I have my quarrel in this cause
+    And no fond word shall end it. Murderer!
+    My blood is on you, you are spotted with it,
+    The blood of my young brothers whom you slew.
+
+        (_Thunder._)
+
+    Cover your eyes! You cannot shield your soul
+    From my full vengeance.
+
+LAUNCELOT
+
+                            All my soul is grief
+    For what I did that day, and did not know it.
+    Sooner than Gareth I’d have slain myself.
+    I loved him.
+
+GAWAINE
+
+                 And you butchered both defenceless!
+    Red in their blood I see you, hair to heel.
+
+LAUNCELOT
+
+    If the King will, I shall do penance for it.
+    I will build chantries over all the land
+    From Cabelot to Dover, and will go
+    A barefoot pilgrim, praying for the souls
+    Of Gareth and of Gaheris whom I loved.
+
+GAWAINE
+
+    You lie; you did it of your evil will
+    And devilish delight.
+
+LAVAINE
+
+                          You shall not say it.
+    Sir Gawaine, I loved Gareth and I know
+    Sir Launcelot killed him in pure ignorance.
+
+ARTHUR
+
+    Cease, Gawaine, cease!
+
+        (_Lightning._)
+
+GAWAINE
+
+                           I will not cease, until
+    That innocent dear blood be wiped away.
+
+BORS
+
+    Shall we endure this more?
+
+LAVAINE
+
+                               Speak, Launcelot!
+
+        (_Thunder._)
+
+GAWAINE
+
+    Liar and traitor!
+
+        (_He throws his glove in_ LAUNCELOT’S _face. Trumpets from_
+        LAUNCELOT’S _side_.)
+
+BORS
+
+                      Out swords!
+
+LAVAINE
+
+                                  We are ashamed.
+
+GAWAINE
+
+    Blow, trumpets, blow my vengeance.
+
+        (_Thunder._)
+
+ARTHUR
+
+                                       It is fated!
+    War and no peace; in earth and heaven, war.
+
+        (_The storm breaks with blinding violence as the battle
+        begins._ LAUNCELOT’S _knights defend him from_ GAWAINE’S
+        _fury, giving ground R. Confused fighting in darkness.
+        Cries of “Launcelot!” “Joyous Gard!” “Arthur!” and
+        “Gawaine!” A flash of lightning discovers_ GAWAINE _hewing
+        his way through the fighters_.)
+
+GAWAINE
+
+    Gash this accursed darkness, flame of heaven,
+    And find me him.
+
+        (_He is borne backwards L. by superior force._)
+
+                     I’ll find him, spite of you.
+    Spite of all.
+
+        (_More thunder. Confusion and fighting as before._)
+
+A VOICE
+
+    Help!
+
+ANOTHER
+
+    Christ and Arthur!
+
+ANOTHER
+
+                       Better call the fiend
+    That rides this tempest!
+
+        (_Thunder again._)
+
+ANOTHER VOICE
+
+                             Never was such war
+    Since the angels fell.
+
+ANOTHER
+
+                           We are stricken out of heaven.
+
+MANY VOICES
+
+    Gawaine! Gawaine!
+
+OTHERS
+
+                      Launcelot! Launcelot!
+
+A VOICE
+
+    Death to you!
+
+ANOTHER
+
+                  Brother! I have killed my brother,
+    Woe!
+
+A VOICE
+
+    The King! Where is the King?
+
+VOICES
+
+                                 The King is slain!
+
+ANOTHER
+
+    We are lost!
+
+ANOTHER
+
+                 A curse, the curse of God!
+
+BORS (_in the distance_)
+
+                                            Fight on!
+    Fight on!
+
+VOICES
+
+    Joyous Gard! Joyous Gard!
+
+BORS
+
+    Press!
+
+VOICES
+
+           Where is Gawaine?
+
+BORS
+
+                             Now pursue, pursue;
+    They have no captain.
+
+VOICES (_retreating_)
+
+                          Lost, we are all lost!
+
+        (_The storm mitigates a little, and in the dim light_ BORS
+        _and_ ARTHUR _are seen confronting each other alone, the
+        fight having swept off to the L._)
+
+    BORS (_calling_)
+
+    Launcelot!
+    (_To_ ARTHUR) Yield you. There is none to aid.
+
+ARTHUR
+
+    But that my heart is weary unto death
+    And my soul sadder than despair----
+
+BORS
+
+                                        The King!
+
+_Enter_ LAUNCELOT.
+
+    Launcelot, Launcelot! Shall I make an end?
+    It is the King.
+
+        (_He lifts his sword._ ARTHUR _stands motionless, leaning
+        on his sword_.)
+
+LAUNCELOT
+
+                    On your life’s peril, hold,
+    O friend, against that sacred head!
+
+BORS
+
+                                        Yet here
+    Should end all quarrels.
+
+LAUNCELOT
+
+                             Down that impious sword,
+    Or never breathe again.
+    My King! Is there a hurt?
+
+ARTHUR
+
+                              Not in my flesh.
+    It is of stone, and feels not any more.
+
+        (_A long-drawn note is sounded by a distant trumpet._)
+
+LAUNCELOT
+
+    What strange note blows upon that trumpet?
+
+    BORS (_looking down the slope_)
+
+                                               See,
+    The fighting ceases, and the fighters all
+    Stand motionless.
+
+LAUNCELOT
+
+                      Go, Bors, and bring me word.
+
+        [_Exit_ BORS.
+
+ARTHUR
+
+    Oh, Launcelot, would this war had never been!
+
+        (_Thunder retreating._)
+
+    Hark! how the heavens groan over us. Out of me,
+    Had I capacity for utterance, would
+    Like storm of woe from this dark bosom burst,
+    Filling the world.
+
+LAUNCELOT
+
+                       Oh, Arthur! Oh, my King,
+    Had we but met before, thus, face to face!
+    Arthur, you trusted me; and though I guard
+    Your Queen from death, I have not failed you since.
+    But now, since we are met as naked souls
+    Beneath dark heaven, I will confess me. I
+    Have done you wrong that nothing can undo,
+    Not though this thunder cracked the frame of things
+    And spilled the molten world. Since first my eyes
+    Saw Guenevere, I loved her.
+
+ARTHUR
+
+                                Launcelot!
+
+LAUNCELOT
+
+                                           Oh!
+    With wrestlings and with torture, yet with such
+    Extreme necessity of love as bound me,
+    Blinded! Against that storm I was not strong;
+    I was a madman, rushing on a spear
+    In rapture. Take your Queen back to your heart,
+    Forgiven, but as for me--lift up your sword
+    And claim this forfeit soul.
+
+        (_A distant chanting is heard._)
+
+ARTHUR (_raising his sword_)
+
+                                 I have good cause.
+    I loved, and you have shamed me; more, undone
+    My life, my hope, my kingdom! (_Letting his point fall._) No, I cannot.
+    Were we but met in the hot battle’s blood
+    I’d kill you for that cause. Now I am numbed;
+    And something from within me stays my hand.
+    Take my Queen pardoned to my heart, you plead.
+    Ah, Launcelot! were it merely man and woman,
+    Love should be wide and infinite as air
+    To meet her at the world’s end with my arms,
+    Even at the farthest erring. There’s no help.
+    A man may pardon, but the King may not.
+    The King is justice, or no more a King.
+
+LAUNCELOT
+
+    Forgiveness is yet kinglier. Harden not
+    Your heart for ever.
+
+ARTHUR
+
+                         Were there but a sign
+    From this charged heaven----
+
+LAUNCELOT
+
+                                 Look!
+
+        (_A gleam has appeared in the paling sky and the chant
+        grows nearer._)
+
+ARTHUR
+
+                                       Is there light
+    On earth again?
+
+LAUNCELOT
+
+    What strange stillness has seized upon the host?
+    What chant is that?
+
+VOICES
+
+    The King! The King! A wonder! Rome! Rome!
+
+        (_Certain knights of either party return on the scene, and
+        in their midst a white banner preceding a_ BISHOP, _with
+        a train of priests chanting. With a last remote peal of
+        thunder the storm passes away_.)
+
+BISHOP
+
+Peace! Peace to you all! In the name of our Lord Jesu, peace! Our Holy
+Father on the seat of St. Peter hath sent me hither with his commands.
+Hasting I come even among your swords and spears; And this is the
+command that I am charged with. Launcelot shall render his Queen again
+to King Arthur; she shall not be harmed: And King Arthur shall be
+accorded with Sir Launcelot. This, upon pain of interdiction of the
+whole realm of Britain, is the high commandment of God’s regent upon
+earth, our Holy Father in Rome. My sons, will you obey?
+
+        (ARTHUR _and_ LAUNCELOT _bow their heads_.)
+
+ARTHUR
+
+    So far as it be peace betwixt us, I obey.
+
+LAUNCELOT
+
+    I go to bring the Queen.
+
+        (_He goes away R. as_ GAWAINE _is brought in wounded,
+        leaning on two of his knights_.)
+
+GAWAINE
+
+Ah, there! Let me but reach him; hurt though I be, I will satisfy my
+vengeance.
+
+BISHOP
+
+Man of blood, your hour is past. Exorcise from you this vain rage and
+lust of vengeance. Bethink you of your sins, and of God’s peace. The
+King receives his Queen again and is accorded with Sir Launcelot.
+
+GAWAINE
+
+    Not all the priests in Christendom shall force
+    My will to this. I’ll say naught of the Queen;
+    But him will I proclaim still to the world
+    Traitor.
+
+ARTHUR
+
+             Ah, Gawaine, have we not enough
+    Of hatred?
+
+GAWAINE
+
+               Though I seek him through seven realms
+    I’ll have my retribution, death for death.
+
+        (_He faints._)
+
+ARTHUR
+
+    He has swooned. Bear him to his tent.
+
+        (GAWAINE _is borne off by his friends_.)
+
+BISHOP
+
+    Pass now.
+    My errand is performed. Peace be upon you.
+
+        [_The priests resume their chant, and the_ BISHOP _and his
+        train pass off_.
+
+ARTHUR
+
+    Look, where she comes.
+
+LAUNCELOT _returns, leading_ GUENEVERE _by the hand_.
+
+LAUNCELOT
+
+    My King, I bring to you your Queen again.
+
+        (_They kneel down before_ ARTHUR, _then_ LAUNCELOT _raises_
+        GUENEVERE.)
+
+ARTHUR
+
+    Guenevere!
+
+GUENEVERE
+
+               Oh, my lord!
+
+ARTHUR
+
+                            What shall I say?...
+    With a sore heart I took this battle up
+    Which now is ended. Launcelot, I loved you,
+    Cherished and honoured you before all others.
+    But now is parting. My reproach is dulled,
+    Fall’n out of use and anger,
+    Like a spent arrow.
+
+LAUNCELOT
+
+                        Oh, my King, believe me,
+    Never was it my purpose or my thought
+    To keep your Queen from you, but to defend
+    And shield her from your anger and her foes.
+
+ARTHUR
+
+    Now, as between us both, let God, that brings
+    This end and mystery of returning light
+    After the thunder round us, and that sees
+    Our spirits without mask and unexcused,
+    Judge and have mercy. Tho’ peace be now ordained
+    Between us both, yet from our realm for ever
+    You are banished to your own lands whence you came,
+    To Brittany beyond the seas. Alas!
+    I never thought with such a word to close
+    Our book of friendship, wherein men shall read
+    How, many a time, Launcelot saved his King
+    And brought this kingdom glory. It is not I
+    That shall forget that friendship or those deeds.
+    And truly, for your fault, do I commend you
+    Where is that understanding of our hearts
+    Which is beyond men’s fathom. God be with you.
+
+LAUNCELOT
+
+    Now, must I speak
+    That narrow word which, like a little spring
+    Of water, swells to a dividing flood:
+    _Farewell_. O royal Guenevere, farewell.
+    Dear isle, sweet Britain, where I won renown--
+    All other lands are darkness to your light
+    Which I must leave behind me. Keep my name
+    As one that loved, as one that.... There’s no more!
+    Launcelot passes from this fellowship,
+    This the most noble fellowship of the world,
+    For ever, and the little noise we made
+    In the dull ear of Time so gloriously
+    The streams of silence take.
+    Lord Arthur, though all else be cancelled, yet
+    I keep my oath of fealty; leave me that:
+    And I shall never fail you, heart or hand,
+    While breath is in me. Call me in your need,
+    My sword, my life, are yours.
+
+        [LAUNCELOT _passes out with his Knights. The_ KING’S
+        _followers withdraw aside_.
+
+ARTHUR
+
+    Do you not weep to have lost him, Guenevere?
+    He did to me the wrong that least is pardoned,
+    Yet almost I forget my manhood now.
+
+GUENEVERE
+
+    I am past tears. All I have done and been,
+    Been and endured, I see from far away,
+    As if another in my shape were there
+    Moving through storm and fire.--Have you no word,
+    No reproach for me?
+
+ARTHUR
+
+                        All my thoughts are stript.
+    As trees after the tempest, and life’s bare
+    As winter to the homeless.
+
+GUENEVERE
+
+                               This my heart
+    Did never forge sweet pardons for itself.
+    There is no absolution among men:
+    Give me leave, therefore, to renounce the world
+    And choose the cloister.
+
+ARTHUR
+
+                             Will you take those vows?
+    I doubt not you are guided where you go.
+    What’s broken God may there amend, not we.
+
+GUENEVERE
+
+    There is a nunnery at Amesbury: once
+    I entered there, and found strange peace within.
+    I did not know such peace could be on earth.
+    Suffer me, my lord, to go to Amesbury.
+
+ARTHUR
+
+    So be it.
+
+GUENEVERE
+
+              Put remembrance under stone
+    Where the dead lie and feet pass over them.
+    She that so wronged you has no more a name.
+
+ARTHUR
+
+    Bedivere, take you twenty of my knights
+    And ride to Amesbury. Guard you well the Queen;
+    Let no least harm befall her on the way,
+    No trouble: bear her company till you find
+    Those doors that she will enter. For she vows
+    Her days to the nun’s cloister and small cell,
+    And to that peace which the world gives not.
+
+BEDIVERE
+
+                                                 Sir,
+    We are honoured having so noble a charge laid on us.
+    We shall do all your bidding.
+
+ARTHUR
+
+                                  Set you forth.
+    Farewell, until the last farewell of all!
+
+        (GUENEVERE _passes out, escorted by_ BEDIVERE _and
+        Knights_. ARTHUR _is left alone standing in the solemn
+        light of sunset. He breaks out into a cry._)
+
+    Launcelot, Launcelot! Guenevere, Guenevere!
+
+
+
+
+EIGHTH SCENE
+
+_The Nunnery at Amesbury._ GUENEVERE _is discovered lying prostrate
+on the stone steps_. _A nun_, LYNNED, _enters and lifts her up as she
+speaks to her_.
+
+LYNNED
+
+    Queen, the day calls us; cling not to the night,
+    The stone, the silence. There is flesh and blood
+    Of your own people, threatened and afraid,
+    That calls on you. Though you have cast the robe
+    Of royalty for this (_touching her nun’s garment_), the queenly heart
+    Has room for other sorrow than its own--
+    So cold, my sister? Feel within my arms,
+    Feel in my bosom the warm running blood
+    That neighbours yours.
+
+GUENEVERE
+
+                           I am wearied, wearied out.
+    I would forget, and cannot. My heart’s numbed
+    With aching like my body.
+    I thought that in these walls there should be peace.
+    Tell me, for you have eyes that understand
+    And seem to suffer, tell me the truth, Sister.
+    I know that it is sinful to remember,
+    And yet, is it not treason to forget?
+
+LYNNED
+
+    Grief can grow dear--do I not know it?--grief
+    Can grow too dear. The heart that loses all
+    Must still give all.
+
+GUENEVERE
+
+                         Take not my grief from me,
+    Or there is nothing left to me on earth.
+
+LYNNED
+
+    Nay, grief shall change and grow beyond itself.
+    There’s one now at the gate must speak with you.
+
+GUENEVERE
+
+    Send him away.
+
+LYNNED
+
+                   I cannot.
+
+GUENEVERE
+
+                             Who is he
+    That seeks me? There was one who used to come
+    To me, always, before he rode to battle.
+    His name was Launcelot. That was long ago.
+    I was a Queen then. I have died since then.
+    It is not Launcelot! Leave me then in peace.
+
+LYNNED
+
+    Alas, even here within this cloister wall
+    Is no peace any longer, but all round
+    Imminent tempest, ripe to burst on us,
+    Sir Mordred with his host in rebel arms,
+    Thrice swollen in number, threatens ever nearer.
+    Out of the West he thrusts. This very day
+    May see the issue. Never did the swarm
+    Of Saxon heathen press the King so hard.
+
+GUENEVERE
+
+    Who else could seek me now? Is it the King?
+
+LYNNED
+
+    It is the King.
+
+GUENEVERE
+
+                    I cannot see him.
+
+LYNNED
+
+                                      Think!
+    He is in deadly danger: it may be
+    This is the last time you may look on him.
+
+GUENEVERE
+
+    I cannot.
+
+LYNNED
+
+              Sister, I, too, once denied
+    One who had loved me, when he sought me out
+    For my forgiveness. Gawaine was his name.
+    They had told an evil tale of me, and he
+    Believed it in his sudden wrath, and then
+    Repented, and he came to see me, and I
+    Denied him. Now he is dead, that stormy heart----
+
+GUENEVERE
+
+    Sir Gawaine, dead?
+
+LYNNED
+
+                       Dead of that wound he got
+    By Joyous Gard. The news came even now.
+    I shall not see him now, never again;
+    I, that had all his pardon brimming here.
+    And have no pardon for myself.
+
+GUENEVERE
+
+                                   You, too?
+
+LYNNED
+
+    We are all kneaded of one flesh; wild earth,
+    Yet heavenly seed can spring in it, and peace
+    That comes in the end, but comes not without cost.
+    It is ill shrinking from our sorrow, Queen.
+    Will you not see the King?
+
+GUENEVERE
+
+                               How looked he? Tell me.
+
+LYNNED
+
+    I saw him in the ghostly morning mist
+    Clad in his armour, sitting on his horse.
+    He rides to battle. Almost like a spirit
+    He seemed, and greater than himself.
+                                         When he spoke,
+    His voice was gentle, yet withal commanded.
+    And there was such a shining in his eyes
+    As never yet I saw in any man’s
+    Upon this earth.
+
+GUENEVERE
+
+                     Go, tell him----
+
+        (ARTHUR _appears at the back, as a shadow among the
+        shadows, emerging into the light till he stands near_
+        GUENEVERE.)
+
+LYNNED
+
+                                      He is here.
+
+        (LYNNED _glides away as the King appears. He has an
+        exalted, strange, and almost transfigured air._)
+
+ARTHUR
+
+    Guenevere!
+
+GUENEVERE
+
+               Why do you bring me back that ache
+    And the sharp memory of all I thirst
+    To have forgotten?
+    Do you come now to forgive me?
+    Standing apart, to pardon?
+    Only the truth is worthy of what we are.
+    I have wept tears that scald the soul, and yet
+    I do my heart of hearts wrong, if I say
+    That I repent of all.
+
+ARTHUR
+
+                          If I were he
+    You knew in other time, if I were he
+    Who had no eyes but for his distant goal,
+    And saw not the things nearest to his heart--
+    But he is passed.
+
+GUENEVERE
+
+                      You speak with a new voice.
+    But I am as the dead who cannot change:
+    Burnt out. I feel not, only see, from far,
+    The unending desolation I have made.
+
+ARTHUR
+
+    I too, I too see, Guenevere. I see
+    Your spirit, and my spirit, and that one
+    Who stands between us; and I see the realm,
+    I dreamed to make one flawless crystal, cracked
+    To fragments; and the loss, the waste. But now
+    I am come, through anguish and against my will,
+    Into a light that shows me what I am,
+    And where I go, and what endures beyond.
+    Were it not for the pain, I had not known.
+    In ignorance we tear each other’s hearts.
+    Know you, Gawaine is gone, dead of his wound?
+
+GUENEVERE
+
+    I know it.
+
+ARTHUR
+
+               Know you, the great heart in him
+    Turned once again to Launcelot at the last?
+    The old love flooded over that dark hate:
+    He knew that Launcelot loved him to the end
+    From the beginning. Guenevere, my light
+    Came then: I knew that Launcelot loved me
+    Not less, but more, because he did me wrong;
+    And I began to understand that love,
+    Which knows not good or evil, but gives all,
+    Because it turns as flowers do to the sun
+    And goes like stream to sea.
+
+GUENEVERE
+
+                                 I did the wrong.
+    Through me the young have perished, the young men
+    Have fallen in their blood.
+    From me a woe goes welling through the world
+    Like waves in the black night.
+
+ARTHUR
+
+                                   From me, from me!
+    In the beginning was my fault. I feel
+    The end upon me, like the air of dawn,
+    And see in light that is not of the earth
+    What we have done to each other, and left undone.
+    I in my far dream of that perfect realm,
+    Clouded in cares of policy and state,
+    Saw not what burning soul was at my side,
+    Wanting the love that sees through human eyes
+    And by love understands. I was blind. Now
+    I am borne beyond Time’s wisdom and that fear
+    Which moulds men’s justice. What am I, to speak
+    Pardon or condemnation? I am come
+    To humbleness that cries, “Father, forgive!
+    We know not what we did.” It is I that say,
+    “My Queen, forgive me.” Speak not any word.
+    Your eyes have spoken. Guenevere, I go
+    To battle. Give me your farewell.
+
+GUENEVERE
+
+                                      To battle!
+    Never an end of battle!
+
+ARTHUR
+
+                            Mordred stands,
+    Ready to strike; and men, that I have made
+    From nothing, now are Mordred’s. That name sucks
+    All secret poison to itself. Yonder
+    He waits me. I shall overthrow him--this
+    Is a fight to put my soul in--yet a voice
+    Within my heart assures me that I go
+    To the last of all my battles.
+
+GUENEVERE
+
+                                   To the last?
+
+ARTHUR
+
+    I feel the wizard sword Excalibur
+    Like an impatient spirit within my hand,
+    As if he heard voices recalling me
+    Out of this ended world. But I am freed;
+    I am forgiven; the dark load is off.
+    Say me farewell, Guenevere.
+
+GUENEVERE
+
+                                Now you go
+    Into your mortal peril, and go alone,
+    Maimed of your strong right hand,
+    Of Launcelot, that loved you. Woe on me!
+    The very meanest of your serving men
+    That bears a weapon has the better right
+    Than she who was your Queen to follow you
+    Even with her prayers.
+
+ARTHUR
+
+                           Give me your prayers, I ask them.
+    Christ, that loved men and women, comfort you.
+
+GUENEVERE
+
+    God keep my lord. I have no words any more.
+
+ARTHUR
+
+    The day goes to the night,
+    And I to darkness, with my toil undone.
+    Yet something, surely, something shall remain.
+    A seed is sown in Britain, Guenevere;
+    And whether men wait for a hundred years
+    Or for a thousand, they shall find it flower
+    In youth unborn. The young have gone before me,
+    The maid Elaine, Gareth, and Gaheris--hearts
+    Without a price, poured out. But now I know
+    The tender and passionate spirit that burned in them
+    To dare all and endure all, lives and moves,
+    And though the dark comes down upon our waste,
+    Lives ever, like the sun above all storms;
+    This old world shall behold it shine again
+    To prove what splendour men have power to shape
+    From mere mortality.
+                         Farewell! That peace
+    Which can remember, and yet hope, because
+    Love makes us greater than we know, come to you,
+    Guenevere!
+
+        [_He disappears into the shadows, and the scene closes in._
+
+
+NINTH SCENE
+
+_Same as Eighth Scene. Early light._ GUENEVERE _is discovered with a
+young_ NOVICE.
+
+GUENEVERE
+
+    What hour is it?
+
+FIRST NOVICE
+
+                     Madam, struck six.
+
+GUENEVERE
+
+                                        Still rumour,
+    And never the one certain thing. Two hours
+    Since any word came how the battle goes.
+    Yet all night long
+    Have our replenished torches flamed to guide
+    The bearers of the wounded to our gates.
+
+FIRST NOVICE
+
+    Cloister and ante-chapel both are filled;
+    And still they bring them in, dying and dead.
+    Never was seen such slaughter in the world.
+
+GUENEVERE
+
+    Still no news of the King!
+
+        (_A pause._)
+
+_Enter_ SECOND NOVICE.
+
+SECOND NOVICE
+
+                               News, Madam!
+
+GUENEVERE
+
+                                            Speak.
+
+SECOND NOVICE
+
+    There came a rider spurring from the West;
+    His head was badged with blood. He implored speech
+    Passionately, as heavy with his news,
+    Of the Sister Lynned. She has quit the task
+    That keeps her with those wounded ones, and gone
+    To the gate to meet him. He is named, they say,
+    Sir Bedivere.
+
+GUENEVERE
+
+                  The King’s friend. He will bring
+    News of the King.
+
+FIRST NOVICE
+
+                      Madam, the Sister comes.
+
+    _Enter_ LYNNED.
+
+LYNNED
+
+    Our Reverend Mother Abbess needs more hands
+    To bind those many wounds up. Go to her.
+
+        [_The_ NOVICES _go out, leaving_ GUENEVERE _and_ LYNNED
+        _facing each other._
+
+GUENEVERE
+
+    There’s tidings on your face. The King is dead!
+
+LYNNED
+
+    The King is dead. The flower of Kings is fallen.
+
+        (_A pause._)
+
+    Lucan is dead, Pelleas and Sagramore,
+    Lamorak, Meliot, Pellenore, Ozanna;
+    That famous fellowship of knights is dust.
+
+GUENEVERE
+
+    Who shall let leap his bright sword in the air?
+    In what cause? There is no cause any more.
+    What tidings brought Sir Bedivere? Tell all.
+
+LYNNED
+
+    The rebel power is broken, and he that raised it
+    Dead. Woe on us that the King died with him!
+    Upon a field all mounded with the slain,
+    The bloodiest harvest Time did ever reap,
+    He and the traitor Mordred met their last
+    And smote each other, even to the death.
+    From a seashore that seemed the end of earth
+    (So tells Sir Bedivere, like a ghost himself)
+    Men fled into the tumble of the tides
+    And the waves choked them falling; the salt spray
+    Stung them: but “Never saw I fire,” said he,
+    “Of such an indignation fill the King
+    Seeking for Mordred. At the last he spied him
+    Among the heaped dead, leaning on his sword,
+    And cried aloud and smote him; and that traitor,
+    Even as he gasped his bitter soul out, struck
+    On our anointed.”
+
+GUENEVERE
+
+                      Arthur, Arthur!
+
+LYNNED
+
+                                      Yet
+    Not there he died, though hurt to death: in his arms
+    Sir Bedivere upbore him to a mere
+    Deep in the hills. There the King bade him ride
+    To Amesbury--ride swift and tell the Queen,
+    How, ere he died, he had sent words of love,
+    Of old, long love to Launcelot overseas;
+    With his life’s blood his secret heart gushed out
+    In love for Launcelot and his Queen. With that
+    Sir Bedivere departed; but so loth
+    That soon he came again, and lo! the King
+    Was no more there, but in the place was sound
+    He knew not whether of water or in the air,
+    A music new to mortals, and the smell
+    As of flowers floating through the dark, as if
+    The passing of that spirit sweetened earth.
+    And he remembered how it was foretold
+    That three sad Queens should fetch King Arthur home
+    Across the water of Avalon to his rest.
+
+        (_A chant is faintly heard in the distance during this last
+        speech._)
+
+
+GUENEVERE
+
+    I am the cost. They are fallen, those famous ones
+    Who made this kingdom glorious, they are fallen
+    About their King; they have yielded up their strength
+    And beauty and valour.
+
+        (_The convent bell begins to toll._)
+
+                           The grieving bell begins,
+    As if it were the mouth and voice of Death
+    Emptying the earth of honour and renown.
+    I was the cost of all.
+
+LYNNED
+
+                           Lift up your heart!
+    Out of such pain the immortal part of us
+    Is tempered. The King passes: even now
+    He is ferried over that lamenting mere,
+    And voices from the starred air sing him home.
+    But for us, tarriers in this wounded world,
+    Love, only love, that knows no measure, love
+    That understands all sorrows and all sins,
+    Love that alone changes the hearts of men,
+    And gives to the last heart-beat, only love
+    Suffices. Come we apart and pray awhile
+    For the noble and great spirits passed from us.
+
+        (_The chant is heard nearer, and rises louder as the
+        scene closes in darkness. After a pause the gloom melts,
+        gradually revealing a wide distance of moonlit water, over
+        which glides a barge, bearing_ KING ARTHUR, _and the three
+        Queens sorrowing over him, to the island of Avalon._)
+
+
+
+
+Transcriber’s Notes
+
+Obvious typographical errors have been silently corrected. Variations
+in hyphenation and accents have been standardised but all other
+spelling and punctuation remains unchanged.
+
+Italics are represented thus _italic_.
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK ARTHUR ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
