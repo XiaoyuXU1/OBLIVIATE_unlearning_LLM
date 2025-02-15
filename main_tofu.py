@@ -607,7 +607,7 @@ def main():
         forget_prompts_list.append(compress_list(forget_combined_list[j], target_size=len(forget_combined_list[j])))
     
     # sensitive_path = ["data/TOFU/sensitive_tokens_forget01.txt", "data/TOFU/sensitive_tokens_forget05.txt", "data/TOFU/sensitive_tokens_forget10.txt"]
-    sensitive_path = ["data/TOFU/sensitive_tokens_forget10.txt"]
+    target_path = ["data/TOFU/sensitive_tokens_forget10.txt"]
     for i in range(len(forget_prompts_list)):
         start_time = time.time()
         forget_list = forget_prompts_list[i]
@@ -618,7 +618,7 @@ def main():
         accelerator = Accelerator()  # Distributed training
         
         # Load sensitive words
-        sensitive_tokens = load_sensitive_words(sensitive_path[i])
+        target_tokens = load_sensitive_words(target_path[i])
         
         # Prepare documents. `documents` combines two sets, `generic_documents` is biological knowledge
         documents = forget_list
@@ -646,7 +646,7 @@ def main():
         model_train_with_lora(
             dataloader,
             generic_documents,
-            sensitive_tokens,
+            target_tokens,
             teacher_model,
             other_documents,
             model,
