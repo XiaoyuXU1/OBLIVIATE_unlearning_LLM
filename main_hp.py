@@ -531,9 +531,9 @@ def main():
     documents = load_documents(document_file_path)
     generic_documents = load_documents(generic_document_file_path)
     other_documents = load_documents(other_documents_file_path)
-    sensitive_token_file_path = 'data/HP/sensitive_hp.npy'
-    anchored_expressions_dictionary = prepare_dict(sensitive_token_file_path)
-    sensitive_tokens = list(anchored_expressions_dictionary.keys())
+    target_token_file_path = 'data/HP/sensitive_hp.npy'
+    anchored_expressions_dictionary = prepare_dict(target_token_file_path)
+    target_tokens = list(anchored_expressions_dictionary.keys())
     model, tokenizer = prepare_lora_model(model_name)
     teacher_model = AutoModelForCausalLM.from_pretrained(
         model_name,
@@ -548,7 +548,7 @@ def main():
         dataloader,
         generic_documents,
         generic_document_file_path,
-        sensitive_tokens,
+        target_tokens,
         document_file_path,
         teacher_model,
         other_documents,
