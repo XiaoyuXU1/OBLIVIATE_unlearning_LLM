@@ -606,8 +606,7 @@ def main():
         retain_prompts_list.append(retain_combined_list[j][0:len(forget_combined_list[j])])
         forget_prompts_list.append(compress_list(forget_combined_list[j], target_size=len(forget_combined_list[j])))
     
-    # sensitive_path = ["data/TOFU/sensitive_tokens_forget01.txt", "data/TOFU/sensitive_tokens_forget05.txt", "data/TOFU/sensitive_tokens_forget10.txt"]
-    target_path = ["data/TOFU/sensitive_tokens_forget10.txt"]
+    targe_path = ["data/TOFU/sensitive_tokens_forget01.txt", "data/TOFU/sensitive_tokens_forget05.txt", "data/TOFU/sensitive_tokens_forget10.txt"]
     for i in range(len(forget_prompts_list)):
         start_time = time.time()
         forget_list = forget_prompts_list[i]
@@ -659,6 +658,19 @@ def main():
         )
         end_time = time.time()
         print(f"Training time: {end_time - start_time:.2f} seconds")
-
+                # Clear cache
+        # Ensure all processes synchronize
+        if torch.distributed.is_initialized():
+            torch.distributed.barrier()
+        
+        del model, tokenizer, teacher_model, dataloader, dataset, documents, generic_documents, approximate_documents, sensitive_tokens
+        gc.collect()
+        torch.cuda.empty_cache()
+        
+        # Synchronize again to ensure GPU memory cleanup is complete
+        if torch.distributed.is_initialized():
+            torch.distributed.barrier()
+        print(f"Iteration {i} completed and memory cleared.")
+        
 if __name__ == "__main__":
     main()
