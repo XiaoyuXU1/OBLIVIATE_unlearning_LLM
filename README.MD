@@ -22,6 +22,7 @@ python -m spacy download en_core_web_sm
 We collect and provide the "generic and other styles documents," "fluency_questions," and "target tokens," which are used for fine-tuning and evaluation. The forget sets, including Harry Potter, WMDP, TOFU are collected from other papers (**Who's Harry Potter? Approximate Unlearning in LLMs**), (**TOFU: A Task of Fictitious Unlearning for LLMs**), (**The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning**)
 
 ### 3. Use the following command to Reproduce Experimental Results
+The model LoRA weights are stored in Lora_model/HP/, Lora_model/WMDP/ or Lora_model/TOFU/.
 **For Harry Potter**
 ```
 accelerate launch --gpu_ids='all' main_hp.py
