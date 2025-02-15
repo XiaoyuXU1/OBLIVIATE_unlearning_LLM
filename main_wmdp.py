@@ -613,9 +613,9 @@ def main():
     # Load sensitive word dictionaries
     bio_path = "data/WMDP/sensitive_tokens_bio.txt"
     cyber_path = "data/WMDP/sensitive_tokens_cyber.txt"
-    sensitive_words_bio = load_sensitive_words(bio_path)
-    sensitive_words_cyber = load_sensitive_words(cyber_path)
-    sensitive_tokens = sensitive_words_bio + sensitive_words_cyber
+    target_words_bio = load_sensitive_words(bio_path)
+    target_words_cyber = load_sensitive_words(cyber_path)
+    target_tokens = target_words_bio + target_words_cyber
     
     # Prepare documents; `documents` is a combination of two sets, `generic_documents` represents biological knowledge, `approximate_documents` represents cybersecurity knowledge
     documents = forget_list
@@ -643,7 +643,7 @@ def main():
     model_train_with_lora(
         dataloader,
         generic_documents,
-        sensitive_tokens,
+        target_tokens,
         teacher_model,
         other_documents,
         model,
