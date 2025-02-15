@@ -8,6 +8,7 @@ It employs a structured approach by first ``extracting'' target tokens and retai
 In order to reproduce our results, take the following steps:
 
 ### 1. Create conda environment and install requirements
+```
 conda create -n unlearn python=3.10.15
 conda activate unlearn
 conda install pytorch==2.2.0 pytorch-cuda=11.8 -c pytorch -c nvidia
